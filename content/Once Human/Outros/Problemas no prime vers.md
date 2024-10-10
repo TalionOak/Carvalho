@@ -1,3 +1,8 @@
+---
+tags:
+  - onceHuman
+  - post
+---
 Construção de bases em áreas inacessíveis (jogadores constroem bases no topo de montanhas ou ilhas com zonas fechadas atrás e apenas uma subida íngreme), impossíveis de serem tomadas, mesmo com mais jogadores) --> Necessidade de zonas de construção restritas
 
 Construção de bases subaquáticas (não sei como, mas obviamente quando você nada, não pode atirar ou lançar C4) --> Restrição de construção de bases subaquáticas

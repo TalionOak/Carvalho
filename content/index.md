@@ -1,6 +1,9 @@
 ---
 title: Bem-vinda ao meu Cantinho 🌟
 ---
+> [!tip]- Onde me encontrar
+> [Youtube](https://www.youtube.com/@TalionJoga/featured) |  [Instagram](http://instagram.com/talionoak) |  [Discord](https://discord.gg/4rzacdb7b4)
+
 É com grande alegria que os recebo neste cantinho especial do meu universo digital. Este é o meu espaço no **Obsidian**, uma ferramenta incrível que me permite organizar pensamentos, ideias e conhecimentos de forma interconectada.
 
 ### O que é o Obsidian?

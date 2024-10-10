@@ -92,15 +92,7 @@ export function renderPage(
             }
 
             node.children = [
-              normalizeHastElement(blockNode, slug, transcludeTarget),
-              {
-                type: "element",
-                tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-                children: [
-                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-                ],
-              },
+              normalizeHastElement(blockNode, slug, transcludeTarget)
             ]
           }
         } else if (blockRef?.startsWith("#") && page.htmlAst) {
