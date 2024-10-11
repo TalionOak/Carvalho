@@ -35,3 +35,20 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |      ![[Lembrança de Bombardeiro.png]]       |      [[Lembrança de Bombardeiro]]       | ![[Lembrança de Bombardeiro#^7d8635]]           |
 |      ![[Super Carregado.png]]       |      [[Super Carregado]]       | ![[Super Carregado#^7d8635]]           |
 
+## Ricochete
+
+|              Icone              |            Mod             | Onde Pegar                         |
+| :-----------------------------: | :------------------------: | ---------------------------------- |
+|      ![[Fúria de Ricochetes.png]]       |      [[Fúria de Ricochetes]]       | ![[Fúria de Ricochetes#^7d8635]]           |
+|      ![[Não desperdice seu tiro.png]]       |      [[Não desperdice seu tiro]]       | ![[Não desperdice seu tiro#^7d8635]]           |
+|      ![[Ricochete Teleguiado.png]]       |      [[Ricochete Teleguiado]]       | ![[Ricochete Teleguiado#^7d8635]]           |
+|      ![[Superbala.png]]       |      [[Superbala]]       | ![[Superbala#^7d8635]]           |
+
+## Estilhaço
+
+|              Icone              |            Mod             | Onde Pegar                         |
+| :-----------------------------: | :------------------------: | ---------------------------------- |
+|      ![[Destrua tudo.png]]       |      [[Destrua tudo]]       | ![[Destrua tudo#^7d8635]]           |
+|      ![[Estilhaços Devastadores.png]]       |      [[Estilhaços Devastadores]]       | ![[Estilhaços Devastadores#^7d8635]]           |
+|      ![[Lembranças de Estilhaços.png]]       |      [[Lembranças de Estilhaços]]       | ![[Lembranças de Estilhaços#^7d8635]]           |
+|      ![[Quebra-Escudos.png]]       |      [[Quebra-Escudos]]       | ![[Quebra-Escudos#^7d8635]]           |
