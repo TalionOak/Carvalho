@@ -1,12 +1,12 @@
 Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, passe o mouse em cima ou clique no **nome do mod.**
 ## Queimadura
 
-|              Icone              |            Mod             | Onde Pegar                         |
-| :-----------------------------: | :------------------------: | ---------------------------------- |
-|      ![[Ira Ardente.png]]       |      [[Ira Ardente]]       | ![[Ira Ardente#^7d8635]]           |
+|              Icone              |            Mod             | Onde Pegar                          |
+| :-----------------------------: | :------------------------: | ----------------------------------- |
+|      ![[Ira Ardente.png]]       |      [[Ira Ardente]]       | ![[Ira Ardente#^7d8635]]            |
 | ![[Ressonância Flamejante.png]] | [[Ressonância Flamejante]] | ![[Ressonância Flamejante#^7d8635]] |
-|      ![[Brasas.png]]       |      [[Brasas]]       | ![[Brasas#^7d8635]]           |
-|      ![[Bênção Incendiária.png]]       |      [[Bênção Incendiária]]       | ![[Bênção Incendiária#^7d8635]]           |
+|         ![[Brasas.png]]         |         [[Brasas]]         | ![[Brasas#^7d8635]]                 |
+|   ![[Bênção Incendiária.png]]   |   [[Bênção Incendiária]]   | ![[Bênção Incendiária#^7d8635]]     |
 
 ## Vórtice Congelante
 
@@ -52,3 +52,4 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |      ![[Estilhaços Devastadores.png]]       |      [[Estilhaços Devastadores]]       | ![[Estilhaços Devastadores#^7d8635]]           |
 |      ![[Lembranças de Estilhaços.png]]       |      [[Lembranças de Estilhaços]]       | ![[Lembranças de Estilhaços#^7d8635]]           |
 |      ![[Quebra-Escudos.png]]       |      [[Quebra-Escudos]]       | ![[Quebra-Escudos#^7d8635]]           |
+
