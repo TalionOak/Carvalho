@@ -1,3 +1,6 @@
+
+Lista completinha de todas as roupas e seus benefícios, infelizmente em inglês.. quando sair o cenário oficialmente, deixo em português!
+
 | Slot | Nome  | Efeito  |
 | :-------: | :---: | :-----: |
 |HAT|Deer Hide|DMG Reduction +3% while sprinting.|
