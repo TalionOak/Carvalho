@@ -5,8 +5,8 @@ tags:
   - queimadura
 ---
 
-|        Icone         | Efeito                                                                                           |
-| :------------------: | ------------------------------------------------------------------------------------------------ |
+|           Icone           | Efeito                                                                                           |
+| :-----------------------: | ------------------------------------------------------------------------------------------------ |
 | ![[Ira Ardente.png\|100]] | Acionar Queimadura tem 25% de chance de conceder um aumento de +1 no(s) acúmulo(s) de Queimadura |
 
 ## Onde pegar

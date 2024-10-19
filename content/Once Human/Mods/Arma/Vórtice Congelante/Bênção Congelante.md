@@ -21,3 +21,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Serviçal secreto: Normal, Difícil e Pro
+
+^085145

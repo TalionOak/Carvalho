@@ -1,39 +1,39 @@
 Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, passe o mouse em cima ou clique no **nome do mod.**
 ## Queimadura
 
-|              Icone              |            Mod             | Onde Pegar                          |
-| :-----------------------------: | :------------------------: | :----------------------------------: |
-|      ![[Ira Ardente.png\|100]]       |      [[Ira Ardente]]       | ![[Ira Ardente#^7d8635]]            |
+|                Icone                 |            Mod             |             Onde Pegar              |
+| :----------------------------------: | :------------------------: | :---------------------------------: |
+|      ![[Ira Ardente.png\|100]]       |      [[Ira Ardente]]       |      ![[Ira Ardente#^7d8635]]       |
 | ![[Ressonância Flamejante.png\|100]] | [[Ressonância Flamejante]] | ![[Ressonância Flamejante#^7d8635]] |
-|         ![[Brasas.png\|100]]         |         [[Brasas]]         | ![[Brasas#^7d8635]]                 |
-|   ![[Bênção Incendiária.png\|100]]   |   [[Bênção Incendiária]]   | ![[Bênção Incendiária#^7d8635]]     |
+|         ![[Brasas.png\|100]]         |         [[Brasas]]         |         ![[Brasas#^7d8635]]         |
+|   ![[Bênção Incendiária.png\|100]]   |   [[Bênção Incendiária]]   |   ![[Bênção Incendiária#^7d8635]] |     
 
 ## Vórtice Congelante
 
 |              Icone              |            Mod             | Onde Pegar                         |
 | :-----------------------------: | :------------------------: | :----------------------------------: |
-|      ![[Bênção Congelante.png\|100]]       |      [[Bênção Congelante]]       | ![[Bênção Congelante#^7d8635]]           |
-|      ![[Explosão Criogênica.png\|100]]       |      [[Explosão Criogênica]]       | ![[Explosão Criogênica#^7d8635]]           |
-|      ![[Gelo Estilhaçante.png\|100]]       |      [[Gelo Estilhaçante]]       | ![[Gelo Estilhaçante#^7d8635]]           |
-|      ![[Multiplicador de Vórtice.png\|100]]       |      [[Multiplicador de Vórtice]]       | ![[Multiplicador de Vórtice#^7d8635]]           |
+|      ![[Bênção Congelante.png\|100]]       |      [[Bênção Congelante]]       | ![[Bênção Congelante#^7d8635]] ![[Bênção Congelante#^085145]]  |
+|      ![[Explosão Criogênica.png\|100]]       |      [[Explosão Criogênica]]       | ![[Explosão Criogênica#^7d8635]]  ![[Explosão Criogênica#^085145]] |
+|      ![[Gelo Estilhaçante.png\|100]]       |      [[Gelo Estilhaçante]]       | ![[Gelo Estilhaçante#^7d8635]] ![[Gelo Estilhaçante#^085145]]   |
+|      ![[Multiplicador de Vórtice.png\|100]]       |      [[Multiplicador de Vórtice]]       | ![[Multiplicador de Vórtice#^7d8635]] ![[Multiplicador de Vórtice#^085145]] |
 
 ## Sobrecarga de Energia
 
 |              Icone              |            Mod             | Onde Pegar                         |
 | :-----------------------------: | :------------------------: | :----------------------------------: |
-|      ![[Amplificador de Surto.png\|100]]       |      [[Amplificador de Surto]]       | ![[Amplificador de Surto#^7d8635]]           |
-|      ![[Choque Estático.png\|100]]       |      [[Choque Estático]]       | ![[Choque Estático#^7d8635]]           |
-|      ![[Difusão de Choque.png\|100]]       |      [[Difusão de Choque]]       | ![[Difusão de Choque#^7d8635]]           |
-|      ![[Fúria de Choque.png\|100]]       |      [[Fúria de Choque]]       | ![[Fúria de Choque#^7d8635]]           |
+|      ![[Amplificador de Surto.png\|100]]       |      [[Amplificador de Surto]]       | ![[Amplificador de Surto#^7d8635]] ![[Amplificador de Surto#^085145]]|
+|      ![[Choque Estático.png\|100]]       |      [[Choque Estático]]       | ![[Choque Estático#^7d8635]] ![[Choque Estático#^085145]]|
+|      ![[Difusão de Choque.png\|100]]       |      [[Difusão de Choque]]       | ![[Difusão de Choque#^7d8635]] ![[Difusão de Choque#^085145]]|
+|      ![[Fúria de Choque.png\|100]]       |      [[Fúria de Choque]]       | ![[Fúria de Choque#^7d8635]] ![[Fúria de Choque#^085145]]|
 
 ## Bombardeiro Instável
 
 |              Icone              |            Mod             | Onde Pegar                         |
 | :-----------------------------: | :------------------------: | :----------------------------------: |
-|      ![[Bombardeiro Imprudente.png\|100]]       |      [[Bombardeiro Imprudente]]       | ![[Bombardeiro Imprudente#^7d8635]]           |
-|      ![[Explosivos Pesados.png\|100]]       |      [[Explosivos Pesados]]       | ![[Explosivos Pesados#^7d8635]]           |
-|      ![[Lembrança de Bombardeiro.png\|100]]       |      [[Lembrança de Bombardeiro]]       | ![[Lembrança de Bombardeiro#^7d8635]]           |
-|      ![[Super Carregado.png\|100]]       |      [[Super Carregado]]       | ![[Super Carregado#^7d8635]]           |
+|      ![[Bombardeiro Imprudente.png\|100]]       |      [[Bombardeiro Imprudente]]       | ![[Bombardeiro Imprudente#^7d8635]] ![[Bombardeiro Imprudente#^085145]]|
+|      ![[Explosivos Pesados.png\|100]]       |      [[Explosivos Pesados]]       | ![[Explosivos Pesados#^7d8635]] ![[Explosivos Pesados#^085145]]|
+|      ![[Lembrança de Bombardeiro.png\|100]]       |      [[Lembrança de Bombardeiro]]       | ![[Lembrança de Bombardeiro#^7d8635]]  ![[Lembrança de Bombardeiro#^085145]] |
+|      ![[Super Carregado.png\|100]]       |      [[Super Carregado]]       | ![[Super Carregado#^7d8635]] ![[Super Carregado#^085145]]|
 
 ## Ricochete
 
