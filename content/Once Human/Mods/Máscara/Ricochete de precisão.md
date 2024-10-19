@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|    ![[Ricochete de precisão.png]]  |    O 6º Ricochete é um Ricochete Preciso e causa um aumento de +100% de Dano como acerto crítico.    |
 
 ## Onde pegar
 

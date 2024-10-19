@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Blitzkrieg.png]]   |   Atirador Veloz acumula até +5 vezes, concedendo um aumento de +1% na Cadência de Tiro para cada acúmulo.     |
 
 ## Onde pegar
 

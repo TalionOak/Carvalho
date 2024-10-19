@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Trovoada.png]]   |    Após ativar Sobrecarga de Energia 20 vezes, o próximo ataque invoca Trovão Celestial (Dano de Choque de 200% Intensidade Psíquica).    |
 
 ## Onde pegar
 

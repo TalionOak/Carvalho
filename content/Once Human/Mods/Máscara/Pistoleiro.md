@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|  ![[Pistoleiro.png]]    |     Enquanto estiver no estado Atirador Veloz, o Dano em Ponto Fraco aumenta em +30%.   |
 
 ## Onde pegar
 

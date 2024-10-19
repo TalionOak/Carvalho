@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Explosão atrasada.png]]   |   Antes da bomba explodir, para cada 5 acertos recebidos, o Dano Supremo da bomba aumenta em 25%.     |
 
 ## Onde pegar
 

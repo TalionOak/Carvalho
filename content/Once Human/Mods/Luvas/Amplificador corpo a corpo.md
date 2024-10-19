@@ -2,19 +2,19 @@
 tags:
   - onceHuman
   - mod
-  - máscara
+  - luvas
 ---
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|  ![[Amplificador corpo a corpo.png]]    |     Dano de Corpo a Corpo +20.0%   |
 
 ## Onde pegar
 
 - Você pode encontrar abrindo [[Caixas de armadura]] ou fazendo os chefões nos cenários:
 
 > [!Abstract]- Manibus e Chamado da evolução
-> - Silo EX1: Normal, Difícil e Pro  
+> - Silo SIGMA: Difícil e Pro  
 > - Lea Lab: Pro
 
 ^7d8635

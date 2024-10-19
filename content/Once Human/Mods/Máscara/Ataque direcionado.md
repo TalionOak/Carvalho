@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Ataque direcionado.png]]   |  Ao atingir inimigos marcados, Taxa de Crít. + 10% e Dano Crít. +25%.    |
 
 ## Onde pegar
 

@@ -121,3 +121,36 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |    ![[Golpe isolado.png\|100]]     |    [[Golpe isolado]]     |    ![[Golpe isolado#^7d8635]]     |
 |    ![[Hora do rush.png\|100]]     |    [[Hora do rush]]     |    ![[Hora do rush#^7d8635]]     |
 |    ![[Investida feroz.png\|100]]     |    [[Investida feroz]]     |    ![[Investida feroz#^7d8635]]     |
+
+
+## Luvas
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Amplificador corpo a corpo.png\|100]]     |    [[Amplificador corpo a corpo]]     |    ![[Amplificador corpo a corpo#^7d8635]]     |
+|    ![[Amplificador de crítico.png\|100]]     |    [[Amplificador de crítico]]     |    ![[Amplificador de crítico#^7d8635]]     |
+|    ![[Amplificador de munição.png\|100]]     |    [[Amplificador de munição]]     |    ![[Amplificador de munição#^7d8635]]     |
+|    ![[Aprimoramento de Status.png\|100]]     |    [[Aprimoramento de Status]]     |    ![[Aprimoramento de Status#^7d8635]]     |
+|    ![[Impulso de Crít..png\|100]]     |    [[Impulso de Crít.]]     |    ![[Impulso de Crít.#^7d8635]]     |
+|    ![[Reforço de Dano em Pontos fracos.png\|100]]     |    [[Reforço de Dano em Pontos fracos]]     |    ![[Reforço de Dano em Pontos fracos#^7d8635]]     |
+|    ![[Sobrecarga elemental.png\|100]]     |    [[Sobrecarga elemental]]     |    ![[Sobrecarga elemental#^7d8635]]     |
+
+## Calçados
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Amplificador de chamas.png\|100]]     |    [[Amplificador de chamas]]     |    ![[Amplificador de chamas#^7d8635]]     |
+|    ![[Ataque direcionado.png\|100]]     |    [[Ataque direcionado]]     |    ![[Ataque direcionado#^7d8635]]     |
+|    ![[Ataque preciso.png\|100]]     |    [[Ataque preciso]]     |    ![[Ataque preciso#^7d8635]]     |
+|    ![[Blitzkrieg.png\|100]]     |    [[Blitzkrieg]]     |    ![[Blitzkrieg#^7d8635]]     |
+|    ![[Carnificina de estilhaços.png\|100]]     |    [[Carnificina de estilhaços]]     |    ![[Carnificina de estilhaços#^7d8635]]     |
+|    ![[Congelante permanente.png\|100]]     |    [[Congelante permanente]]     |    ![[Congelante permanente#^7d8635]]     |
+|    ![[Estilhaço explosivo.png\|100]]     |    [[Estilhaço explosivo]]     |    ![[Estilhaço explosivo#^7d8635]]     |
+|    ![[Explosão atrasada.png\|100]]     |    [[Explosão atrasada]]     |    ![[Explosão atrasada#^7d8635]]     |
+|    ![[Maior procurado.png\|100]]     |    [[Maior procurado]]     |    ![[Maior procurado#^7d8635]]     |
+|    ![[Obliteração.png\|100]]     |    [[Obliteração]]     |    ![[Obliteração#^7d8635]]     |
+|    ![[Pistoleiro.png\|100]]     |    [[Pistoleiro]]     |    ![[Pistoleiro#^7d8635]]     |
+|    ![[Primeira eletrocussão.png\|100]]     |    [[Primeira eletrocussão]]     |    ![[Primeira eletrocussão#^7d8635]]     |
+|    ![[Quebra de ricochete.png\|100]]     |    [[Quebra de ricochete]]     |    ![[Quebra de ricochete#^7d8635]]     |
+|    ![[Ricochete de precisão.png\|100]]     |    [[Ricochete de precisão]]     |    ![[Ricochete de precisão#^7d8635]]     |
+|    ![[Trovoada.png\|100]]     |    [[Trovoada]]     |    ![[Trovoada#^7d8635]]     |

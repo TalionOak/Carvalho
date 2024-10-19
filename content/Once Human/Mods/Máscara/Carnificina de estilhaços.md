@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Carnificina de estilhaços.png]]   |     Peso de Acerto no Ponto Fraco de Estilhaço aumenta em 100%, e o Dano de Ponto Fraco de Estilhaço aumenta em 25%.   |
 
 ## Onde pegar
 

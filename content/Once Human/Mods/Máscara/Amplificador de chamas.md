@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Amplificador de chamas.png]]   |    Cada acúmulo de Queimadura concede +3% de Dano de Intensidade Psíquica.    |
 
 ## Onde pegar
 

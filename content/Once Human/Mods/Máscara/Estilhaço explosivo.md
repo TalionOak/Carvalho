@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Estilhaço explosivo.png]]   |   O 20° Estilhaço é explosivo e causa um aumento de +300% de Dano como acerto crítico.     |
 
 ## Onde pegar
 

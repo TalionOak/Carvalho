@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|    ![[Obliteração.png]]  |   Quanto mais inimigos estiverem dentro do Vórtice Congelante, maior será o dano final causado por ele, com um aumento de até + 60%.     |
 
 ## Onde pegar
 

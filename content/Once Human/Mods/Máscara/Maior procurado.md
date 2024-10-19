@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|    ![[Maior procurado.png]]  |     Toda vez que um inimigo é marcado, Ataque +5% por 8s. O efeito pode acumular até 3 vezes.   |
 
 ## Onde pegar
 

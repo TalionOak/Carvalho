@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|  ![[Congelante permanente.png]]    |  Quanto mais tempo o Vortice Congelante durar, maior será o seu dano final, com um acréscimo de até +60%.     |
 
 ## Onde pegar
 

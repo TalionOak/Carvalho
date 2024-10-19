@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Ataque preciso.png]]   |   Quando o Bombardeiro Instável atinge apenas um inimigo, o Dano Final aumenta em +25%.     |
 
 ## Onde pegar
 
