@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Ceifador implacável.png]]   |    Após acumular 2 eliminação(ões), recarrega 100% do seu carregador com suas reservas.    |
 
 ## Onde pegar
 

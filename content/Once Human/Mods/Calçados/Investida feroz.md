@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Investida feroz.png]]   |    Matar inimigos em até 10 metros concede Dano de Corpo a Corpo, de Arma e de Status +20% por 8s.    |
 
 ## Onde pegar
 

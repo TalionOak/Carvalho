@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Devagar e sempre.png]]   |     +10% de Dano Corpo a Corpo, de Arma e de Estado. Quando o PV estiver acima de 90%, causa Dano adicional de +10%.   |
 
 ## Onde pegar
 

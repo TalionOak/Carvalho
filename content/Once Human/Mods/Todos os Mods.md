@@ -111,3 +111,13 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 | ![[Vantagem de resistência.png\|100]] | [[Vantagem de resistência]] | ![[Vantagem de resistência#^7d8635]] |
 
 
+## Calçados
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Avanço protegido.png\|100]]     |    [[Avanço protegido]]     |    ![[Avanço protegido#^7d8635]]     |
+|    ![[Ceifador implacável.png\|100]]     |    [[Ceifador implacável]]     |    ![[Ceifador implacável#^7d8635]]     |
+|    ![[Devagar e sempre.png\|100]]     |    [[Devagar e sempre]]     |    ![[Devagar e sempre#^7d8635]]     |
+|    ![[Golpe isolado.png\|100]]     |    [[Golpe isolado]]     |    ![[Golpe isolado#^7d8635]]     |
+|    ![[Hora do rush.png\|100]]     |    [[Hora do rush]]     |    ![[Hora do rush#^7d8635]]     |
+|    ![[Investida feroz.png\|100]]     |    [[Investida feroz]]     |    ![[Investida feroz#^7d8635]]     |

@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|      |        |
+|   ![[Golpe isolado.png]]   |    Não ter inimigos em um raio de 7 metros concede +15% de Dano de Arma e Dano de Status.    |
 
 ## Onde pegar
 
