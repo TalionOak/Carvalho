@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|       |        |
+|   ![[Rejuvenescimento.png]]    |    Quando o PV estiver acima de 60%, uma abate recupera 15% do PV perdido.    |
 
 ## Onde pegar
 

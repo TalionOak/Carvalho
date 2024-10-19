@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|       |        |
+|   ![[Imunidade a status.png]]    |    Quando seu PV estiverem abaixo de 60%, remove todos os Estados de Mutação (tempo de recarga: 15s).    |
 
 ## Onde pegar
 

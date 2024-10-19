@@ -96,3 +96,18 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |       ![[Vantagem do primeiro ataque.png\|100]]       |       [[Vantagem do primeiro ataque]]       | ![[Vantagem do primeiro ataque#^7d8635]]             |
 
 
+## Vestimenta superior
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Confronto direto.png\|100]]     |    [[Confronto direto]]     |    ![[Confronto direto#^7d8635]]     |
+|    ![[Escudo resistente.png\|100]]    |    [[Escudo resistente]]    |    ![[Escudo resistente#^7d8635]]    |
+|  ![[Fortificação de cura.png\|100]]   |  [[Fortificação de cura]]   |  ![[Fortificação de cura#^7d8635]]   |
+|    ![[Guarda principal.png\|100]]     |    [[Guarda principal]]     |    ![[Guarda principal#^7d8635]]     |
+|   ![[Imunidade a status.png\|100]]    |   [[Imunidade a status]]    |   ![[Imunidade a status#^7d8635]]    |
+|   ![[Recuperação rápida.png\|100]]    |   [[Recuperação rápida]]    |   ![[Recuperação rápida#^7d8635]]    |
+|    ![[Rejuvenescimento.png\|100]]     |    [[Rejuvenescimento]]     |    ![[Rejuvenescimento#^7d8635]]     |
+|     ![[Resgate crítico.png\|100]]     |     [[Resgate crítico]]     |     ![[Resgate crítico#^7d8635]]     |
+| ![[Vantagem de resistência.png\|100]] | [[Vantagem de resistência]] | ![[Vantagem de resistência#^7d8635]] |
+
+

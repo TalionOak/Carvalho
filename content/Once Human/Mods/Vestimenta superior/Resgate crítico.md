@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|       |        |
+|    ![[Resgate crítico.png]]   |     Redução de Dano de 20% e Cura Recebida de +20% quando os PV estão abaixo de 30%.   |
 
 ## Onde pegar
 

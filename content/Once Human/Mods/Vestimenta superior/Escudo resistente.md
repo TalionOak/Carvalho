@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|       |        |
+|   ![[Escudo resistente.png]]    |    Quando fora de combate, você ganha 1 acúmulo de Refúgio Seguro a cada 5s, com um máximo de 5 acúmulos. Para cada 5 de Dano sofrido, um acúmulo de Refúgio Seguro é removido para fornecer 8% de Escudo por 3s.    |
 
 ## Onde pegar
 

@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|       |        |
+|   ![[Fortificação de cura.png]]    |     Ao usar um tiro de cura, Redução de Dano 40% por 2s.   |
 
 ## Onde pegar
 

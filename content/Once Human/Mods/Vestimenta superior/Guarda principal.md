@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|       |        |
+|    ![[Guarda principal.png]]   |   Quando o PV estiver acima de 70%, a área da cabeça deixa de ser um ponto fraco.     |
 
 ## Onde pegar
 
