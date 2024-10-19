@@ -82,3 +82,17 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |       ![[Marca de Recuperação.png\|100]]       |       [[Marca de Recuperação]]       | ![[Marca de Recuperação#^7d8635]]             |
 |       ![[Marcas de Propagação.png\|100]]       |       [[Marcas de Propagação]]       | ![[Marcas de Propagação#^7d8635]]             |
 
+## Capacete
+
+|               Icone               |             Mod              | Onde Pegar                            |
+| :-----------------------------: | :------------------------: | :----------------------------------: |
+|       ![[Aumento de impulso.png\|100]]       |       [[Aumento de impulso]]       | ![[Aumento de impulso#^7d8635]]             |
+|       ![[Caos elemental.png\|100]]       |       [[Caos elemental]]       | ![[Caos elemental#^7d8635]]             |
+|       ![[Especialista em mutação.png\|100]]       |       [[Especialista em mutação]]       | ![[Especialista em mutação#^7d8635]]             |
+|       ![[Expansão do carregador.png\|100]]       |       [[Expansão do carregador]]       | ![[Expansão do carregador#^7d8635]]             |
+|       ![[Golpe Fatal.png\|100]]       |       [[Golpe Fatal]]       | ![[Golpe Fatal#^7d8635]]             |
+|       ![[Golpe preciso.png\|100]]       |       [[Golpe preciso]]       | ![[Golpe preciso#^7d8635]]             |
+|       ![[Obra de proficiência.png\|100]]       |       [[Obra de proficiência]]       | ![[Obra de proficiência#^7d8635]]             |
+|       ![[Vantagem do primeiro ataque.png\|100]]       |       [[Vantagem do primeiro ataque]]       | ![[Vantagem do primeiro ataque#^7d8635]]             |
+
+
