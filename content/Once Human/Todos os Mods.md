@@ -135,7 +135,7 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |    ![[Reforço de Dano em Pontos fracos.png\|100]]     |    [[Reforço de Dano em Pontos fracos]]     |    ![[Reforço de Dano em Pontos fracos#^7d8635]]     |
 |    ![[Sobrecarga elemental.png\|100]]     |    [[Sobrecarga elemental]]     |    ![[Sobrecarga elemental#^7d8635]]     |
 
-## Calçados
+## Máscara
 
 |                 Icone                 |             Mod             |              Onde Pegar              |
 | :-----------------------------------: | :-------------------------: | :----------------------------------: |
