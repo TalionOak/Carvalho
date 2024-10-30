@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|    ![[Obra de proficiência.png]]   |    Ao recarregar com o carregador vazio, a Velocidade de Recarga aumenta em +10% e o Dano Elemental em +20% por 5s. O efeito é reiniciado na próxima recarga.    |
+|    ![[Obra de proficiência.png\|100]]   |    Ao recarregar com o carregador vazio, a Velocidade de Recarga aumenta em +10% e o Dano Elemental em +20% por 5s. O efeito é reiniciado na próxima recarga.    |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

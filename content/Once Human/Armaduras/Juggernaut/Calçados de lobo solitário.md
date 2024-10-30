@@ -1,0 +1,1 @@
+![[Calçados de lobo solitário.png]]

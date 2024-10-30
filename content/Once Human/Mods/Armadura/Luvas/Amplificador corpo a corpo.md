@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|  ![[Amplificador corpo a corpo.png]]    |     Dano de Corpo a Corpo +20.0%   |
+|  ![[Amplificador corpo a corpo.png\|100]]    |     Dano de Corpo a Corpo +20.0%   |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

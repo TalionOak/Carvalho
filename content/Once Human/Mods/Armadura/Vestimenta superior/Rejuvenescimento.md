@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Rejuvenescimento.png]]    |    Quando o PV estiver acima de 60%, uma abate recupera 15% do PV perdido.    |
+|   ![[Rejuvenescimento.png\|100]]    |    Quando o PV estiver acima de 60%, uma abate recupera 15% do PV perdido.    |
 
 ## Onde pegar
 
@@ -18,4 +18,11 @@ tags:
 > - Lea Lab: Pro
 
 ^7d8635
+
+> [!Abstract]- O caminho do inverno
+> - Silo PSI: Normal, Difícil e Pro  
+> - Silo 08: Difícil e Pro  
+> - Nevoa: Pro
+
+^085145
 

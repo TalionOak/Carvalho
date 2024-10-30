@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|    ![[Guarda principal.png]]   |   Quando o PV estiver acima de 70%, a área da cabeça deixa de ser um ponto fraco.     |
+|    ![[Guarda principal.png\|100]]   |   Quando o PV estiver acima de 70%, a área da cabeça deixa de ser um ponto fraco.     |
 
 ## Onde pegar
 
@@ -18,4 +18,11 @@ tags:
 > - Lea Lab: Pro
 
 ^7d8635
+
+> [!Abstract]- O caminho do inverno
+> - Silo PSI: Normal, Difícil e Pro  
+> - Silo 08: Difícil e Pro  
+> - Nevoa: Pro
+
+^085145
 

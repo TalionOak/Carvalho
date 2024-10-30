@@ -1,0 +1,1 @@
+![[Jaqueta de lobo solitário.png]]

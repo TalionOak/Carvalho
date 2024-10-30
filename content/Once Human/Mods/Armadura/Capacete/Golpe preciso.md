@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Golpe preciso.png]]    |   Acertar um ponto fraco concede Dano de Ponto fraco +12% por 3s. O efeito pode acumular 3 vezes.     |
+|   ![[Golpe preciso.png\|100]]    |   Acertar um ponto fraco concede Dano de Ponto fraco +12% por 3s. O efeito pode acumular 3 vezes.     |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

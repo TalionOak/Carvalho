@@ -7,7 +7,7 @@ tags:
 
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
-| ![[Vantagem do primeiro ataque.png]] | Após recarregar, Taxa de Crít. +10%, Dano Crítico. +20% por 2s. |
+| ![[Vantagem do primeiro ataque.png\|100]] | Após recarregar, Taxa de Crít. +10%, Dano Crítico. +20% por 2s. |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

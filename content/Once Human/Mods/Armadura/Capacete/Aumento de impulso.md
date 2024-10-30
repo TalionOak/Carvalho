@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|     ![[Aumento de impulso.png]]  |   Cadência de Tiro +10% para os primeiros 50% do carregador e Dano de Arma +30% para os próximos 50% do carregador.     |
+|     ![[Aumento de impulso.png\|100]]  |   Cadência de Tiro +10% para os primeiros 50% do carregador e Dano de Arma +30% para os próximos 50% do carregador.     |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

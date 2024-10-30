@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"37493da264e5e339","type":"text","text":"# Atributos dos Mods\n\n## Violento\n- Dano Crítico\n- Dano de Arma\n- Capacidade do Carregador\n- Bônus de velocidade de recarga\n\n## Queimadura\n- Dano de Queimadura\n- Chance de Acionamento de Queimadura\n- Dano Incendiário\n- Dano contra os magníficos","x":-1260,"y":-392,"width":357,"height":484},
+		{"id":"52bca6a3fdfa3d72","type":"text","text":"Arma","x":152,"y":120,"width":250,"height":60},
+		{"id":"8f946e10e413acc8","type":"file","file":"Once Human/Mods/Arma/Queimadura/Ira Ardente.md","x":-680,"y":-220,"width":400,"height":400},
+		{"id":"9c11a726ac64a3cc","type":"text","text":"Chapeu","x":200,"y":320,"width":250,"height":60},
+		{"id":"9b94416fc0fae142","type":"text","text":"Mascara","x":200,"y":419,"width":250,"height":50},
+		{"id":"3083e50aba3a5fba","type":"text","text":"Luvas","x":200,"y":499,"width":250,"height":60},
+		{"id":"6e2ebff76e1c52de","type":"text","text":"Botas","x":200,"y":599,"width":250,"height":60},
+		{"id":"e8bd7bca69024434","type":"text","text":"Jaqueta","x":200,"y":699,"width":250,"height":56},
+		{"id":"39d81be4f4ce5a67","type":"text","text":"Calças","x":200,"y":799,"width":250,"height":60},
+		{"id":"88d6cab6e2941d96","type":"text","text":"Explosao Retraida\n","x":-210,"y":529,"width":250,"height":60},
+		{"id":"ce9821f735dc0caa","type":"file","file":"Once Human/Mods/Armadura/Capacete/Golpe Fatal.md","x":-720,"y":299,"width":400,"height":400},
+		{"id":"53d1d2aa6e980376","type":"file","file":"Once Human/Mods/Armadura/Vestimenta superior/Recuperação rápida.md","x":-660,"y":755,"width":400,"height":400},
+		{"id":"9968769d60d4808c","type":"text","text":"Tiro Certeiro","x":-260,"y":667,"width":250,"height":60},
+		{"id":"a171b298d7116b5c","type":"file","file":"Once Human/Mods/Armadura/Luvas/Impulso de Crít..md","x":660,"y":499,"width":400,"height":400},
+		{"id":"f04d74611977c24a","type":"file","file":"Once Human/Mods/Armadura/Calçados/Avanço protegido.md","x":620,"y":1000,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f2b3f6a63b51652e","fromNode":"8f946e10e413acc8","fromSide":"right","toNode":"52bca6a3fdfa3d72","toSide":"left"},
+		{"id":"74ba997a1df9f10b","fromNode":"ce9821f735dc0caa","fromSide":"right","toNode":"9c11a726ac64a3cc","toSide":"left"},
+		{"id":"a2c2d660da0eb948","fromNode":"88d6cab6e2941d96","fromSide":"right","toNode":"9b94416fc0fae142","toSide":"left"},
+		{"id":"42efd87addb89f35","fromNode":"53d1d2aa6e980376","fromSide":"right","toNode":"e8bd7bca69024434","toSide":"left"},
+		{"id":"264ff6f1835b245a","fromNode":"9968769d60d4808c","fromSide":"right","toNode":"39d81be4f4ce5a67","toSide":"left"},
+		{"id":"346d02ba4fdc994f","fromNode":"a171b298d7116b5c","fromSide":"left","toNode":"3083e50aba3a5fba","toSide":"right"},
+		{"id":"d6329460b6dcb59d","fromNode":"f04d74611977c24a","fromSide":"left","toNode":"6e2ebff76e1c52de","toSide":"right"}
+	]
+}

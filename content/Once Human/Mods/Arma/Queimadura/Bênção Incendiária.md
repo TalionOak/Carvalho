@@ -21,5 +21,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Ente: Normal, Difícil e Pro
+> - Nevoa: Pro
 
-
+^085145

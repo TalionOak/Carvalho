@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Fortificação de cura.png]]    |     Ao usar um tiro de cura, Redução de Dano 40% por 2s.   |
+|   ![[Fortificação de cura.png\|100]]    |     Ao usar um tiro de cura, Redução de Dano 40% por 2s.   |
 
 ## Onde pegar
 
@@ -18,4 +18,11 @@ tags:
 > - Lea Lab: Pro
 
 ^7d8635
+
+> [!Abstract]- O caminho do inverno
+> - Silo PSI: Normal, Difícil e Pro  
+> - Silo 08: Difícil e Pro  
+> - Nevoa: Pro
+
+^085145
 

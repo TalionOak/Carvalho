@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Amplificador de munição.png]]   |    Dano de Arma +15,0%    |
+|   ![[Amplificador de munição.png\|100]]   |    Dano de Arma +15,0%    |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

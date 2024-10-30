@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Vantagem de resistência.png]]    |  Quando fora de combate, ganhe 1 acúmulo de 510% Redução de Dano a cada 5s. O efeito pode acumular até 5 vezes. 1 acúmulo é removido ao ser atingido.      |
+|   ![[Vantagem de resistência.png\|100]]    |  Quando fora de combate, ganhe 1 acúmulo de 510% Redução de Dano a cada 5s. O efeito pode acumular até 5 vezes. 1 acúmulo é removido ao ser atingido.      |
 
 ## Onde pegar
 
@@ -19,3 +19,9 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo PSI: Normal, Difícil e Pro  
+> - Silo 08: Difícil e Pro  
+> - Nevoa: Pro
+
+^085145

@@ -23,6 +23,7 @@ tags:
 
 > [!Abstract]- O caminho do inverno
 > - [[Serviçal secreto]]: Normal, Difícil e Pro
+> - Nevoa: Pro
 
 ^085145
 

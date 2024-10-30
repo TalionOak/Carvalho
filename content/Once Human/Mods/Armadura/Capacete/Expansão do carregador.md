@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|    ![[Expansão do carregador.png]]   |    Quando o carregador estiver vazio, a Capacidade do Carregador é de +30%.    |
+|    ![[Expansão do carregador.png\|100]]   |    Quando o carregador estiver vazio, a Capacidade do Carregador é de +30%.    |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

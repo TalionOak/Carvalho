@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Golpe isolado.png]]   |    Não ter inimigos em um raio de 7 metros concede +15% de Dano de Arma e Dano de Status.    |
+|   ![[Golpe isolado.png\|100]]   |    Não ter inimigos em um raio de 7 metros concede +15% de Dano de Arma e Dano de Status.    |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

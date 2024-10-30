@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Golpe Fatal.png]]    |   Não pode causar Dano de Ponto fraco. Taxa de Crít. +10% e Dano Crít. +30%.     |
+|   ![[Golpe Fatal.png\|100]]    |   Não pode causar Dano de Ponto fraco. Taxa de Crít. +10% e Dano Crít. +30%.     |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

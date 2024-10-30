@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Impulso de Crít..png]]   |    Imposto Crítico +15,0%    |
+|   ![[Impulso de Crít..png\|100]]   |    Imposto Crítico +15,0%    |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

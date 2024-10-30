@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Investida feroz.png]]   |    Matar inimigos em até 10 metros concede Dano de Corpo a Corpo, de Arma e de Status +20% por 8s.    |
+|   ![[Investida feroz.png\|100]]   |    Matar inimigos em até 10 metros concede Dano de Corpo a Corpo, de Arma e de Status +20% por 8s.    |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

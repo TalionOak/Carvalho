@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Reforço de Dano em Pontos fracos.png]]   |     Dano de Ponto fraco +25.0%   |
+|   ![[Reforço de Dano em Pontos fracos.png\|100]]   |     Dano de Ponto fraco +25.0%   |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

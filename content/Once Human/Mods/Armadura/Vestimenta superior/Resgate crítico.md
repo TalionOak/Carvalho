@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|    ![[Resgate crítico.png]]   |     Redução de Dano de 20% e Cura Recebida de +20% quando os PV estão abaixo de 30%.   |
+|    ![[Resgate crítico.png\|100]]   |     Redução de Dano de 20% e Cura Recebida de +20% quando os PV estão abaixo de 30%.   |
 
 ## Onde pegar
 
@@ -19,3 +19,9 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo PSI: Normal, Difícil e Pro  
+> - Silo 08: Difícil e Pro  
+> - Nevoa: Pro
+
+^085145

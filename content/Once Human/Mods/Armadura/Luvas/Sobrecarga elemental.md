@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Sobrecarga elemental.png]]   |   Dano Elemental (Incendiário, Congelante, Choque, Explosão) +18%     |
+|   ![[Sobrecarga elemental.png\|100]]   |   Dano Elemental (Incendiário, Congelante, Choque, Explosão) +18%     |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

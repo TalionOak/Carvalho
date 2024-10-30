@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|    ![[Caos elemental.png]]   |    Dano Elemental +10%. Quando o PV estiver acima de 90%, +10% adicionais.    |
+|    ![[Caos elemental.png\|100]]   |    Dano Elemental +10%. Quando o PV estiver acima de 90%, +10% adicionais.    |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

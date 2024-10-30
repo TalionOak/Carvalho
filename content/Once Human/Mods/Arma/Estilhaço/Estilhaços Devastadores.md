@@ -20,3 +20,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Gigante esquecido: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

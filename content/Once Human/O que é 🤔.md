@@ -12,3 +12,4 @@ Desenvolvido pela NetEase Games, o jogo combina elementos de crafting, exploraç
 > 
 > - [[Once Human/Outros|Outros]]
 > - [[Todos os Mods]]
+> - [[Roupas e seus benefícios|Todos os Couros e seus buffs]]

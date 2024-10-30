@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Hora do rush.png]]   | A cada 10% de PV perdido, concede +4% de Dano Corpo a Corpo, de Arma e de Atributo.       |
+|   ![[Hora do rush.png\|100]]   | A cada 10% de PV perdido, concede +4% de Dano Corpo a Corpo, de Arma e de Atributo.       |
 
 ## Onde pegar
 
@@ -19,3 +19,8 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo DELTA: Normal, Difícil e Pro
+> - Nevoa: Pro
+
+^085145

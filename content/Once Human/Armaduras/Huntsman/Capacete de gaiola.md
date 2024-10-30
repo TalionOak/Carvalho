@@ -1,0 +1,1 @@
+![[Capacete de gaiola.png]]

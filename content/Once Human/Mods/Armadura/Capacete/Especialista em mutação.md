@@ -7,7 +7,7 @@ tags:
 
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
-| ![[Especialista em mutação.png]] | -25% de Alcance, +10% de Cadência de Tiro, +20% de Dano de Status |
+| ![[Especialista em mutação.png\|100]] | -25% de Alcance, +10% de Cadência de Tiro, +20% de Dano de Status |
 
 ## Onde pegar
 
@@ -19,3 +19,7 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo 08: Normal, Difícil e Pro  
+
+^085145

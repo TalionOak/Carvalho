@@ -7,7 +7,7 @@ tags:
 
 | Icone | Efeito |
 | :---: | ------ |
-|   ![[Imunidade a status.png]]    |    Quando seu PV estiverem abaixo de 60%, remove todos os Estados de Mutação (tempo de recarga: 15s).    |
+|   ![[Imunidade a status.png\|100]]    |    Quando seu PV estiverem abaixo de 60%, remove todos os Estados de Mutação (tempo de recarga: 15s).    |
 
 ## Onde pegar
 
@@ -19,3 +19,9 @@ tags:
 
 ^7d8635
 
+> [!Abstract]- O caminho do inverno
+> - Silo PSI: Normal, Difícil e Pro  
+> - Silo 08: Difícil e Pro  
+> - Nevoa: Pro
+
+^085145
