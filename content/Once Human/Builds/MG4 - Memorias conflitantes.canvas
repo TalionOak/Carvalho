@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"d1f6e4bf99042d18","type":"file","file":"Once Human/Itens/Armas/Beyonder/MG4 - Memórias conflitantes.md","x":-340,"y":-380,"width":360,"height":280},
+		{"id":"6683e4d9423c23d9","x":-600,"y":200,"width":390,"height":234,"type":"file","file":"Once Human/Itens/Armaduras/Huntsman/Capacete de gaiola.md"},
+		{"id":"350779036dd547f2","x":-160,"y":200,"width":400,"height":236,"type":"file","file":"Once Human/Itens/Armaduras/Beyonder/Máscara de Bastilha.md"},
+		{"id":"c6e1c508434f2843","x":320,"y":200,"width":440,"height":250,"type":"file","file":"Once Human/Itens/Armaduras/Juggernaut/Calças de lobo solitário.md"},
+		{"id":"76bca96a2354a176","x":-600,"y":520,"width":400,"height":247,"type":"file","file":"Once Human/Itens/Armaduras/Juggernaut/Luvas de lobo solitário.md"},
+		{"id":"a3f5a164654fa764","x":-160,"y":520,"width":400,"height":250,"type":"file","file":"Once Human/Itens/Armaduras/Juggernaut/Jaqueta de lobo solitário.md"},
+		{"id":"99220af492699bf2","x":320,"y":520,"width":440,"height":250,"type":"file","file":"Once Human/Itens/Armaduras/Juggernaut/Calçados de lobo solitário.md"}
+	],
+	"edges":[]
+}
