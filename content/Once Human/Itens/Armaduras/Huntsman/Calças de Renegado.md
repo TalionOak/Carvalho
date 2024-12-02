@@ -1,0 +1,1 @@
+![[Calças de Renegado.png]]

@@ -5,9 +5,9 @@ tags:
   - ricochete
 ---
 
-|              Icone              | Efeito                                                       |
-| :-----------------------------: | ------------------------------------------------------------ |
-| ![[Ricochete Teleguiado.png\|100]] | Taxa de Crít. de Ricochete +10%, Dano Crít. de Ricochete +25% |
+|               Icone                | Efeito                                         |
+| :--------------------------------: | ---------------------------------------------- |
+| ![[Ricochete Teleguiado.png\|100]] | Prioridade de Ponto fraco de Ricochete + 300%. |
 
 ## Onde pegar
 

@@ -1,0 +1,1 @@
+![[Luvas de Renegado.png]]

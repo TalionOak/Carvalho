@@ -5,9 +5,9 @@ tags:
   - máscara
 ---
 
-| Icone | Efeito |
-| :---: | ------ |
-|   ![[Quebra de ricochete.png\|100]]   |    Atirador Veloz acumula até +5 vezes, concedendo um aumento de +1% na Cadência de Tiro para cada acúmulo.    |
+|               Icone               | Efeito                                                                                         |
+| :-------------------------------: | ---------------------------------------------------------------------------------------------- |
+| ![[Quebra de ricochete.png\|100]] | Quando uma bala atinge um inimigo com mais de 50% de PV, o Dano final da bala aumenta em +50%. |
 
 ## Onde pegar
 

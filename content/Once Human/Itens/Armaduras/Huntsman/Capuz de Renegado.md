@@ -1,0 +1,1 @@
+![[Capuz de Renegado.png]]

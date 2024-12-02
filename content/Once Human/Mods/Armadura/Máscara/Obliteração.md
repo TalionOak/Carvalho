@@ -5,9 +5,9 @@ tags:
   - máscara
 ---
 
-| Icone | Efeito |
-| :---: | ------ |
-|    ![[Obliteração.png\|100]]  |   Quanto mais inimigos estiverem dentro do Vórtice Congelante, maior será o dano final causado por ele, com um aumento de até + 60%.     |
+|           Icone           | Efeito                                                                                                |
+| :-----------------------: | ----------------------------------------------------------------------------------------------------- |
+| ![[Obliteração.png\|100]] | Dano Final do Vórtice de Gelo +20%; cada inimigo adicional dentro do vórtice adiciona +20%, até +40%. |
 
 ## Onde pegar
 
