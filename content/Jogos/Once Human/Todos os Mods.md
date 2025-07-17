@@ -1,4 +1,6 @@
 Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, passe o mouse em cima ou clique no **nome do mod.**
+
+# Armas
 ## Queimadura
 
 |                Icone                 |            Mod             |             Onde Pegar              |
@@ -40,8 +42,8 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |              Icone               |             Mod             | Onde Pegar                           |
 | :-----------------------------: | :------------------------: | :----------------------------------: |
 |   ![[Fúria de Ricochetes.png\|100]]   |   [[Fúria de Ricochetes]]   | ![[Fúria de Ricochetes#^7d8635]] ![[Fúria de Ricochetes#^085145]] |
-| ![[Não desperdice seu tiro.png\|100]] | [[Não desperdice seu tiro]] | ![[Não desperdice seu tiro#^7d8635]] ![[Não desperdice seu tiro#^085145]] |
-|  ![[Ricochete Teleguiado.png\|100]]   |  [[Ricochete Teleguiado]]   | ![[Ricochete Teleguiado#^7d8635]] ![[Ricochete Teleguiado#^085145]] |
+| ![[Não desperdice seu tiro.png\|100]] | [[Bala Bumerangue]] | ![[Bala Bumerangue#^7d8635]] ![[Bala Bumerangue#^085145]] |
+|  ![[Ricochete Teleguiado.png\|100]]   |  [[Ricochete múltiplo]]   | ![[Ricochete múltiplo#^7d8635]] ![[Ricochete múltiplo#^085145]] |
 |        ![[Superbala.png\|100]]        |        [[Superbala]]        | ![[Superbala#^7d8635]] ![[Superbala#^085145]]    |
 
 ## Estilhaço
@@ -75,14 +77,13 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 
 ## Na Mosca
 
-|               Icone               |             Mod              | Onde Pegar                            |
-| :-----------------------------: | :------------------------: | :----------------------------------: |
-|       ![[Amplificador de Vulnerabilidade.png\|100]]       |       [[Amplificador de Vulnerabilidade]]       | ![[Amplificador de Vulnerabilidade#^7d8635]] ![[Amplificador de Vulnerabilidade#^085145]]|
-|       ![[Benefício de Caçador.png\|100]]       |       [[Benefício de Caçador]]       | ![[Benefício de Caçador#^7d8635]] ![[Benefício de Caçador#^085145]]|
-|       ![[Marca de Recuperação.png\|100]]       |       [[Marca de Recuperação]]       | ![[Marca de Recuperação#^7d8635]] ![[Marca de Recuperação#^085145]]|
-|       ![[Marcas de Propagação.png\|100]]       |       [[Marcas de Propagação]]       | ![[Marcas de Propagação#^7d8635]]![[Marcas de Propagação#^085145]]|
-
-## Capacete
+|                     Icone                     |                 Mod                 |                                        Onde Pegar                                         |
+| :-------------------------------------------: | :---------------------------------: | :---------------------------------------------------------------------------------------: |
+| ![[Amplificador de Vulnerabilidade.png\|100]] | [[Amplificador de Vulnerabilidade]] | ![[Amplificador de Vulnerabilidade#^7d8635]] ![[Amplificador de Vulnerabilidade#^085145]] |
+|      ![[Benefício de Caçador.png\|100]]       |      [[Benefício de Caçador]]       |            ![[Benefício de Caçador#^7d8635]] ![[Benefício de Caçador#^085145]]            |
+|      ![[Marca de Recuperação.png\|100]]       |      [[Marca de Recuperação]]       |            ![[Marca de Recuperação#^7d8635]] ![[Marca de Recuperação#^085145]]            |
+|      ![[Marcas de Propagação.png\|100]]       |      [[Marcas de Propagação]]       |            ![[Marcas de Propagação#^7d8635]]![[Marcas de Propagação#^085145]]             |
+# Capacete
 
 |               Icone               |             Mod              | Onde Pegar                            |
 | :-----------------------------: | :------------------------: | :----------------------------------: |
@@ -96,58 +97,7 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |       ![[Vantagem do primeiro ataque.png\|100]]       |       [[Vantagem do primeiro ataque]]       | ![[Vantagem do primeiro ataque#^7d8635]] ![[Vantagem do primeiro ataque#^085145]]|
 
 
-## Vestimenta superior
-
-|                 Icone                 |             Mod             |              Onde Pegar              |
-| :-----------------------------------: | :-------------------------: | :----------------------------------: |
-|    ![[Confronto direto.png\|100]]     |    [[Confronto direto]]     |    ![[Confronto direto#^7d8635]]        ![[Confronto direto#^085145]] |
-|    ![[Escudo resistente.png\|100]]    |    [[Escudo resistente]]    |    ![[Escudo resistente#^7d8635]]       ![[Escudo resistente#^085145]] |
-|  ![[Fortificação de cura.png\|100]]   |  [[Fortificação de cura]]   |  ![[Fortificação de cura#^7d8635]]    ![[Fortificação de cura#^085145]] |
-|    ![[Guarda principal.png\|100]]     |    [[Guarda principal]]     |    ![[Guarda principal#^7d8635]]        ![[Guarda principal#^085145]] |
-|   ![[Imunidade a status.png\|100]]    |   [[Imunidade a status]]    |   ![[Imunidade a status#^7d8635]]      ![[Imunidade a status#^085145]] |
-|   ![[Recuperação rápida.png\|100]]    |   [[Recuperação rápida]]    |   ![[Recuperação rápida#^7d8635]]      ![[Recuperação rápida#^085145]] |
-|    ![[Rejuvenescimento.png\|100]]     |    [[Rejuvenescimento]]     |    ![[Rejuvenescimento#^7d8635]]        ![[Rejuvenescimento#^085145]] |
-|     ![[Resgate crítico.png\|100]]     |     [[Resgate crítico]]     |     ![[Resgate crítico#^7d8635]]         ![[Resgate crítico#^085145]] |
-| ![[Vantagem de resistência.png\|100]] | [[Vantagem de resistência]] | ![[Vantagem de resistência#^7d8635]] ![[Vantagem de resistência#^085145]] |
-
-## Calças
-
-|                 Icone                 |             Mod             |              Onde Pegar              |
-| :-----------------------------------: | :-------------------------: | :----------------------------------: |
-|    ![[Aumento anormal.png\|100]]      |    [[Aumento anormal]]      |    ![[Aumento anormal#^7d8635]]      ![[Aumento anormal#^085145]] |
-|    ![[Carga de precisão.png\|100]]    |    [[Carga de precisão]]    |    ![[Carga de precisão#^7d8635]]    ![[Carga de precisão#^085145]] |
-|    ![[Imparável.png\|100]]            |    [[Imparável]]            |    ![[Imparável#^7d8635]]            ![[Imparável#^085145]] |
-|    ![[Ímpeto corpo a corpo.png\|100]] |    [[Ímpeto corpo a corpo]] |    ![[Ímpeto corpo a corpo#^7d8635]] ![[Ímpeto corpo a corpo#^085145]] |
-|    ![[Recarga furiosa.png\|100]]      |    [[Recarga furiosa]]      |    ![[Recarga furiosa#^7d8635]]      ![[Recarga furiosa#^085145]] |
-|    ![[Sifão de bala.png\|100]]        |    [[Sifão de bala]]        |    ![[Sifão de bala#^7d8635]]        ![[Sifão de bala#^085145]] |
-|    ![[Tiro certeiro.png\|100]]        |    [[Tiro certeiro]]        |    ![[Tiro certeiro#^7d8635]]        ![[Tiro certeiro#^085145]] |
-|    ![[Três golpes.png\|100]]          |    [[Três golpes]]          |    ![[Três golpes#^7d8635]]          ![[Três golpes#^085145]] |
-
-## Calçados
-
-|                 Icone                 |             Mod             |              Onde Pegar              |
-| :-----------------------------------: | :-------------------------: | :----------------------------------: |
-|    ![[Avanço protegido.png\|100]]     |    [[Avanço protegido]]     |    ![[Avanço protegido#^7d8635]] ![[Avanço protegido#^085145]] |
-|    ![[Ceifador implacável.png\|100]]     |    [[Ceifador implacável]]     |    ![[Ceifador implacável#^7d8635]]  ![[Ceifador implacável#^085145]]|
-|    ![[Devagar e sempre.png\|100]]     |    [[Devagar e sempre]]     |    ![[Devagar e sempre#^7d8635]]  ![[Devagar e sempre#^085145]]|
-|    ![[Golpe isolado.png\|100]]     |    [[Golpe isolado]]     |    ![[Golpe isolado#^7d8635]]  ![[Golpe isolado#^085145]]|
-|    ![[Hora do rush.png\|100]]     |    [[Hora do rush]]     |    ![[Hora do rush#^7d8635]]  ![[Hora do rush#^085145]]|
-|    ![[Investida feroz.png\|100]]     |    [[Investida feroz]]     |    ![[Investida feroz#^7d8635]]  ![[Investida feroz#^085145]]|
-
-
-## Luvas
-
-|                 Icone                 |             Mod             |              Onde Pegar              |
-| :-----------------------------------: | :-------------------------: | :----------------------------------: |
-|    ![[Amplificador corpo a corpo.png\|100]]     |    [[Amplificador corpo a corpo]]     |    ![[Amplificador corpo a corpo#^7d8635]] ![[Amplificador corpo a corpo#^085145]] ||
-|    ![[Amplificador de crítico.png\|100]]     |    [[Amplificador de crítico]]     |    ![[Amplificador de crítico#^7d8635]] ![[Amplificador de crítico#^085145]] ||
-|    ![[Amplificador de munição.png\|100]]     |    [[Amplificador de munição]]     |    ![[Amplificador de munição#^7d8635]] ![[Amplificador de munição#^085145]] ||
-|    ![[Aprimoramento de Status.png\|100]]     |    [[Aprimoramento de Status]]     |    ![[Aprimoramento de Status#^7d8635]] ![[Aprimoramento de Status#^085145]] ||
-|    ![[Impulso de Crít..png\|100]]     |    [[Impulso de Crít.]]     |    ![[Impulso de Crít.#^7d8635]] ![[Impulso de Crít.#^085145]] ||
-|    ![[Reforço de Dano em Pontos fracos.png\|100]]     |    [[Reforço de Dano em Pontos fracos]]     |    ![[Reforço de Dano em Pontos fracos#^7d8635]] ![[Reforço de Dano em Pontos fracos#^085145]] ||
-|    ![[Sobrecarga elemental.png\|100]]     |    [[Sobrecarga elemental]]     |    ![[Sobrecarga elemental#^7d8635]] ![[Sobrecarga elemental#^085145]] ||
-
-## Máscara
+# Máscara
 
 |                 Icone                 |             Mod             |              Onde Pegar              |
 | :-----------------------------------: | :-------------------------: | :----------------------------------: |
@@ -169,3 +119,56 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |    ![[Explosão retraída.png\|100]]     |    [[Explosão retraída]]           |    ![[Explosão retraída#^7d8635]]      ![[Explosão retraída#^085145]]|
 |    ![[Inquebrável.png\|100]]     |    [[Inquebrável]]                       |    ![[Inquebrável#^7d8635]]      ![[Inquebrável#^085145]]|
 |    ![[Canhão de luz.png\|100]]     |    [[Canhão de luz]]                   |    ![[Canhão de luz#^7d8635]]      ![[Canhão de luz#^085145]]|
+
+# Vestimenta superior
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Confronto direto.png\|100]]     |    [[Confronto direto]]     |    ![[Confronto direto#^7d8635]]        ![[Confronto direto#^085145]] |
+|    ![[Escudo resistente.png\|100]]    |    [[Escudo resistente]]    |    ![[Escudo resistente#^7d8635]]       ![[Escudo resistente#^085145]] |
+|  ![[Fortificação de cura.png\|100]]   |  [[Fortificação de cura]]   |  ![[Fortificação de cura#^7d8635]]    ![[Fortificação de cura#^085145]] |
+|    ![[Guarda principal.png\|100]]     |    [[Guarda principal]]     |    ![[Guarda principal#^7d8635]]        ![[Guarda principal#^085145]] |
+|   ![[Imunidade a status.png\|100]]    |   [[Imunidade a status]]    |   ![[Imunidade a status#^7d8635]]      ![[Imunidade a status#^085145]] |
+|   ![[Recuperação rápida.png\|100]]    |   [[Recuperação rápida]]    |   ![[Recuperação rápida#^7d8635]]      ![[Recuperação rápida#^085145]] |
+|    ![[Rejuvenescimento.png\|100]]     |    [[Rejuvenescimento]]     |    ![[Rejuvenescimento#^7d8635]]        ![[Rejuvenescimento#^085145]] |
+|     ![[Resgate crítico.png\|100]]     |     [[Resgate crítico]]     |     ![[Resgate crítico#^7d8635]]         ![[Resgate crítico#^085145]] |
+| ![[Vantagem de resistência.png\|100]] | [[Vantagem de resistência]] | ![[Vantagem de resistência#^7d8635]] ![[Vantagem de resistência#^085145]] |
+
+# Calças
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Aumento anormal.png\|100]]      |    [[Aumento anormal]]      |    ![[Aumento anormal#^7d8635]]      ![[Aumento anormal#^085145]] |
+|    ![[Carga de precisão.png\|100]]    |    [[Carga de precisão]]    |    ![[Carga de precisão#^7d8635]]    ![[Carga de precisão#^085145]] |
+|    ![[Imparável.png\|100]]            |    [[Imparável]]            |    ![[Imparável#^7d8635]]            ![[Imparável#^085145]] |
+|    ![[Ímpeto corpo a corpo.png\|100]] |    [[Ímpeto corpo a corpo]] |    ![[Ímpeto corpo a corpo#^7d8635]] ![[Ímpeto corpo a corpo#^085145]] |
+|    ![[Recarga furiosa.png\|100]]      |    [[Recarga furiosa]]      |    ![[Recarga furiosa#^7d8635]]      ![[Recarga furiosa#^085145]] |
+|    ![[Sifão de bala.png\|100]]        |    [[Sifão de bala]]        |    ![[Sifão de bala#^7d8635]]        ![[Sifão de bala#^085145]] |
+|    ![[Tiro certeiro.png\|100]]        |    [[Tiro certeiro]]        |    ![[Tiro certeiro#^7d8635]]        ![[Tiro certeiro#^085145]] |
+|    ![[Três golpes.png\|100]]          |    [[Três golpes]]          |    ![[Três golpes#^7d8635]]          ![[Três golpes#^085145]] |
+
+# Luvas
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Amplificador corpo a corpo.png\|100]]     |    [[Amplificador corpo a corpo]]     |    ![[Amplificador corpo a corpo#^7d8635]] ![[Amplificador corpo a corpo#^085145]] ||
+|    ![[Amplificador de crítico.png\|100]]     |    [[Amplificador de crítico]]     |    ![[Amplificador de crítico#^7d8635]] ![[Amplificador de crítico#^085145]] ||
+|    ![[Amplificador de munição.png\|100]]     |    [[Amplificador de munição]]     |    ![[Amplificador de munição#^7d8635]] ![[Amplificador de munição#^085145]] ||
+|    ![[Aprimoramento de Status.png\|100]]     |    [[Aprimoramento de Status]]     |    ![[Aprimoramento de Status#^7d8635]] ![[Aprimoramento de Status#^085145]] ||
+|    ![[Impulso de Crít..png\|100]]     |    [[Impulso de Crít.]]     |    ![[Impulso de Crít.#^7d8635]] ![[Impulso de Crít.#^085145]] ||
+|    ![[Reforço de Dano em Pontos fracos.png\|100]]     |    [[Reforço de Dano em Pontos fracos]]     |    ![[Reforço de Dano em Pontos fracos#^7d8635]] ![[Reforço de Dano em Pontos fracos#^085145]] ||
+|    ![[Sobrecarga elemental.png\|100]]     |    [[Sobrecarga elemental]]     |    ![[Sobrecarga elemental#^7d8635]] ![[Sobrecarga elemental#^085145]] ||
+
+# Calçados
+
+|                 Icone                 |             Mod             |              Onde Pegar              |
+| :-----------------------------------: | :-------------------------: | :----------------------------------: |
+|    ![[Avanço protegido.png\|100]]     |    [[Avanço protegido]]     |    ![[Avanço protegido#^7d8635]] ![[Avanço protegido#^085145]] |
+|    ![[Ceifador implacável.png\|100]]     |    [[Ceifador implacável]]     |    ![[Ceifador implacável#^7d8635]]  ![[Ceifador implacável#^085145]]|
+|    ![[Devagar e sempre.png\|100]]     |    [[Devagar e sempre]]     |    ![[Devagar e sempre#^7d8635]]  ![[Devagar e sempre#^085145]]|
+|    ![[Golpe isolado.png\|100]]     |    [[Golpe isolado]]     |    ![[Golpe isolado#^7d8635]]  ![[Golpe isolado#^085145]]|
+|    ![[Hora do rush.png\|100]]     |    [[Hora do rush]]     |    ![[Hora do rush#^7d8635]]  ![[Hora do rush#^085145]]|
+|    ![[Investida feroz.png\|100]]     |    [[Investida feroz]]     |    ![[Investida feroz#^7d8635]]  ![[Investida feroz#^085145]]|
+
+
+

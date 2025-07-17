@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Discord da Comunidade": "https://discord.gg/4rzacdb7b4",
-      Youtube: "https://www.youtube.com/@TalionJoga/featured",
+      Youtube: "https://www.youtube.com/@TalionOak",
       Instagram: "https://www.instagram.com/talionoak/",
     },
   }),

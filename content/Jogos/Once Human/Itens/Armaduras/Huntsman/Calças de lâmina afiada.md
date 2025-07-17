@@ -1,0 +1,1 @@
+![[Calças de lâmina afiada.png]]

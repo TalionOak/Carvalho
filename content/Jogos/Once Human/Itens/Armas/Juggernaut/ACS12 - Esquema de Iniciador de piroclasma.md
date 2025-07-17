@@ -1,0 +1,1 @@
+![[ACS12 - Esquema de Iniciador de piroclasma.png]]

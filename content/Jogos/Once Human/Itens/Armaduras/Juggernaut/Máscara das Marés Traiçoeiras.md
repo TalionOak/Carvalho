@@ -1,0 +1,1 @@
+![[Máscara das Marés Traiçoeiras.png]]

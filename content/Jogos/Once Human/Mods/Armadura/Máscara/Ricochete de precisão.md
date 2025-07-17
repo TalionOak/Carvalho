@@ -5,9 +5,9 @@ tags:
   - máscara
 ---
 
-| Icone | Efeito |
-| :---: | ------ |
-|    ![[Ricochete de precisão.png\|100]]  |    O 6º Ricochete é um Ricochete Preciso e causa um aumento de +100% de Dano como acerto crítico.    |
+|                Icone                | Efeito                                                                    |
+| :---------------------------------: | ------------------------------------------------------------------------- |
+| ![[Ricochete de precisão.png\|100]] | O 7º Ricochete é um Ricochete Preciso e causa um aumento de +125% de Dano |
 
 ## Onde pegar
 

@@ -1,0 +1,1 @@
+![[Ves. Superior Gatilho Mágico.png]]

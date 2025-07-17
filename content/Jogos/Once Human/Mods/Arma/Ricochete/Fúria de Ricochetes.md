@@ -5,9 +5,9 @@ tags:
   - ricochete
 ---
 
-|              Icone              | Efeito                                                       |
-| :-----------------------------: | ------------------------------------------------------------ |
-| ![[Fúria de Ricochetes.png\|100]] | O Ricochete causa mais Dano conforme mais alvos são atingidos, até Dano +45%. |
+|               Icone               | Efeito                                                                                                        |
+| :-------------------------------: | ------------------------------------------------------------------------------------------------------------- |
+| ![[Fúria de Ricochetes.png\|100]] | Quanto mais alvos selecionáveis o Ricochetes tiver, maior será o Dano de Ricochetes. até +45% (15% por alvo). |
 
 ## Onde pegar
 
