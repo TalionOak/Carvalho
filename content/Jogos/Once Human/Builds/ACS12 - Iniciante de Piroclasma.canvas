@@ -10,7 +10,7 @@
 		{"id":"e0b6d051c722bf05","type":"file","file":"Jogos/Once Human/Mods/Arma/Na Mosca/Amplificador de Vulnerabilidade.md","x":-580,"y":-1220,"width":512,"height":270},
 		{"id":"5db29f6a7d4e54df","type":"file","file":"Jogos/Once Human/Itens/Armas/Huntsman/AWS.338 - Bingo.md","x":-773,"y":-880,"width":378,"height":280},
 		{"id":"ce9821f735dc0caa","type":"file","file":"Jogos/Once Human/Mods/Armadura/Capacete/Golpe Fatal.md","x":-1476,"y":-540,"width":512,"height":270},
-		{"id":"f2064d2b2e97b321","type":"file","file":"Arquivos/Discord.svg","x":-318,"y":-864,"width":250,"height":250},
+		{"id":"f2064d2b2e97b321","type":"file","file":"Private/Discord.svg","x":-318,"y":-864,"width":250,"height":250},
 		{"id":"ba7873912ed7fad2","type":"file","file":"Jogos/Once Human/Itens/Armaduras/Juggernaut/Capuz de lobo solitário.md","x":-1348,"y":-201,"width":427,"height":240},
 		{"id":"dccf3d0f934430e1","type":"file","file":"Jogos/Once Human/Itens/Armaduras/Juggernaut/Máscara de lobo solitário.md","x":-1348,"y":70,"width":427,"height":240},
 		{"id":"f7d1ecb8f805bfbc","type":"file","file":"Jogos/Once Human/Itens/Armaduras/Juggernaut/Jaqueta de lobo solitário.md","x":-897,"y":70,"width":427,"height":240},
@@ -25,8 +25,8 @@
 		{"id":"ec0bd58debad414d","type":"file","file":"Jogos/Once Human/Itens/Comidas/Carne de marisco.md","x":1240,"y":-531,"width":520,"height":910},
 		{"id":"777d73c06b1a74ee","type":"file","file":"Jogos/Once Human/Itens/Comidas/Cachorro-quente misto frito.md","x":720,"y":-531,"width":500,"height":910},
 		{"id":"f0953d4a1feb4882","type":"file","file":"Jogos/Once Human/Itens/Comidas/Bebida excêntrica.md","x":180,"y":-531,"width":520,"height":910},
-		{"id":"cddcae005eb4459a","type":"file","file":"Arquivos/talionoak.png","x":638,"y":-1089,"width":1164,"height":430},
-		{"id":"58e24efb398964d8","type":"file","file":"Arquivos/Once Human/Outros/Incubadora ACS12.png","x":-18,"y":-1307,"width":578,"height":648}
+		{"id":"cddcae005eb4459a","type":"file","file":"Private/talionoak.png","x":638,"y":-1089,"width":1164,"height":430},
+		{"id":"58e24efb398964d8","type":"file","file":"Private/Once Human/Outros/Incubadora ACS12.png","x":-18,"y":-1307,"width":578,"height":648}
 	],
 	"edges":[
 		{"id":"61bcded792bc6414","fromNode":"ce9821f735dc0caa","fromSide":"bottom","toNode":"ba7873912ed7fad2","toSide":"top"},

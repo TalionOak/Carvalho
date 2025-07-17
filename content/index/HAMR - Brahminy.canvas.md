@@ -1,6 +1,6 @@
-# AWS.338 - Tiro Certeiro.canvas
+# HAMR - Brahminy.canvas
 
-[[AWS.338 - Tiro Certeiro.canvas]]
+[[HAMR - Brahminy.canvas]]
 
 This index file enables Obsidian and its plugins to manage canvas files effectively. It ensures alias files for canvases appear in graphs and allows plugins compatible only with MD files to access these files.
 
@@ -21,39 +21,15 @@ ___
 
 # Notes
 
+![[Escudo resistente]]
+
+<br/>
+
+![[Calças de lâmina afiada]]
+
+<br/>
+
 ![[Hora do rush]]
-
-<br/>
-
-![[Aumento de impulso]]
-
-<br/>
-
-![[Amplificador de munição]]
-
-<br/>
-
-![[Maior procurado]]
-
-<br/>
-
-![[Máscara das Marés Traiçoeiras]]
-
-<br/>
-
-![[Luvas de Marés Traiçoeiras]]
-
-<br/>
-
-![[Cachorro-quente misto frito]]
-
-<br/>
-
-![[Carne de marisco]]
-
-<br/>
-
-![[Calças de Renegado]]
 
 <br/>
 
@@ -61,11 +37,11 @@ ___
 
 <br/>
 
-![[Escudo resistente]]
+![[Carne de marisco]]
 
 <br/>
 
-![[Imparável]]
+![[Recarga furiosa]]
 
 <br/>
 
@@ -73,7 +49,31 @@ ___
 
 <br/>
 
-![[Botas de Caçador Veterano]]
+![[Tênis de Renegado]]
+
+<br/>
+
+![[Ricochete de precisão]]
+
+<br/>
+
+![[Máscara das Marés Traiçoeiras]]
+
+<br/>
+
+![[Amplificador de munição]]
+
+<br/>
+
+![[Luvas de Marés Traiçoeiras]]
+
+<br/>
+
+![[Golpe preciso]]
+
+<br/>
+
+![[Cachorro-quente misto frito]]
 
 <br/>
 
@@ -81,11 +81,11 @@ ___
 
 <br/>
 
-![[Amplificador de Vulnerabilidade]]
+![[Ricochete múltiplo]]
 
 <br/>
 
-![[Amplificador de Vulnerabilidade]]
+![[HAMR - Brahminy]]
 
 <br/>
 
@@ -93,21 +93,21 @@ ___
 
 <br/>
 
-![[DE.50 - Incêndio]]
+![[Amplificador de Vulnerabilidade]]
 
 # Medias
-
-![[Calibração tiro rápido ponto fraco.jpg|500]]
-
-<br/>
 
 ![[Discord.svg|500]]
 
 <br/>
 
-![[Arquivos/Once Human/Outros/Incubadora HAMR Brahminy.png|500]]
+![[Jogos/Once Human/Calibrações/Calibração Fuzil de precisão econômico ponto fraco.jpg|500]]
 
 <br/>
 
-![[Arquivos/talionoak.png|500]]
+![[Incubadora HAMR Brahminy.png|500]]
+
+<br/>
+
+![[talionoak.png|500]]
 

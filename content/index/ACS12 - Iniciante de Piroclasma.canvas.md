@@ -22,10 +22,6 @@ ___
 
 # Notes
 
-![[Capuz de lobo solitário]]
-
-<br/>
-
 ![[Dragão Flamejante]]
 
 <br/>
@@ -50,6 +46,10 @@ ___
 
 <br/>
 
+![[Capuz de lobo solitário]]
+
+<br/>
+
 ![[Máscara de lobo solitário]]
 
 <br/>
@@ -70,10 +70,6 @@ ___
 
 <br/>
 
-![[Tiro certeiro]]
-
-<br/>
-
 ![[Escudo resistente]]
 
 <br/>
@@ -90,6 +86,10 @@ ___
 
 <br/>
 
+![[Tiro certeiro]]
+
+<br/>
+
 ![[Carne de marisco]]
 
 <br/>
@@ -102,7 +102,7 @@ ___
 
 # Medias
 
-![[Calibração Calibre 12 taxa de critico.png|500]]
+![[Jogos/Once Human/Calibrações/Calibração Calibre 12 taxa de critico.png|500]]
 
 <br/>
 
@@ -110,9 +110,9 @@ ___
 
 <br/>
 
-![[Arquivos/talionoak.png|500]]
+![[talionoak.png|500]]
 
 <br/>
 
-![[Arquivos/Once Human/Outros/Incubadora ACS12.png|500]]
+![[Incubadora ACS12.png|500]]
 

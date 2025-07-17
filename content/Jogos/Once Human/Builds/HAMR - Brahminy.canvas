@@ -18,15 +18,15 @@
 		{"id":"b27c5ad0f6087308","type":"text","text":"# Atributos dos Mods\n\n## Precisão\n- Dano de Ponto Fraco\n- Dano de Arma\n## Escolhe 1:\n- Dano contra inimigos normais\n- Dano contra inimigos de elite\n- Dano contra magníficos\n\nOBS: Todos precisam ser laranjas(lendários), mas caso não consiga, foque nos \"DANO CONTRA\" pois são os que aumenta mais o dano","x":-2030,"y":113,"width":357,"height":505},
 		{"id":"190a0e638a3bcde6","type":"file","file":"Jogos/Once Human/Mods/Armadura/Capacete/Golpe preciso.md","x":-1752,"y":-226,"width":512,"height":270},
 		{"id":"6bd683832ecf27ef","type":"file","file":"Jogos/Once Human/Itens/Comidas/Cachorro-quente misto frito.md","x":-100,"y":-226,"width":500,"height":910},
-		{"id":"8e6dac483f325a0d","type":"file","file":"Arquivos/Discord.svg","x":-253,"y":167,"width":250,"height":250},
+		{"id":"8e6dac483f325a0d","type":"file","file":"Private/Discord.svg","x":-253,"y":167,"width":250,"height":250},
 		{"id":"c89877fd95bb1a2c","type":"file","file":"Jogos/Once Human/Calibrações/Calibração Fuzil de precisão econômico ponto fraco.jpg","x":-1996,"y":-536,"width":375,"height":220},
 		{"id":"6c22d1e90d893432","type":"file","file":"Jogos/Once Human/Mutações/Sussurro do lobo solitario.md","x":-1996,"y":-906,"width":500,"height":300},
 		{"id":"0fa86fb9e7ff4d2b","type":"file","file":"Jogos/Once Human/Mods/Arma/Ricochete/Ricochete múltiplo.md","x":-1440,"y":-906,"width":512,"height":270},
 		{"id":"f14e44000a5613ef","type":"file","file":"Jogos/Once Human/Itens/Armas/Operator/HAMR - Brahminy.md","x":-1490,"y":-566,"width":378,"height":280},
 		{"id":"37f5efbd4a0b336d","type":"file","file":"Jogos/Once Human/Itens/Armas/Huntsman/AWS.338 - Bingo.md","x":-1043,"y":-566,"width":378,"height":280},
 		{"id":"87077bef79c8dade","type":"file","file":"Jogos/Once Human/Mods/Arma/Na Mosca/Amplificador de Vulnerabilidade.md","x":-850,"y":-906,"width":512,"height":270},
-		{"id":"286d0c0b9f67837a","type":"file","file":"Arquivos/Once Human/Outros/Incubadora HAMR Brahminy.png","x":-308,"y":-906,"width":458,"height":591},
-		{"id":"c009182bb5de4dcb","type":"file","file":"Arquivos/talionoak.png","x":200,"y":-751,"width":1164,"height":430}
+		{"id":"286d0c0b9f67837a","type":"file","file":"Private/Once Human/Outros/Incubadora HAMR Brahminy.png","x":-308,"y":-906,"width":458,"height":591},
+		{"id":"c009182bb5de4dcb","type":"file","file":"Private/talionoak.png","x":200,"y":-751,"width":1164,"height":430}
 	],
 	"edges":[
 		{"id":"beec402ac913491b","fromNode":"7154f27b6b2b8526","fromSide":"bottom","toNode":"8738986e551b0f1c","toSide":"top"},

@@ -1,6 +1,6 @@
-# HAMR - Brahminy.canvas
+# AWS.338 - Tiro Certeiro.canvas
 
-[[HAMR - Brahminy.canvas]]
+[[AWS.338 - Tiro Certeiro.canvas]]
 
 This index file enables Obsidian and its plugins to manage canvas files effectively. It ensures alias files for canvases appear in graphs and allows plugins compatible only with MD files to access these files.
 
@@ -21,43 +21,23 @@ ___
 
 # Notes
 
+![[Hora do rush]]
+
+<br/>
+
+![[Aumento de impulso]]
+
+<br/>
+
 ![[Escudo resistente]]
 
 <br/>
 
-![[Calças de lâmina afiada]]
+![[Capacete das Marés Traiçoeiras]]
 
 <br/>
 
-![[Jaqueta de Renegado]]
-
-<br/>
-
-![[Recarga furiosa]]
-
-<br/>
-
-![[Sussurro do lobo solitario]]
-
-<br/>
-
-![[Ricochete múltiplo]]
-
-<br/>
-
-![[HAMR - Brahminy]]
-
-<br/>
-
-![[AWS.338 - Bingo]]
-
-<br/>
-
-![[Amplificador de Vulnerabilidade]]
-
-<br/>
-
-![[Ricochete de precisão]]
+![[Botas de Caçador Veterano]]
 
 <br/>
 
@@ -65,11 +45,35 @@ ___
 
 <br/>
 
+![[Luvas de Marés Traiçoeiras]]
+
+<br/>
+
+![[Sussurro do lobo solitario]]
+
+<br/>
+
+![[Amplificador de Vulnerabilidade]]
+
+<br/>
+
+![[Amplificador de Vulnerabilidade]]
+
+<br/>
+
+![[AWS.338 - Bingo]]
+
+<br/>
+
+![[DE.50 - Incêndio]]
+
+<br/>
+
 ![[Amplificador de munição]]
 
 <br/>
 
-![[Luvas de Marés Traiçoeiras]]
+![[Maior procurado]]
 
 <br/>
 
@@ -81,33 +85,29 @@ ___
 
 <br/>
 
-![[Capacete das Marés Traiçoeiras]]
+![[Calças de Renegado]]
 
 <br/>
 
-![[Tênis de Renegado]]
+![[Jaqueta de Renegado]]
 
 <br/>
 
-![[Golpe preciso]]
-
-<br/>
-
-![[Hora do rush]]
+![[Imparável]]
 
 # Medias
 
-![[Calibração econômico ponto fraco.png|500]]
+![[Jogos/Once Human/Calibrações/Calibração tiro rápido ponto fraco.jpg|500]]
+
+<br/>
+
+![[Incubadora HAMR Brahminy.png|500]]
+
+<br/>
+
+![[talionoak.png|500]]
 
 <br/>
 
 ![[Discord.svg|500]]
-
-<br/>
-
-![[Arquivos/Once Human/Outros/Incubadora HAMR Brahminy.png|500]]
-
-<br/>
-
-![[Arquivos/talionoak.png|500]]
 
