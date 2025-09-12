@@ -11,3 +11,4 @@ Uma sequência de Path of Exile foi feita 6 de dezembro de 2024 chamada de Path 
 > [!info] Links Úteis
 > 
 > - [[História do Path of Exile]]
+> -[[Jogos/Path-of-Exile-2/Craftings]]
