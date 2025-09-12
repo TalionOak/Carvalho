@@ -39,6 +39,8 @@ Total 21 Orbe Exaltado
 	- Se você não conseguiu <span style="color:rgb(255, 0, 0)"># ao Nível de todas as habilidades mágicas</span>, use uma <span style="color:rgb(0, 176, 240)">Essência de Feitiçaria Perfeita</span>.
 	- Você também pode usar uma <span style="color:rgb(0, 176, 240)">Essência de Diligência Perfeita</span> se quiser economizar mana nas habilidades..
 
-
-
-![[{A127489A-06D9-421B-9874-0B16DC55CA01}.png]]![[{E2620E05-8AC9-43A5-8156-29C2CFB48DBB}.png]]
+# Resultado final
+## Resultado 1 - Pior dos casos
+![[{A127489A-06D9-421B-9874-0B16DC55CA01}.png]]
+## Resultado 2 - Melhor dos casos
+![[{E2620E05-8AC9-43A5-8156-29C2CFB48DBB}.png]]
