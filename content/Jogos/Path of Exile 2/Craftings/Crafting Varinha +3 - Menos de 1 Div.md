@@ -7,20 +7,19 @@ tags:
 ---
 # Ingredientes
 
-`Orbe da Ampliacação Perfeito`
+`Orbe da Ampliacação Perfeito` - 1 Orbe Exaltado
+ `Essência de Grandiosa da Feitiçaria`
 - 1 Orbe Exaltado
-1. Essência de Grandiosa da Feitiçaria
-	- 1 Orbe Exaltado
-2. Mandíbula Conservada
-	- 1 Orbe Exaltado
-3. Presságio da Necromancia Canhota
-	- 5 Orbe Exaltado
-4. Orbe Exaltado Maior
-	-  5 Orbe Exaltado
-5. Presságio da Exaltação Grandiosa 
-	- 2 Orbe Exaltado
-6. Essência de Feitiçaria Perfeita 
-	- 6 Orbe Exaltado
+<span style="color:rgb(0, 176, 240)"> Mandíbula Conservada</span>
+- 1 Orbe Exaltado
+<span style="color:rgb(0, 176, 240)">Presságio da Necromancia Canhota</span>
+- 5 Orbe Exaltado
+Orbe Exaltado Maior
+-  5 Orbe Exaltado
+Presságio da Exaltação Grandiosa 
+- 2 Orbe Exaltado
+Essência de Feitiçaria Perfeita 
+- 6 Orbe Exaltado
 
 Total 21 Orbe Exaltado
 # Receita
