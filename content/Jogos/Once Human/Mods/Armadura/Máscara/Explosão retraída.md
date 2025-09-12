@@ -3,6 +3,7 @@ tags:
   - onceHuman
   - mod
   - máscara
+  - "#queimadura"
 ---
 
 | Icone | Efeito |

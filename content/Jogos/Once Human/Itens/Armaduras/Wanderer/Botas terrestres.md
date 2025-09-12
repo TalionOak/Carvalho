@@ -1,0 +1,1 @@
+![[Botas terrestres.png]]

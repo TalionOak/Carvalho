@@ -122,17 +122,18 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 
 # Vestimenta superior
 
-|                 Icone                 |             Mod             |              Onde Pegar              |
-| :-----------------------------------: | :-------------------------: | :----------------------------------: |
-|    ![[Confronto direto.png\|100]]     |    [[Confronto direto]]     |    ![[Confronto direto#^7d8635]]        ![[Confronto direto#^085145]] |
-|    ![[Escudo resistente.png\|100]]    |    [[Escudo resistente]]    |    ![[Escudo resistente#^7d8635]]       ![[Escudo resistente#^085145]] |
-|  ![[Fortificação de cura.png\|100]]   |  [[Fortificação de cura]]   |  ![[Fortificação de cura#^7d8635]]    ![[Fortificação de cura#^085145]] |
-|    ![[Guarda principal.png\|100]]     |    [[Guarda principal]]     |    ![[Guarda principal#^7d8635]]        ![[Guarda principal#^085145]] |
-|   ![[Imunidade a status.png\|100]]    |   [[Imunidade a status]]    |   ![[Imunidade a status#^7d8635]]      ![[Imunidade a status#^085145]] |
-|   ![[Recuperação rápida.png\|100]]    |   [[Recuperação rápida]]    |   ![[Recuperação rápida#^7d8635]]      ![[Recuperação rápida#^085145]] |
-|    ![[Rejuvenescimento.png\|100]]     |    [[Rejuvenescimento]]     |    ![[Rejuvenescimento#^7d8635]]        ![[Rejuvenescimento#^085145]] |
-|     ![[Resgate crítico.png\|100]]     |     [[Resgate crítico]]     |     ![[Resgate crítico#^7d8635]]         ![[Resgate crítico#^085145]] |
+|                 Icone                 |             Mod             |                                Onde Pegar                                 |
+| :-----------------------------------: | :-------------------------: | :-----------------------------------------------------------------------: |
+|    ![[Confronto direto.png\|100]]     |    [[Confronto direto]]     |    ![[Confronto direto#^7d8635]]        ![[Confronto direto#^085145]]     |
+|    ![[Escudo resistente.png\|100]]    |    [[Escudo resistente]]    |    ![[Escudo resistente#^7d8635]]       ![[Escudo resistente#^085145]]    |
+|  ![[Fortificação de cura.png\|100]]   |  [[Fortificação de cura]]   |  ![[Fortificação de cura#^7d8635]]    ![[Fortificação de cura#^085145]]   |
+|    ![[Guarda principal.png\|100]]     |    [[Guarda principal]]     |    ![[Guarda principal#^7d8635]]        ![[Guarda principal#^085145]]     |
+|   ![[Imunidade a status.png\|100]]    |   [[Imunidade a status]]    |   ![[Imunidade a status#^7d8635]]      ![[Imunidade a status#^085145]]    |
+|   ![[Recuperação rápida.png\|100]]    |   [[Recuperação rápida]]    |   ![[Recuperação rápida#^7d8635]]      ![[Recuperação rápida#^085145]]    |
+|    ![[Rejuvenescimento.png\|100]]     |    [[Rejuvenescimento]]     |    ![[Rejuvenescimento#^7d8635]]        ![[Rejuvenescimento#^085145]]     |
+|     ![[Resgate crítico.png\|100]]     |     [[Resgate crítico]]     |     ![[Resgate crítico#^7d8635]]         ![[Resgate crítico#^085145]]     |
 | ![[Vantagem de resistência.png\|100]] | [[Vantagem de resistência]] | ![[Vantagem de resistência#^7d8635]] ![[Vantagem de resistência#^085145]] |
+| ![[Escudo Ardente.png\|100]] | [[Escudo Ardente]] | ![[Escudo Ardente#^7d8635]] ![[Escudo Ardente#^085145]] |
 
 # Calças
 

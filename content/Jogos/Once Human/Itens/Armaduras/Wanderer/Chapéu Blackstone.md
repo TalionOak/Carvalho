@@ -1,0 +1,1 @@
+![[Chapéu Blackstone.png]]

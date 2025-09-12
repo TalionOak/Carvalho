@@ -3,6 +3,7 @@ tags:
   - onceHuman
   - mod
   - vestimentaSuperior
+  - "#recarregaBalas"
 ---
 
 | Icone | Efeito |

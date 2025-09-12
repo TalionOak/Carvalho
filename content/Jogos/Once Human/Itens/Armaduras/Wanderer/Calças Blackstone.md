@@ -1,0 +1,1 @@
+![[Calças Blackstone.png]]

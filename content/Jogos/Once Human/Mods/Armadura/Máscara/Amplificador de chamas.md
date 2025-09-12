@@ -3,11 +3,12 @@ tags:
   - onceHuman
   - mod
   - máscara
+  - "#queimadura"
 ---
 
-| Icone | Efeito |
-| :---: | ------ |
-|   ![[Amplificador de chamas.png\|100]]   |    Cada acúmulo de Queimadura concede +3% de Dano de Intensidade Psíquica.    |
+|                Icone                 | Efeito                                                                  |
+| :----------------------------------: | ----------------------------------------------------------------------- |
+| ![[Amplificador de chamas.png\|100]] | Cada acúmulo de Queimadura concede +3% de Dano de Intensidade Psíquica. |
 
 ## Onde pegar
 

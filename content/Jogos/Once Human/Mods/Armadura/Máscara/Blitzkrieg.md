@@ -3,6 +3,7 @@ tags:
   - onceHuman
   - mod
   - máscara
+  - "#atiradorVeloz"
 ---
 
 | Icone | Efeito |

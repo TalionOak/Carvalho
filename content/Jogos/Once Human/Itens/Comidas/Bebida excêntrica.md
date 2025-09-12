@@ -1,5 +1,4 @@
-Faz efeito na Hidratação!
-Somente 1 efeito de hidratação pode estar ativo por vez.
+Muito bom com armas de dano Elemental!
 
 | Icone                           | Descrição                                       |
 | ------------------------------- | ----------------------------------------------- |

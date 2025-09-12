@@ -1,0 +1,1 @@
+![[KVD - Bum! Bum!.png]]

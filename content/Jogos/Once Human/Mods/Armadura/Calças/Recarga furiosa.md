@@ -3,6 +3,7 @@ tags:
   - onceHuman
   - mod
   - calças
+  - "#recarregaBalas"
 ---
 
 | Icone | Efeito |

@@ -1,0 +1,1 @@
+![[Calças sobrecarregadas.png]]

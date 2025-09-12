@@ -3,6 +3,7 @@ tags:
   - onceHuman
   - mod
   - máscara
+  - "#sobrecargaDeEnergia"
 ---
 
 | Icone | Efeito |
