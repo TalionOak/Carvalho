@@ -5,21 +5,22 @@ tags:
   - pathOfExile2
   - recombinador
 ---
+![](https://youtu.be/XvxQPx19Wak)
 # Ingredientes
 
-Orbe da Ampliacação Perfeito
+- [ ] Orbe da Ampliacação Perfeito
 - 1 Orbe Exaltado
- Essência de Grandiosa da Feitiçaria
+ - [ ] Essência de Grandiosa da Feitiçaria
 - 1 Orbe Exaltado
- Mandíbula Conservada
+ - [ ] Mandíbula Conservada
 - 1 Orbe Exaltado
-Presságio da Necromancia Canhota
+- [ ] Presságio da Necromancia Canhota
 - 5 Orbe Exaltado
-Orbe Exaltado Maior
+- [ ] Orbe Exaltado Maior
 -  5 Orbe Exaltado
-Presságio da Exaltação Grandiosa 
+- [ ] Presságio da Exaltação Grandiosa 
 - 2 Orbe Exaltado
-Essência de Feitiçaria Perfeita 
+- [ ] Essência de Feitiçaria Perfeita 
 - 6 Orbe Exaltado
 
 Total 21 Orbe Exaltado
@@ -38,8 +39,6 @@ Total 21 Orbe Exaltado
 	- Se você não conseguiu <span style="color:rgb(255, 0, 0)"># ao Nível de todas as habilidades mágicas</span>, use uma <span style="color:rgb(0, 176, 240)">Essência de Feitiçaria Perfeita</span>.
 	- Você também pode usar uma <span style="color:rgb(0, 176, 240)">Essência de Diligência Perfeita</span> se quiser economizar mana nas habilidades..
 
-https://youtu.be/XvxQPx19Wak
 
-![]([https://youtu.be/XvxQPx19Wak))
 
 ![[{A127489A-06D9-421B-9874-0B16DC55CA01}.png]]![[{E2620E05-8AC9-43A5-8156-29C2CFB48DBB}.png]]
