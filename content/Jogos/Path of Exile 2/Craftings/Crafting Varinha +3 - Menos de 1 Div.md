@@ -7,18 +7,25 @@ tags:
 ---
 # Ingredientes
 Orbe da Ampliacação Perfeito
+
 - 1 Orbe Exaltado
 Essência de Grandiosa da Feitiçaria
+
 - 1 Orbe Exaltado
 Mandíbula Conservada
+
 - 1 Orbe Exaltado
 Presságio da Necromancia Canhota
+
 - 5 Orbe Exaltado
 Orbe Exaltado Maior
+
 -  5 Orbe Exaltado
 Presságio da Exaltação Grandiosa 
+
 - 2 Orbe Exaltado
 Essência de Feitiçaria Perfeita 
+
 - 6 Orbe Exaltado
 
 Total 21 Orbe Exaltado
