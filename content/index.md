@@ -28,8 +28,11 @@ Neste espaço, compartilharei com vocês:
 
 Estou animado para compartilhar este espaço com vocês e criar juntos uma rede de conhecimento rica e diversificada. Vamos embarcar nesta jornada de descobertas e aprendizado mútuo!
 
-**Sejam bem-vindos e aproveitem a exploração!**
+> [!info] Caiu o site?
+> Se o site cair ou alguma página não carregar, pode ser que alterei o titulo de algum artigo.. quando isso acontece, você precisa voltar para a página raiz do site para o indexador carregar e atualizar as páginas que mudaram.. 
+> Se mesmo assim não estiver carregando, envie uma mensagem no nosso [Discord](https://discord.gg/4rzacdb7b4)  que vou verificar o que pode ter acontecido..
 
+**Sejam bem-vindos e aproveitem a exploração!**
 ### Jogos
 
 - [[O que é Once Human🤔|Once Human]]
