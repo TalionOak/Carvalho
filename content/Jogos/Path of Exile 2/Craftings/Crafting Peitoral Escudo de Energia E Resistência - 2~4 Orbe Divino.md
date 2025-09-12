@@ -1,3 +1,9 @@
+---
+tags:
+  - crafting
+  - pathOfExile2
+  - peitoral
+---
 ![](https://youtu.be/BfXycYC4GZE)
 # Ingredientes
 
