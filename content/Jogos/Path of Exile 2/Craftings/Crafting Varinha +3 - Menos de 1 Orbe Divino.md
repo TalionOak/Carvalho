@@ -39,7 +39,7 @@ Total 21 Orbe Exaltado
 	- Você também pode usar uma <span style="color:rgb(0, 176, 240)">Essência de Diligência Perfeita</span> se quiser economizar mana nas habilidades..
 
 # Resultado final
-## Resultado 1 - Pior dos casos
+## O pior resultado possível
 ![[{A127489A-06D9-421B-9874-0B16DC55CA01}.png]]
-## Resultado 2 - Melhor dos casos
+## O melhor resultado possível
 ![[{E2620E05-8AC9-43A5-8156-29C2CFB48DBB}.png]]
