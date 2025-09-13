@@ -10,9 +10,8 @@ tags:
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
 
-
 | Quantidade | Item                                                                          | Preço em ![[Orbe Exaltado.png\|20]] Orbe Exaltado | Preço em ![[Orbe Divino.png\|20]]Orbe Divino | Obs           |
-| ---------- | ----------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------- | ------------- |
+| :----------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------: | :-------------: |
 | 1          | ![[Presságio da Recombinação.png\|20]]Presságio da Recombinação               | 36 ![[Orbe Exaltado.png\|20]]                     | ![[Orbe Divino.png\|20]] 0,25                |               |
 | 2          | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                | 7 ![[Orbe Exaltado.png\|20]]                      | ![[Orbe Divino.png\|20]] 0,04                |               |
 | 2          | ![[Presságio da Exaltação Uniforme.png\|20]]Presságio da Exaltação Uniforme   | 248 ![[Orbe Exaltado.png\|20]]                    | ![[Orbe Divino.png\|20]] 1,73                | Pode ser só 1 |
