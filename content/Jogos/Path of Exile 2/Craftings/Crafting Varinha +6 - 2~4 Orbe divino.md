@@ -8,6 +8,7 @@ tags:
 ![](https://youtu.be/mmybzj3HQlI)
 # Ingredientes
 
+Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
 - Presságio da Recombinação;
 	- 36 Orbe exaltado.
 - 2 Orbe Exaltado Maior;
@@ -18,7 +19,6 @@ tags:
 	- 4 Orbe exaltado.
 - Presságio da Exaltação Hábil;
 	- 4 Orbe exaltado.
-
 - Total 299 Orbe Exaltado ou 2 Orbe divino.
 	- Preço do Orbe divino no momento do guia: 143 Orbe Exaltado
 # Receita
@@ -37,10 +37,11 @@ tags:
 		- Se cair <span style="color:rgb(255, 0, 0)">Chance de Crítico para magias</span> ou <span style="color:rgb(255, 0, 0)">Bônus de dano mágico crítico aumentado</span>, a chance de cair <span style="color:rgb(255, 0, 0)">Velocidade de Conjuração</span> aumenta para <span style="color:rgb(255, 255, 0)">75,86%</span>;
 3. Adicionar +2 prefixos.
 	- Existe 2 métodos para isso;
-	1. Usar <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span> com <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Uniforme</span>, <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span>.
+	1. Usar ![[Orbe Exaltado.png|20]] <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span> com <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Uniforme</span>, <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span>.
 		- <span style="color:rgb(255, 255, 0)">11,45% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Dano Mágico aumentado em #%</span>;
-		- <span style="color:rgb(255, 255, 0)">19,84% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Dano Mágico aumentado em #% e # de Mana máxima</span>;
 		- <span style="color:rgb(255, 255, 0)">22,90% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Ganha #% do Dano como Dano Extra de <span style="color:rgb(0, 176, 80)">Fogo/Gelo/Raio</span></span>.
+		- <span style="color:rgb(255, 255, 0)">19,84% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Dano Mágico aumentado em #% e # de Mana máxima</span>;
+			- Note que se cair esse modificador primeiro, temos <span style="color:rgb(255, 255, 0)">53% de chance</span> de cair <span style="color:rgb(255, 0, 0)"># de Mana máxima</span>.
 	2. Usar uma <span style="color:rgb(0, 176, 240)">mandíbula</span> para tentar pegar algum modificador interessante;
 		- Você pode usar um <span style="color:rgb(0, 176, 240)">Presságio dos Ecos Abissais</span> para aumentar sua chance de encontrar algo bom.
 		- Finalizar com um <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span>.
