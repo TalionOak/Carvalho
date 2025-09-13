@@ -10,21 +10,15 @@ tags:
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
 
-| Quantidade | Item                                                                          | Preço em ![[Orbe Exaltado.png\|20]] Orbe Exaltado | Preço em ![[Orbe Divino.png\|20]]Orbe Divino |
-| ---------- | ----------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------- |
-| 1          | ![[Presságio da Recombinação.png\|20]]Presságio da Recombinação               | 36 ![[Orbe Exaltado.png\|20]]                     | 0,25 ![[Orbe Divino.png\|20]]                |
-| 2          | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                | 7 ![[Orbe Exaltado.png\|20]]                      | 0,04 ![[Orbe Divino.png\|20]]                |
-| 2          | ![[Presságio da Exaltação Uniforme.png\|20]]Presságio da Exaltação Uniforme   | 248 ![[Orbe Exaltado.png\|20]]                    | 1,73 ![[Orbe Divino.png\|20]]                |
-| 2          | ![[Presságio da Exaltação Grandiosa.png\|20]]Presságio da Exaltação Grandiosa | 4 ![[Orbe Exaltado.png\|20]]                      | 0,02 ![[Orbe Divino.png\|20]]                |
-| 1          | ![[Presságio da Exaltação Hábil.png\|20]]Presságio da Exaltação Hábil         | 4 ![[Orbe Exaltado.png\|20]]                      | 0,02 ![[Orbe Divino.png\|20]]                |
+| Qnt. | Item                                                                          | Preço                          | Preço                         |
+| ---- | ----------------------------------------------------------------------------- | ------------------------------ | ----------------------------- |
+| 1    | ![[Presságio da Recombinação.png\|20]]Presságio da Recombinação               | 36 ![[Orbe Exaltado.png\|20]]  | 0,25 ![[Orbe Divino.png\|20]] |
+| 2    | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                | 7 ![[Orbe Exaltado.png\|20]]   | 0,04 ![[Orbe Divino.png\|20]] |
+| 2    | ![[Presságio da Exaltação Uniforme.png\|20]]Presságio da Exaltação Uniforme   | 248 ![[Orbe Exaltado.png\|20]] | 1,73 ![[Orbe Divino.png\|20]] |
+| 2    | ![[Presságio da Exaltação Grandiosa.png\|20]]Presságio da Exaltação Grandiosa | 4 ![[Orbe Exaltado.png\|20]]   | 0,02 ![[Orbe Divino.png\|20]] |
+| 1    | ![[Presságio da Exaltação Hábil.png\|20]]Presságio da Exaltação Hábil         | 4 ![[Orbe Exaltado.png\|20]]   | 0,02 ![[Orbe Divino.png\|20]] |
  - Total 299 ![[Orbe Exaltado.png|20]] Orbe Exaltado ou 2 ![[Orbe Divino.png|20]] Orbe divino.
 	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 143 ![[Orbe Exaltado.png|20]] Orbe Exaltado
-
-```mermaid 
-graph TD 
-
-Biology --> Chemistry 
-```
 # Receita
 1. Conseguir uma base com <span style="color:rgb(255, 0, 0)"># ao Nível de todas as Gemas Habilidades de Magias</span> <span style="color:rgb(0, 176, 80)">de Caos/Raio/Gelo/Fogo/Física</span> e uma de  <span style="color:rgb(255, 0, 0)">Dano <span style="color:rgb(0, 176, 80)">de Caos/Raio/Gelo/Fogo/Físico</span> aumentado em #%</span>;
 	- De preferencia para um +5 e um T6 de dano.
