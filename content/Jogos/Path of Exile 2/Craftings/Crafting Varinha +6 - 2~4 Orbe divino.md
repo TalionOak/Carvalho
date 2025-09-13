@@ -40,7 +40,7 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 		- <span style="color:rgb(255, 255, 0)">22,90% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Ganha #% do Dano como Dano Extra de <span style="color:rgb(0, 176, 80)">Fogo/Gelo/Raio</span></span>.
 		- <span style="color:rgb(255, 255, 0)">19,84% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Dano Mágico aumentado em #% e # de Mana máxima</span>;
 			- Note que se cair esse modificador primeiro, temos <span style="color:rgb(255, 255, 0)">53% de chance</span> de cair <span style="color:rgb(255, 0, 0)"># de Mana máxima</span>.
-	2. Usar uma <span style="color:rgb(0, 176, 240)">mandíbula</span> para tentar pegar algum modificador interessante;
+	2. Usar uma ![[Mandíbula Conservada.png|20]]<span style="color:rgb(0, 176, 240)">mandíbula</span> para tentar pegar algum modificador interessante;
 		- Você pode usar um ![[Presságio dos Ecos Abissais.png|20]]<span style="color:rgb(0, 176, 240)">Presságio dos Ecos Abissais</span> para aumentar sua chance de encontrar algo bom.
 		- Finalizar com um ![[Orbe Exaltado.png|20]] <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span>.
 4. +1 ao nível de habilidades.
