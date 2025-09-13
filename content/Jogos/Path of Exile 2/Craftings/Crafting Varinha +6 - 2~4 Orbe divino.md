@@ -5,7 +5,7 @@ tags:
   - pathOfExile2
   - recombinador
 ---
-![](TDL)
+![](https://youtu.be/mmybzj3HQlI)
 # Ingredientes
 
 - Presságio da Recombinação;
