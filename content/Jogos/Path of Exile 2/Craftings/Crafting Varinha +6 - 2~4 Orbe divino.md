@@ -29,7 +29,6 @@ tags:
 		- <span style="color:rgb(255, 255, 0)">Chance de 29,95%</span> sem o Presságio da Recombinação;
 		- <span style="color:rgb(255, 255, 0)">Chance de 50,92%</span> com o Presságio da Recombinação.
 2. Adicionar +2 sufixos.
-	- Caso não queira fazer esse passo, você pode ir para o passo 3.
 	1. Usar <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span> com <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Uniforme</span>, <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span> e <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Hábil</span>.
 		- <span style="color:rgb(255, 255, 0)">Calculo abaixo foram feito com Orbe Exaltado Maior;</span>
 		- <span style="color:rgb(255, 255, 0)">61,11% de chance</span> de conseguir <span style="color:rgb(255, 0, 0)">Velocidade de Conjuração</span>;
@@ -37,24 +36,26 @@ tags:
 		- <span style="color:rgb(255, 255, 0)">19,44% de chance</span> de conseguir <span style="color:rgb(255, 0, 0)">Bônus de dano mágico crítico aumentado</span>.
 		- Se cair <span style="color:rgb(255, 0, 0)">Chance de Crítico para magias</span> ou <span style="color:rgb(255, 0, 0)">Bônus de dano mágico crítico aumentado</span>, a chance de cair <span style="color:rgb(255, 0, 0)">Velocidade de Conjuração</span> aumenta para <span style="color:rgb(255, 255, 0)">75,86%</span>;
 3. Adicionar +2 prefixos.
-	- Se você não fez o passo 2, <span style="color:rgb(255, 0, 0)"><b><i>USE UM Presságio da Exaltação Sinistra</i></b></span>.
+	- Existe 2 métodos para isso;
 	1. Usar <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span> com <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Uniforme</span>, <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span>.
-	- Se você não fez o passo 2, use um <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span> com <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span>.
-		- <span style="color:rgb(255, 255, 0)">10,37% de chance</span> de conseguir <span style="color:rgb(255, 0, 0)">Velocidade de Conjuração</span>.
+		- <span style="color:rgb(255, 255, 0)">11,45% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Dano Mágico aumentado em #%</span>;
+		- <span style="color:rgb(255, 255, 0)">19,84% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Dano Mágico aumentado em #% e # de Mana máxima</span>;
+		- <span style="color:rgb(255, 255, 0)">22,90% de chance</span> de cair <span style="color:rgb(255, 0, 0)">Ganha #% do Dano como Dano Extra de <span style="color:rgb(0, 176, 80)">Fogo/Gelo/Raio</span></span>.
+	2. Usar uma <span style="color:rgb(0, 176, 240)">mandíbula</span> para tentar pegar algum modificador interessante;
+		- Você pode usar um <span style="color:rgb(0, 176, 240)">Presságio dos Ecos Abissais</span> para aumentar sua chance de encontrar algo bom.
+		- Finalizar com um <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span>.
 4. +1 ao nível de habilidades.
 	- Passo não obrigatório, mas caso queira aumentar o nível da gema para +6, essa é a única forma de conseguir.
 	1. Usar um <span style="color:rgb(0, 176, 240)">Presságio da Santificação</span> com um <span style="color:rgb(0, 176, 240)">Orbe divino</span>.
 	- <span style="color:rgb(255, 255, 0)">20% de chance</span> de conseguir +1 ao nível da gema.
 # Resultado final
+Como existe muita chance de dar ruim o nosso craft, sempre verifique os preços dos piores resultados possíveis antes de sair tentando montar a sua própria varinha.
 
-## Resultado 1 - Pior dos Casos
+## O pior resultado possível
 ![[{F7F786AA-7F4E-42EC-8064-75E83F657A39}.png]]
-## Resultado 2 - Pior dos casos
 ![[{CA815637-3734-4A6A-AE73-1039645A3EC6}.png]]
-## Resultado 3 - Melhor dos casos
+![[{D56D2C07-4EC9-4320-96C7-7EEE75C58C9E}.png]]
+## O melhor resultado possível
 ![[{381E1201-BF5F-4013-995A-BFDDADFCCD4A}.png]]
-## Resultado 4 - Melhor dos casos
 ![[{4C07AEC7-AA10-402E-9284-8FC0E2A61DF8}.png]]
-
-## Resultado 5 - Melhor dos casos
 ![[{DBD3673B-79FF-44F9-8AC4-7448C337AFDC}.png]]
