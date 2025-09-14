@@ -6,7 +6,7 @@ tags:
   - "#espírito"
   - "#resistencias"
 ---
-![](https://youtu.be/BfXycYC4GZE)
+![](https://www.youtube.com/watch?v=RbHCmzTiXyY)
 # Ingredientes
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..

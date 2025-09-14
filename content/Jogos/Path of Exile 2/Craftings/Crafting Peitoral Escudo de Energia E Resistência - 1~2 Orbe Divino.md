@@ -16,7 +16,6 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 | 1    | ![[Presságio da Exaltação Uniforme.png\|20]] Presságio da Exaltação Uniforme   | 115 ![[Orbe Exaltado.png\|20]] |
 | 1    | ![[Presságio da Exaltação Grandiosa.png\|20]] Presságio da Exaltação Grandiosa | 2 ![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Costelas Conservadas.png\|20]] Costelas Conservadas                         | 1 ![[Orbe Exaltado.png\|20]]   |
-| 1    | ![[Presságio da Necromancia Destra.png\|20]] Presságio da Necromancia Destra   | 1 ![[Orbe Exaltado.png\|20]]   |
  - Total 127 ![[Orbe Exaltado.png|20]] Orbe Exaltado ou 0,67 ![[Orbe Divino.png|20]] Orbe divino;
 	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 188 ![[Orbe Exaltado.png|20]] Orbe Exaltado.
 # Receita

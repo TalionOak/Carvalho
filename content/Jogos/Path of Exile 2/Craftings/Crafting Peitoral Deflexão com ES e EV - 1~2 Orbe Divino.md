@@ -4,6 +4,7 @@ tags:
   - pathOfExile2
   - peitoral
 ---
+![](https://www.youtube.com/watch?v=RbHCmzTiXyY)
 # Ingredientes
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
@@ -29,7 +30,7 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 	- <span style="color:rgb(255, 0, 0)">Início da Recarga do Escudo de Energia #% mais rápido</span>.
 2. Adicionar +1 modificador.
 	1. Usar ![[Presságio da Coroação Uniforme.png|20]]<span style="color:rgb(0, 176, 240)">Presságio da Coroação Uniforme</span> com um ![[Orbe Régio.png|20]]<span style="color:rgb(0, 176, 240)">Orbe Real</span>.
-		- Se for adicionado <span style="color:rgb(255, 0, 0)">vida</span> recomendo recomeçar do passo 1;
+		- Se for adicionado <span style="color:rgb(255, 0, 0)">vida</span> recomendo recomeçar do <span style="color:rgb(112, 48, 160)">passo 1</span>;
 		- Se for adicionado +1 modificador de <span style="color:rgb(255, 0, 0)">escudo de energia</span>, vá para o <span style="color:rgb(112, 48, 160)">passo 2.2</span>.
 		- Se for adicionado <span style="color:rgb(255, 0, 0)">Ganha deflexão equivalente a #% da evasão</span> continuar a baixo; 
 			1. Usar ![[Presságio da Exaltação Uniforme.png|20]] <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Uniforme</span>, ![[Presságio da Exaltação Sinistra.png|20]]<span style="color:rgb(0, 176, 240)">Presságio da Exaltação Sinistra</span>, ![[Presságio da Exaltação Grandiosa.png|20]]<span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span> e um <span style="color:rgb(0, 176, 240)">Orbe Exaltado</span>![[Orbe Exaltado.png|20]];
