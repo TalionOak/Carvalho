@@ -18,7 +18,7 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 | 1    | ![[Costelas Conservadas.png\|20]] Costelas Conservadas                           | 1![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Essência de Abismo.png\|20]] Essência de Abismo                               | 7![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Presságio da Cristalização Destra.png\|20]] Presságio da Cristalização Destra | 31![[Orbe Exaltado.png\|20]]  |
-| 1    | ![[Orbe Régio.png\|20]] Orbe Real Perfeito                                       | 7![[Orbe Exaltado.png\|20]]   |
+| 1    | ![[Orbe Régio.png\|20]] Orbe Real Perfeito                                       | 13![[Orbe Exaltado.png\|20]]  |
  - Total 156 ![[Orbe Exaltado.png|20]] Orbe Exaltado ou 1 ![[Orbe Divino.png|20]] Orbe divino.
 	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 156 ![[Orbe Exaltado.png|20]] Orbe Exaltado
 # Receita
