@@ -19,8 +19,9 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 | 1    | ![[Essência de Abismo.png\|20]] Essência de Abismo                               | 7![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Presságio da Cristalização Destra.png\|20]] Presságio da Cristalização Destra | 31![[Orbe Exaltado.png\|20]]  |
 | 1    | ![[Orbe Régio.png\|20]] Orbe Real Perfeito                                       | 13![[Orbe Exaltado.png\|20]]  |
- - Total 156 ![[Orbe Exaltado.png|20]] Orbe Exaltado ou 1 ![[Orbe Divino.png|20]] Orbe divino.
-	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 156 ![[Orbe Exaltado.png|20]] Orbe Exaltado
+| 1    | ![[Presságio da Coroação Uniforme.png\|20]] Presságio da Coroação Uniforme       | 16 ![[Orbe Exaltado.png\|20]] |
+ - Total 179 ![[Orbe Exaltado.png|20]] Orbe Exaltado ou 1 ![[Orbe Divino.png|20]] Orbe divino.
+	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 183 ![[Orbe Exaltado.png|20]] Orbe Exaltado
 # Receita
 1. Conseguir uma base com <span style="color:rgb(255, 0, 0)">Escudo de Energia aumentado em #%</span> e ou <span style="color:rgb(255, 0, 0)"># de escudo de energia máximo (local)</span> e um dos seguintes modificadores:
 	- <span style="color:rgb(255, 0, 0)">Requisito de Nível reduzido em #%</span>;
