@@ -31,7 +31,7 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 	- <span style="color:rgb(255, 255, 0)">28,56% de chance</span> de cair outra coisa, como <span style="color:rgb(255, 0, 0)">deflexão</span>, <span style="color:rgb(255, 0, 0)">velocidade de recarga</span> etc..
 	 ![[{7BE10FF7-3B40-413E-933D-C39FBE8C6F8C}.png]]
 4. Fechar o prefixo;
-	- Usar uma ![[Costelas Conservadas.png|20]] <span style="color:rgb(0, 176, 240)">Costela</span> com um para profanar a armadura e adicionar mais um prefixo.
+	- Usar uma ![[Costelas Conservadas.png|20]] <span style="color:rgb(0, 176, 240)">Costela</span> para profanar a armadura e adicionar mais um prefixo.
 5. Revele a profanação.
 	- Você pode usar ![[Presságio dos Ecos Abissais.png|20]] <span style="color:rgb(0, 176, 240)">Presságio dos Ecos Abissais</span> para ter mais 3 opções de escolha.
 		- Se mesmo assim não cair o que você quer, use um ![[Presságio da Luz.png|20]] <span style="color:rgb(0, 176, 240)">Presságio da Luz</span> com um ![[Orbe da Anulação.png|20]] <span style="color:rgb(0, 176, 240)">Orbe da Anulação</span> e volte para o passo 4.
