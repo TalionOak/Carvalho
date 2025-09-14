@@ -12,14 +12,13 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 | Qnt. | Item                                                                           | Preço                          |
 | ---- | ------------------------------------------------------------------------------ | ------------------------------ |
 | 2    | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                 | 6 ![[Orbe Exaltado.png\|20]]   |
-| 1    | ![[Essências de defesa#^7d8635]]                                                       | 2~4 ![[Orbe Exaltado.png\|20]] |
-| 1    | ![[Presságio da Exaltação Uniforme.png\|20]] Presságio da Exaltação Uniforme   | 95 ![[Orbe Exaltado.png\|20]]  |
+| 1    | ![[Essências de defesa#^7d8635]]                                               | 2~4 ![[Orbe Exaltado.png\|20]] |
+| 1    | ![[Presságio da Exaltação Uniforme.png\|20]] Presságio da Exaltação Uniforme   | 115 ![[Orbe Exaltado.png\|20]] |
 | 1    | ![[Presságio da Exaltação Grandiosa.png\|20]] Presságio da Exaltação Grandiosa | 2 ![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Costelas Conservadas.png\|20]] Costelas Conservadas                         | 1 ![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Presságio da Necromancia Destra.png\|20]] Presságio da Necromancia Destra   | 1 ![[Orbe Exaltado.png\|20]]   |
-
-Total 107 ![[Orbe Exaltado.png\|20]] Orbe Exaltado ou ![[Orbe Divino.png\|20]] 0,8 Orbe Divino;
-
+ - Total 127 ![[Orbe Exaltado.png|20]] Orbe Exaltado ou 0,67 ![[Orbe Divino.png|20]] Orbe divino;
+	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 188 ![[Orbe Exaltado.png|20]] Orbe Exaltado.
 # Receita
 1. Pegar uma base mágica com Bastante <span style="color:rgb(255, 0, 0)">Escudo de Energia aumentado em #%</span> ou <span style="color:rgb(255, 0, 0)"># de escudo de energia máximo (local)</span> junto com <span style="font-style:italic; color:rgb(255, 0, 0)">+% de resistência</span>.
 2. Transformar o item Mágico em Raro;

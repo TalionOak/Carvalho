@@ -3,12 +3,12 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 # Armas
 ## Queimadura
 
-|                Icone                 |            Mod             |             Onde Pegar              |
-| :----------------------------------: | :------------------------: | :---------------------------------: |
-|      ![[Ira Ardente.png\|100]]       |      [[Ira Ardente]]       |      ![[Ira Ardente#^7d8635]] ![[Ira Ardente#^085145]]|
-| ![[Ressonância Flamejante.png\|100]] | [[Ressonância Flamejante]] | ![[Ressonância Flamejante#^7d8635]] ![[Ressonância Flamejante#^085145]] |
-|         ![[Brasas.png\|100]]         |         [[Brasas]]         |         ![[Brasas#^7d8635]] ![[Brasas#^085145]]|
-|   ![[Bênção Incendiária.png\|100]]   |   [[Bênção Incendiária]]   |   ![[Bênção Incendiária#^7d8635]] ![[Bênção Incendiária#^085145]] |     
+|                Icone                 |            Mod             |                               Onde Pegar                                |     |
+| :----------------------------------: | :------------------------: | :---------------------------------------------------------------------: | --- |
+|      ![[Ira Ardente.png\|100]]       |      [[Ira Ardente]]       |            ![[Ira Ardente#^7d8635]] ![[Ira Ardente#^085145]]            |     |
+| ![[Ressonância Flamejante.png\|100]] | [[Ressonância Flamejante]] | ![[Ressonância Flamejante#^7d8635]] ![[Ressonância Flamejante#^085145]] |     |
+|         ![[Brasas.png\|100]]         |         [[Brasas]]         |                 ![[Brasas#^7d8635]] ![[Brasas#^085145]]                 |     |
+|   ![[Bênção Incendiária.png\|100]]   |   [[Bênção Incendiária]]   |     ![[Bênção Incendiária#^7d8635]] ![[Bênção Incendiária#^085145]]     |     |
 
 ## Vórtice Congelante
 
