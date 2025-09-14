@@ -12,7 +12,7 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 | Qnt. | Item                                                                           | Preço                          |
 | ---- | ------------------------------------------------------------------------------ | ------------------------------ |
 | 2    | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                 | 6 ![[Orbe Exaltado.png\|20]]   |
-| 1    | ![[Essências de defesa]]                                                       | 2~4 ![[Orbe Exaltado.png\|20]] |
+| 1    | ![[Essências de defesa#^7d8635]]                                                       | 2~4 ![[Orbe Exaltado.png\|20]] |
 | 1    | ![[Presságio da Exaltação Uniforme.png\|20]] Presságio da Exaltação Uniforme   | 95 ![[Orbe Exaltado.png\|20]]  |
 | 1    | ![[Presságio da Exaltação Grandiosa.png\|20]] Presságio da Exaltação Grandiosa | 2 ![[Orbe Exaltado.png\|20]]   |
 | 1    | ![[Costelas Conservadas.png\|20]] Costelas Conservadas                         | 1 ![[Orbe Exaltado.png\|20]]   |
