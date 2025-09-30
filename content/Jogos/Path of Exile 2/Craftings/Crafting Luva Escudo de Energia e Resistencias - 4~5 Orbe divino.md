@@ -49,3 +49,6 @@ Como existe muita chance de dar ruim o nosso craft, sempre verifique os preços 
 ![[{5647A1CE-D0DF-40FE-88E5-887F921D5486}.png]]
 
 ## O melhor resultado possível
+
+![[{FC1B97AE-DFA8-46FE-A9A6-8DB9038E8C07}.png]]
+![[{D3B273DC-221E-4256-AB50-8014A4903C8F}.png]]
