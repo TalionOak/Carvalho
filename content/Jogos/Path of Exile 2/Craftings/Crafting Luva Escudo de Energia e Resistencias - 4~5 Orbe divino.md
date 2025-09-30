@@ -26,14 +26,14 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 - [Mágica perfeita](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/G6vob4kBsb) - Pode ser um pouco cara.
 - [Normal perfeita](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/6zj8DnK2cG) - EXTREMAMENTE CARA!!
 # Receita
-1. Conseguir uma base com <span style="color:rgb(255, 0, 0)"># de Escudo de Energia máximo (Local)</span> e ou <span style="color:rgb(255, 0, 0)">Escudo de Energia aumentado em #%</span> e um dos seguintes modificadores:
+1. Conseguir uma base com <span style="color:rgb(255, 0, 0)"># de Escudo de Energia máximo (Local)</span> ou <span style="color:rgb(255, 0, 0)">Escudo de Energia aumentado em #%</span> e um dos seguintes modificadores:
 	- <span style="color:rgb(255, 0, 0)">Requisito de Nível reduzido em #%</span>
 	- <span style="color:rgb(255, 0, 0)">Recarga do Escudo de Energia aumentada em #%</span>
 	- <span style="color:rgb(255, 0, 0)"># de Destreza</span>
 	- <span style="color:rgb(255, 0, 0)"># de Inteligência</span>
 2. Adicionar +1 sufixo.
 	1. Usar ![[Essência de Opulência Superior.png|20]] <span style="color:rgb(0, 176, 240)">Essência de Opulência Superior</span> para adicionar +1 sufixo;
-3. Adicionar +1 prefixo.
+3. Adicionar +2 prefixo.
 	1. Usar ![[Presságio da Exaltação Uniforme.png|20]] <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Uniforme</span>,![[Presságio da Exaltação Grandiosa.png|20]] <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Grandiosa</span>, ![[Presságio da Exaltação Sinistra.png|20]] <span style="color:rgb(0, 176, 240)">Presságio da Exaltação Sinistra</span> e um ![[Orbe Exaltado.png|20]]<span style="color:rgb(0, 176, 240)">Orbe Exaltado</span>;
 	- Se cair um valor de escudo de energia bom, você pode continuar para o <span style="color:rgb(112, 48, 160)">passo 4</span>.
 4. Adicionar +1 sufixo.
