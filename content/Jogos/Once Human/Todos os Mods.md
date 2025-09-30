@@ -99,26 +99,26 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 
 # Máscara
 
-|                 Icone                 |             Mod             |              Onde Pegar              |
-| :-----------------------------------: | :-------------------------: | :----------------------------------: |
-|    ![[Amplificador de chamas.png\|100]]     |    [[Amplificador de chamas]] |    ![[Amplificador de chamas#^7d8635]]      ![[Amplificador de chamas#^085145]]|
-|    ![[Ataque direcionado.png\|100]]     |    [[Ataque direcionado]]         |    ![[Ataque direcionado#^7d8635]]      ![[Ataque direcionado#^085145]]|
-|    ![[Ataque preciso.png\|100]]     |    [[Ataque preciso]]                 |    ![[Ataque preciso#^7d8635]]      ![[Ataque preciso#^085145]]|
-|    ![[Blitzkrieg.png\|100]]     |    [[Blitzkrieg]]                         |    ![[Blitzkrieg#^7d8635]]      ![[Blitzkrieg#^085145]]|
-|    ![[Carnificina de estilhaços.png\|100]]|[[Carnificina de estilhaços]]    |    ![[Carnificina de estilhaços#^7d8635]]      ![[Carnificina de estilhaços#^085145]]|
-|    ![[Congelante permanente.png\|100]]     |    [[Congelante permanente]]   |    ![[Congelante permanente#^7d8635]]      ![[Congelante permanente#^085145]]|
-|    ![[Estilhaço explosivo.png\|100]]     |    [[Estilhaço explosivo]]       |    ![[Estilhaço explosivo#^7d8635]]      ![[Estilhaço explosivo#^085145]]|
-|    ![[Explosão atrasada.png\|100]]     |    [[Explosão atrasada]]           |    ![[Explosão atrasada#^7d8635]]      ![[Explosão atrasada#^085145]]|
-|    ![[Maior procurado.png\|100]]     |    [[Maior procurado]]               |    ![[Maior procurado#^7d8635]]      ![[Maior procurado#^085145]]|
-|    ![[Obliteração.png\|100]]     |    [[Obliteração]]                       |    ![[Obliteração#^7d8635]]      ![[Obliteração#^085145]]|
-|    ![[Pistoleiro.png\|100]]     |    [[Pistoleiro]]                         |    ![[Pistoleiro#^7d8635]]      ![[Pistoleiro#^085145]]|
-|    ![[Primeira eletrocussão.png\|100]]     |    [[Primeira eletrocussão]]   |    ![[Primeira eletrocussão#^7d8635]]      ![[Primeira eletrocussão#^085145]]|
-|    ![[Quebra de ricochete.png\|100]]     |    [[Quebra de ricochete]]       |    ![[Quebra de ricochete#^7d8635]]      ![[Quebra de ricochete#^085145]]|
-|    ![[Ricochete de precisão.png\|100]]     |    [[Ricochete de precisão]]   |    ![[Ricochete de precisão#^7d8635]]      ![[Ricochete de precisão#^085145]]|
-|    ![[Trovoada.png\|100]]     |    [[Trovoada]]                             |    ![[Trovoada#^7d8635]]      ![[Trovoada#^085145]]|
-|    ![[Explosão retraída.png\|100]]     |    [[Explosão retraída]]           |    ![[Explosão retraída#^7d8635]]      ![[Explosão retraída#^085145]]|
-|    ![[Inquebrável.png\|100]]     |    [[Inquebrável]]                       |    ![[Inquebrável#^7d8635]]      ![[Inquebrável#^085145]]|
-|    ![[Canhão de luz.png\|100]]     |    [[Canhão de luz]]                   |    ![[Canhão de luz#^7d8635]]      ![[Canhão de luz#^085145]]|
+|                  Icone                  |              Mod              |                                     Onde Pegar                                     |
+| :-------------------------------------: | :---------------------------: | :--------------------------------------------------------------------------------: |
+|  ![[Amplificador de chamas.png\|100]]   |  [[Amplificador de chamas]]   |    ![[Amplificador de chamas#^7d8635]]      ![[Amplificador de chamas#^085145]]    |
+|    ![[Ataque direcionado.png\|100]]     |    [[Ataque direcionado]]     |        ![[Ataque direcionado#^7d8635]]      ![[Ataque direcionado#^085145]]        |
+|      ![[Ataque preciso.png\|100]]       |      [[Ataque preciso]]       |            ![[Ataque preciso#^7d8635]]      ![[Ataque preciso#^085145]]            |
+|        ![[Blitzkrieg.png\|100]]         |        [[Blitzkrieg]]         |                ![[Blitzkrieg#^7d8635]]      ![[Blitzkrieg#^085145]]                |
+| ![[Carnificina de estilhaços.png\|100]] | [[Carnificina de estilhaços]] | ![[Carnificina de estilhaços#^7d8635]]      ![[Carnificina de estilhaços#^085145]] |
+|   ![[Congelante permanente.png\|100]]   |   [[Congelante permanente]]   |     ![[Congelante permanente#^7d8635]]      ![[Congelante permanente#^085145]]     |
+|    ![[Estilhaço explosivo.png\|100]]    |    [[Estilhaço explosivo]]    |       ![[Estilhaço explosivo#^7d8635]]      ![[Estilhaço explosivo#^085145]]       |
+|     ![[Explosão atrasada.png\|100]]     |     [[Explosão atrasada]]     |         ![[Explosão atrasada#^7d8635]]      ![[Explosão atrasada#^085145]]         |
+|      ![[Maior procurado.png\|100]]      |      [[Maior procurado]]      |           ![[Maior procurado#^7d8635]]      ![[Maior procurado#^085145]]           |
+|        ![[Obliteração.png\|100]]        |        [[Obliteração]]        |               ![[Obliteração#^7d8635]]      ![[Obliteração#^085145]]               |
+|        ![[Pistoleiro.png\|100]]         |        [[Pistoleiro]]         |                ![[Pistoleiro#^7d8635]]      ![[Pistoleiro#^085145]]                |
+|   ![[Primeira eletrocussão.png\|100]]   |   [[Primeira eletrocussão]]   |     ![[Primeira eletrocussão#^7d8635]]      ![[Primeira eletrocussão#^085145]]     |
+|    ![[Quebra de ricochete.png\|100]]    |    [[Quebra de ricochete]]    |       ![[Quebra de ricochete#^7d8635]]      ![[Quebra de ricochete#^085145]]       |
+|   ![[Ricochete de precisão.png\|100]]   |   [[Ricochete de precisão]]   |     ![[Ricochete de precisão#^7d8635]]      ![[Ricochete de precisão#^085145]]     |
+|         ![[Trovoada.png\|100]]          |         [[Trovoada]]          |                  ![[Trovoada#^7d8635]]      ![[Trovoada#^085145]]                  |
+|     ![[Explosão retraída.png\|100]]     |     [[Explosão retraída]]     |         ![[Explosão retraída#^7d8635]]      ![[Explosão retraída#^085145]]         |
+|        ![[Inquebrável.png\|100]]        |        [[Inquebrável]]        |               ![[Inquebrável#^7d8635]]      ![[Inquebrável#^085145]]               |
+|       ![[Canhão de luz.png\|100]]       |       [[Canhão de luz]]       |             ![[Canhão de luz#^7d8635]]      ![[Canhão de luz#^085145]]             |
 
 # Vestimenta superior
 
@@ -133,7 +133,7 @@ Aqui você vai encontrar todos os mods! Se quiser descobri onde pegar eles, pass
 |    ![[Rejuvenescimento.png\|100]]     |    [[Rejuvenescimento]]     |    ![[Rejuvenescimento#^7d8635]]        ![[Rejuvenescimento#^085145]]     |
 |     ![[Resgate crítico.png\|100]]     |     [[Resgate crítico]]     |     ![[Resgate crítico#^7d8635]]         ![[Resgate crítico#^085145]]     |
 | ![[Vantagem de resistência.png\|100]] | [[Vantagem de resistência]] | ![[Vantagem de resistência#^7d8635]] ![[Vantagem de resistência#^085145]] |
-| ![[Escudo Ardente.png\|100]] | [[Escudo Ardente]] | ![[Escudo Ardente#^7d8635]] ![[Escudo Ardente#^085145]] |
+|     ![[Escudo Ardente.png\|100]]      |     [[Escudo Ardente]]      |          ![[Escudo Ardente#^7d8635]] ![[Escudo Ardente#^085145]]          |
 
 # Calças
 
