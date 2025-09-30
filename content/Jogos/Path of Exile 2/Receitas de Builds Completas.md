@@ -11,5 +11,5 @@
 | Luvas    | [[Crafting Luva Escudo de Energia e Resistencias - 4~5 Orbe divino]]                                                          |
 | Cinto    | [Escuridão Entronizada - Cinto Fino](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/q9bm23L9Ug)      |
 | Botas    | [Ossos de Ullr - Sandálias de Trama](https://br.pathofexile.com/trade2/search/poe2/Standard/Q6XoYopuw)                        |
-| Elmo     |                                                                                                                               |
+| Elmo     | [[Crafting Elmo Escudo de Energia e Nível de Lacaio - 1~2 Orbe divino]]                                                       |
 | Peitoral | [[Crafting Peitoral Espírito, Defesas e Resistência - 1~2 Orbe Divino]]                                                       |
