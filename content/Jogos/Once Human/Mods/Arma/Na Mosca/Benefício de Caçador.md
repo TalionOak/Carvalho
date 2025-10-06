@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - naMosca
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Benefício de Caçador.png\|100]] | Dano de inimigos Marcados contra Metas - 20%. |

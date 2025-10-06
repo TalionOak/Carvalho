@@ -3,7 +3,7 @@
 - ![[Tábua Precursora.png|20]]  [Tábua Precursora](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/5nEPMrdmfa) - Nível do mapa +1;
 # Preparando o ritual
 Tábuas para comprar:
-- ![[Liberdade da Fé Tábua Precursora do Ritual.png|20]]  [Liberdade da Fé Tábua Precursora do Ritual](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/lgp6oYQjTV)
+- ![[Liberdade da Fé Tábua Precursora do Ritual.png|20]]  [Liberdade da Fé Tábua Precursora do Ritual](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/yYXKqz28CR)
 
 **Adie os itens apenas uma vez** e, depois disso, **só adie novamente quando eles estiverem com uma borda vermelha ao redor**.  
  Se você notar essa borda, significa que **você está prestes a perder o item**, então **PRECISA adiá-lo!**

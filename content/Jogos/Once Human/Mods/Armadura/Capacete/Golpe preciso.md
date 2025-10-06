@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - capacete
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Golpe preciso.png\|100]]    |   Acertar um ponto fraco concede Dano de Ponto fraco +12% por 3s. O efeito pode acumular 3 vezes.     |

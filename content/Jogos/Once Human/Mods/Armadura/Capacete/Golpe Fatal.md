@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - capacete
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Golpe Fatal.png\|100]]    |   Não pode causar Dano de Ponto fraco. Taxa de Crít. +10% e Dano Crít. +30%.     |

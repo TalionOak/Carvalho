@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
-  - "#recarregaBalas"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Recarga furiosa.png\|100]]    |   Após abater um inimigo, recarregue 2 balas da reserva (não mais que 50% da Capacidade do carregador). Dano de Arma e Dano de Status +10% até a próxima recarga.     |

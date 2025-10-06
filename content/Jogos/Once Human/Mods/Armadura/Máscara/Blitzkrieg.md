@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#atiradorVeloz"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Blitzkrieg.png\|100]]   |   Atirador Veloz acumula até +5 vezes, concedendo um aumento de +1% na Cadência de Tiro para cada acúmulo.     |

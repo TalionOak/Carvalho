@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
-
 |            Icone             | Efeito                                                                                                                                                |
 | :--------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![[Escudo Ardente.png\|100]] | Enquanto o escudo estiver ativo, você ganha 15% de Redução de Dano. Quando o escudo excede 1.000, instâncias únicas de Dano não penetrarão no escudo. |

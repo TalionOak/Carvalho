@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - atiradorVeloz
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Cowboy.png\|100]] | Após recarregar quando o Carregador estiver vazio, chance de acionar Atirador Veloz +100% (com base na Chance de acionar da arma) por 5s. Quando Atirador Veloz atingir o máximo de acúmulos, a duração aumenta em 5s. |

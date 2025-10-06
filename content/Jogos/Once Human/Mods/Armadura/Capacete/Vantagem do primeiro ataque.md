@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - capacete
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Vantagem do primeiro ataque.png\|100]] | Após recarregar, Taxa de Crít. +10%, Dano Crítico. +20% por 2s. |

@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#ricochete"
----
-
 |                Icone                | Efeito                                                                    |
 | :---------------------------------: | ------------------------------------------------------------------------- |
 | ![[Ricochete de precisão.png\|100]] | O 7º Ricochete é um Ricochete Preciso e causa um aumento de +125% de Dano |

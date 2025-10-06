@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#atiradorVeloz"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |  ![[Pistoleiro.png\|100]]    |     Enquanto estiver no estado Atirador Veloz, o Dano em Ponto Fraco aumenta em +30%.   |

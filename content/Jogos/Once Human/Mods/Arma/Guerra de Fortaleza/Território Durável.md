@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - guerraDeFortaleza
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Território Durável.png\|100]] |  Cada inimigo derrotado enquanto estiver no estado Guerra da Fortaleza estenderá o efeito em 5s (até 5 vezes para cada Guerra da Fortalezas) |

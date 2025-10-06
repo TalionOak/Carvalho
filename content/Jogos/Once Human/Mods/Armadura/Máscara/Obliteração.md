@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#vorticeCongelante"
----
-
 |           Icone           | Efeito                                                                                                |
 | :-----------------------: | ----------------------------------------------------------------------------------------------------- |
 | ![[Obliteração.png\|100]] | Dano Final do Vórtice de Gelo +20%; cada inimigo adicional dentro do vórtice adiciona +20%, até +40%. |

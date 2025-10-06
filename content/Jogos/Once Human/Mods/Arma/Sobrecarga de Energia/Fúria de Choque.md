@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - sobrecargaDeEnergia
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Fúria de Choque.png\|100]] | Causar Dano de Sobrecarga de Energia concede +5% de Chance de acionamento de Sobrecarga de Energia (com base na Chance de acionamento da arma) por 5s. O efeito pode ser acumulado até 4 vezes. |

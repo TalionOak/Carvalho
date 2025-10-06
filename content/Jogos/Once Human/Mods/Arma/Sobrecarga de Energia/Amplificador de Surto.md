@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - sobrecargaDeEnergia
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Amplificador de Surto.png\|100]] | Causar Dano de Sobrecarga de Energia concede Dano de Sobrecarga de Energia + 5% por 3s, acumulando até 4 vezes. |

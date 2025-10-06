@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - atiradorVeloz
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Ataque Rápido a Tiro.png\|100]] | Duração de Atirador Veloz +4s. Quando Atirador Veloz está ativo, Dano de Arma + 15%. |

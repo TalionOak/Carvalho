@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - naMosca
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Marcas de Propagação.png\|100]] | Quando um inimigo marcado é derrotado, o Na Mosca se espalhará por 1 inimigos em um raio de 15 metros. |

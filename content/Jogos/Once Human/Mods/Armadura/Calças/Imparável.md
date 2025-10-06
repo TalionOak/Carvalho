@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Imparável.png\|100]]    |   Dano de Ponto Fraco de +20% quando uma bala atinge um alvo a mais de 20 metros de distância. Para cada 1 metros adicionais além disso, o Dano de Ponto Fraco aumenta em +1%, até um máximo de +20%.     |

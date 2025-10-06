@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#naMosca"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Ataque direcionado.png\|100]]   |  Ao atingir inimigos marcados, Taxa de Crít. + 10% e Dano Crít. +25%.    |

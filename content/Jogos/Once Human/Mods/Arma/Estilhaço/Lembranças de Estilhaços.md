@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - estilhaço
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Lembranças de Estilhaços.png\|100]] | Quando Estilhaço atinge um Ponto Fraco, recarrega automaticamente 1 bala(s) do inventário. |

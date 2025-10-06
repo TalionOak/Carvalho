@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#guerraDeFortaleza"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 | ![[Inquebrável.png\|100]]  | Alcance da Guerra de Fortalezas -30%. Durante o estado de Guerra de Fortalezas, Ataque +15%.   |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - estilhaço
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Quebra-Escudos.png\|100]] | Ao atingir um inimigo com escudo, Dano de Estilhaço +60% por 1s. |

@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#estilhaço"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Estilhaço explosivo.png\|100]]   |   O 20° Estilhaço é explosivo e causa um aumento de +300% de Dano como acerto crítico.     |

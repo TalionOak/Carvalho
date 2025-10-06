@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - bombardeiroInstavel
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Explosivos Pesados.png\|100]] | Bombardeiro instável inflige cambaleio. |

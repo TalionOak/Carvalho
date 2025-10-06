@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - atiradorVeloz
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Avanço Preciso.png\|100]] |  Quando Atirador Veloz está ativo, aumenta o Dano em Pontos fracos ao atirar continuamente por 3s, até +45%. |

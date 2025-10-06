@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - estilhaço
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Estilhaços Devastadores.png\|100]]  | Ativar Estilhaço concede +1% de Taxa de Crít. de Estilhaço por 2s. O efeito pode ser acumulado até 20 vezes.  |

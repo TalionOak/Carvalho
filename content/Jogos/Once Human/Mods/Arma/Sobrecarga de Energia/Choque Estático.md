@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - sobrecargaDeEnergia
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Choque Estático.png\|100]] | Duração do status de Sobrecarga de Energia -50%, e Dano de Sobrecarga de Energia +20%. |

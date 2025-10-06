@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Resgate crítico.png\|100]]   |     Redução de Dano de 20% e Cura Recebida de +20% quando os PV estão abaixo de 30%.   |

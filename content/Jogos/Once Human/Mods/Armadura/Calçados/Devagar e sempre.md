@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calçados
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Devagar e sempre.png\|100]]   |     +10% de Dano Corpo a Corpo, de Arma e de Estado. Quando o PV estiver acima de 90%, causa Dano adicional de +10%.   |

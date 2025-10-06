@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Sifão de bala.png\|100]]   |    Dano de Arma +5%. A cada 5 balas consumidas no carregador, concede +4% de Dano de Arma, com limite de 20%.    |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |     ![[Aumento anormal.png\|100]]  |    Quando o carregador estiver vazio, o Dano de Status é de +10% por 12s (até 3 acúmulos).    |

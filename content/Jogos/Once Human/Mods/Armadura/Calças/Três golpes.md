@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Três golpes.png\|100]]    |     Para os primeiros três acertos após recarregar (não excedendo 50% da Capacidade do carregador), aumenta o Dano em Ponto fraco em +50%.   |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - estilhaço
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 |![[Destrua tudo.png\|100]]  | Quanto mais partes o Estilhaço atingir, maior o Dano de Estilhaço. Cada parte +15%. |

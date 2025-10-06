@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#estilhaço"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Carnificina de estilhaços.png\|100]]   |     Peso de Acerto no Ponto Fraco de Estilhaço aumenta em 100%, e o Dano de Ponto Fraco de Estilhaço aumenta em 25%.   |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - bombardeiroInstavel
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Super Carregado.png\|100]] | Ativar Bombardeiro Instável concede Dano de Bombardeiro Instável +5% por 3s. O efeito pode acumular até 6 vezes.|

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - capacete
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |     ![[Aumento de impulso.png\|100]]  |   Cadência de Tiro +10% para os primeiros 50% do carregador e Dano de Arma +30% para os próximos 50% do carregador.     |

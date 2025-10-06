@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - bombardeiroInstavel
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Lembrança de Bombardeiro.png\|100]] | Ao ativar o Bombardeiro Instável, recarregue automaticamente 10% do seu carregador. |

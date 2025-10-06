@@ -1,12 +1,4 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#vorticeCongelante"
----
-
-|                Icone                | Efeito                                                                                                   |
+                Icone                | Efeito                                                                                                   |
 | :---------------------------------: | -------------------------------------------------------------------------------------------------------- |
 | ![[Congelante permanente.png\|100]] | Quanto mais tempo o Vortice Congelante durar, maior será o seu dano final, com um acréscimo de até +60%. |
 

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - naMosca
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Amplificador de Vulnerabilidade.png\|100]] | O Na Mosca adiciona Vulnerabilidade +8%. |

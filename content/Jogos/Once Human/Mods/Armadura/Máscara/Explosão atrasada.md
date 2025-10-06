@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#bombardeiroInstavel"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Explosão atrasada.png\|100]]   |   Antes da bomba explodir, para cada 5 acertos recebidos, o Dano Supremo da bomba aumenta em 25%.     |

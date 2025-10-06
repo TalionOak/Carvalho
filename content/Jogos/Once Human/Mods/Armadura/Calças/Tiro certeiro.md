@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Tiro certeiro.png\|100]]   |    Cada Ataque Crít. de armas de longo alcance concede +5% de Dano Crít., acumulando até 45%. O efeito é removido após a próxima recarga.    |

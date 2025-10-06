@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |  ![[Amplificador de crítico.png\|100]]    |    Taxa de Crít. +10.0%, Dano Crít. +15.0%.    |

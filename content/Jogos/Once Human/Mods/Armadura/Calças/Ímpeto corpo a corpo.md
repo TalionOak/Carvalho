@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Ímpeto corpo a corpo.png\|100]]    |   Dano Corpo a Corpo em +20%. Após um abate corpo a corpo, recupera 30% do Vigor máx.    |

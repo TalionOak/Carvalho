@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#bombardeiroInstavel"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Ataque preciso.png\|100]]   |   Quando o Bombardeiro Instável atinge apenas um inimigo, o Dano Final aumenta em +25%.     |

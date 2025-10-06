@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calçados
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Golpe isolado.png\|100]]   |    Não ter inimigos em um raio de 7 metros concede +15% de Dano de Arma e Dano de Status.    |

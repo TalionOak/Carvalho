@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Confronto direto.png\|100]]    |      Ter inimigos em um raio de 7 metros concede 10% de Redução de Dano. Receber Dano corpo a corpo de inimigos concede 10% de Redução de Dano adicional por 5 segundos.  |

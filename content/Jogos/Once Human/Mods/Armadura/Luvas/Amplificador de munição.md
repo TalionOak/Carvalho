@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Amplificador de munição.png\|100]]   |    Dano de Arma +15,0%    |

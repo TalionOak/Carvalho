@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Impulso de Crít..png\|100]]   |    Imposto Crítico +15,0%    |

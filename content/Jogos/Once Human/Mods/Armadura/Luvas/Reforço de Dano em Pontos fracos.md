@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Reforço de Dano em Pontos fracos.png\|100]]   |     Dano de Ponto fraco +25.0%   |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - capacete
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Caos elemental.png\|100]]   |    Dano Elemental +10%. Quando o PV estiver acima de 90%, +10% adicionais.    |

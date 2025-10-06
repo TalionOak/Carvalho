@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - guerraDeFortaleza
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Território Portátil.png\|100]] | Após sair da Guerra da Fortalezas, o status permanecerá por 2s. |

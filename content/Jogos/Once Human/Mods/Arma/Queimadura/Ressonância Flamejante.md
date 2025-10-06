@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - queimadura
----
-
 |              Icone              | Efeito                                                          |
 | :-----------------------------: | --------------------------------------------------------------- |
 | ![[Ressonância Flamejante.png\|100]] | Máx. de acúmulos de Queimadura +2, duração da Queimadura -20.0% |

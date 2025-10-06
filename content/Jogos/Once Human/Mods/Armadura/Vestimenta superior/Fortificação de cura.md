@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Fortificação de cura.png\|100]]    |     Ao usar um tiro de cura, Redução de Dano 40% por 2s.   |

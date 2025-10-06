@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calças
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Carga de precisão.png\|100]]   |   A cada 10% de taxa de acerto de Ponto fraco do carregador anterior, aumenta o Dano Elemental em +4%, até 24%, por 10s. Recarregar redefine o cálculo.    |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - calçados
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Investida feroz.png\|100]]   |    Matar inimigos em até 10 metros concede Dano de Corpo a Corpo, de Arma e de Status +20% por 8s.    |

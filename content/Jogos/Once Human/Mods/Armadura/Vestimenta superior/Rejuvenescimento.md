@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Rejuvenescimento.png\|100]]    |    Quando o PV estiver acima de 60%, uma abate recupera 15% do PV perdido.    |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - guerraDeFortaleza
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Território Final.png\|100]] |  Quando a Guerra de Fortalezas termina, o Dano de Arma aumenta em 10% e a Velocidade de Movimento sobe em 10%, por 10s. |

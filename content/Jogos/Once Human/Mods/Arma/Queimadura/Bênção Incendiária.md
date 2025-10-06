@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - queimadura
----
-
 |              Icone              | Efeito                                                          |
 | :-----------------------------: | --------------------------------------------------------------- |
 | ![[Bênção Incendiária.png\|100]] | Ao derrotar um inimigo afetado por Queimadura, recupera 5% de PV. |

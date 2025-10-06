@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - ricochete
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Superbala.png\|100]] | Taxa de Crít. de Ricochete +10%, Dano Crít. de Ricochete +25%  |

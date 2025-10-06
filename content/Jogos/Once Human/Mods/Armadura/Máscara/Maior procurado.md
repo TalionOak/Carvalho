@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#naMosca"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Maior procurado.png\|100]]  |     Toda vez que um inimigo é marcado, Ataque +5% por 8s. O efeito pode acumular até 3 vezes.   |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vorticeCongelante
----
-
 |              Icone              | Efeito                                                          |
 | :-----------------------------: | --------------------------------------------------------------- |
 | ![[Multiplicador de Vórtice.png\|100]] | Quantidade máxima de Vortice Congelante +1, Dano de Vortice Congelante +10% |

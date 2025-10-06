@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Imunidade a status.png\|100]]    |    Quando seu PV estiverem abaixo de 60%, remove todos os Estados de Mutação (tempo de recarga: 15s).    |

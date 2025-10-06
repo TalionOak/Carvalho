@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#queimadura"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |  ![[Explosão retraída.png\|100]]   |   Dano Crit. aumenta em +40% contra inimigos com Queimadura.  |

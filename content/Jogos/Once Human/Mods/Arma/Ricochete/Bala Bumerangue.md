@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - ricochete
----
-
 |                 Icone                 | Efeito                                                                                                                                                    |
 | :-----------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![[Não desperdice seu tiro.png\|100]] Cada vez que o Ricochete é acionado, sua chance de acionar aumenta em +2% (com base na chance de acionar da arma), durando 5s e acumulando até 10 vezes. s  |

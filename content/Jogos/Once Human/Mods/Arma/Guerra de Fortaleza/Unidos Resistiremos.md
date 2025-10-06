@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - guerraDeFortaleza
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Unidos Resistiremos.png\|100]] |  |

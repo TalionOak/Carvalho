@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - ricochete
----
-
 |               Icone                | Efeito                                                              |
 | :--------------------------------: | ------------------------------------------------------------------- |
 | ![[Ricochete Teleguiado.png\|100]] | Quanto mais Ricochetes, maior o dano, até 45% (7,5% por Ricochete). |

@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#sobrecargaDeEnergia"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Primeira eletrocussão.png\|100]]   |   Para inimigos sem o status Sobrecarga de Energia, Dano Supremo de Sobrecarga de Energia +30%     |

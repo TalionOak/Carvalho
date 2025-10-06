@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Aprimoramento de Status.png\|100]]   |     Dano de Status +20,0%   |

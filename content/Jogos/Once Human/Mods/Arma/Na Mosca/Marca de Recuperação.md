@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - naMosca
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Marca de Recuperação.png\|100]] | Ao derrotar inimigos marcados, recupera 15% de PV e 25% de Vigor. |

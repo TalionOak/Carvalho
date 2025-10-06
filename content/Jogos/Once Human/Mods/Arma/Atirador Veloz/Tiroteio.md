@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - atiradorVeloz
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Tiroteio.png\|100]] | Ao ativar Atirador Veloz, Dano de Arma + 1.5% por 10s, até 20 acúmulos. |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |   ![[Sobrecarga elemental.png\|100]]   |   Dano Elemental (Incendiário, Congelante, Choque, Explosão) +18%     |

@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Guarda principal.png\|100]]   |   Quando o PV estiver acima de 70%, a área da cabeça deixa de ser um ponto fraco.     |

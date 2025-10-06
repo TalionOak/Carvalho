@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - máscara
-  - "#guerraDeFortaleza"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |  ![[Canhão de luz.png\|100]]  |   Sem Superarmadura na Guerra de Fortalezas. Enquanto estiver no estado Guerra de Fortalezas, Ataque +15%.  |

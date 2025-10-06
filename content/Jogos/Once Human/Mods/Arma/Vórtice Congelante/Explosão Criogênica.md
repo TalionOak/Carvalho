@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vorticeCongelante
----
-
 |              Icone              | Efeito                                                          |
 | :-----------------------------: | --------------------------------------------------------------- |
 | ![[Explosão Criogênica.png\|100]] | Vórtice Congelante aplica Congelamento. Quando Congelamento está ativo, Vulnerabilidade +4% e Velocidade de movimento -10%. |

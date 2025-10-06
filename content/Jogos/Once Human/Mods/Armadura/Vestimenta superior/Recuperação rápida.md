@@ -1,11 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vestimentaSuperior
-  - "#recarregaBalas"
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |    ![[Recuperação rápida.png\|100]]   |     Ao usar uma injeção de cura, Velocidade de movimento +20% por 2s e recarrega o carregador com a munição do inventário em até 100%.   |

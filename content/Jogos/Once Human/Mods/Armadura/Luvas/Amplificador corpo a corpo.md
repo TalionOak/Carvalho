@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - luvas
----
-
 | Icone | Efeito |
 | :---: | ------ |
 |  ![[Amplificador corpo a corpo.png\|100]]    |     Dano de Corpo a Corpo +20.0%   |

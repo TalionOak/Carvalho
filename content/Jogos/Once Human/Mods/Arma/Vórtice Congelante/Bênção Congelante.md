@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vorticeCongelante
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Bênção Congelante.png\|100]] | Quando o Vortice Congelante desaparecer, restaura 10% de PV. |

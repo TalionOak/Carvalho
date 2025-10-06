@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - vorticeCongelante
----
-
 |              Icone              | Efeito                                                          |
 | :-----------------------------: | --------------------------------------------------------------- |
 | ![[Gelo Estilhaçante.png\|100]] | Quando um inimigo no centro do Vórtice Congelante é derrotado, causa 50% de Dano de Gelo de Intensidade Psíquica a inimigos em um raio de 1 metros, uma vez. |

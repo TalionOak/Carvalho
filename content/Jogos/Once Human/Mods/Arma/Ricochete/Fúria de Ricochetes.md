@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - ricochete
----
-
 |               Icone               | Efeito                                                                                                        |
 | :-------------------------------: | ------------------------------------------------------------------------------------------------------------- |
 | ![[Fúria de Ricochetes.png\|100]] | Quanto mais alvos selecionáveis o Ricochetes tiver, maior será o Dano de Ricochetes. até +45% (15% por alvo). |

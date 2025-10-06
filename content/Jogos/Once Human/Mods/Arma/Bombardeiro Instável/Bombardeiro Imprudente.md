@@ -1,10 +1,3 @@
----
-tags:
-  - onceHuman
-  - mod
-  - bombardeiroInstavel
----
-
 |              Icone              | Efeito                                                       |
 | :-----------------------------: | ------------------------------------------------------------ |
 | ![[Bombardeiro Imprudente.png\|100]] | Para cada 1% de Taxa de Crít. aumenta o Dano do Bombardeiro Instável em +0.5%.|
