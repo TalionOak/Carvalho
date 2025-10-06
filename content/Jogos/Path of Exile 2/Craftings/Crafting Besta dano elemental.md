@@ -9,16 +9,18 @@ tags:
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
 
-| Qnt. | Item                                           | Preço                        |
-| ---- | ---------------------------------------------- | ---------------------------- |
-| 2    | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior | 6 ![[Orbe Exaltado.png\|20]] |
-|      |                                                |                              |
-|      |                                                |                              |
-|      |                                                |                              |
-|      |                                                |                              |
- - Total 0,79 ![[Orbe Divino.png|20]] Orbe divino.
-	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 377 ![[Orbe Exaltado.png|20]] Orbe Exaltado
-
+| Qnt. | Item                                                                             | Preço                           |
+| ---- | -------------------------------------------------------------------------------- | ------------------------------- |
+| 2    | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                   | 6 ![[Orbe Exaltado.png\|20]]    |
+| 1    | ![[Presságio da Recombinação.png\|20]] Presságio da Recombinação                 | 48 ![[Orbe Exaltado.png\|20]]   |
+| 1    | ![[Presságio da Cristalização Destra.png\|20]] Presságio da Cristalização Destra | 20  ![[Orbe Exaltado.png\|20]]  |
+| 1    | ![[Essência de Eletricidade Perfeita.png\|20]] Essência de Eletricidade Perfeita | 2 ![[Orbe Exaltado.png\|20]]    |
+| 1    | ![[Presságio da Exaltação Grandiosa.png\|20]] Presságio da Exaltação Grandiosa   | 1 ![[Orbe Exaltado.png\|20]]    |
+| 2    | ![[Presságio da Exaltação Hábil.png\|20]] Presságio da Exaltação Hábil           | 8 ![[Orbe Exaltado.png\|20]]    |
+| 1    | ![[Mandíbula Conservada.png\|20]] Mandíbula Conservada                           | 1 ![[Orbe Exaltado.png\|20]]    |
+| 1    | ![[Presságio dos Ecos Abissais.png\|20]] Presságio dos Ecos Abissais             | 104  ![[Orbe Exaltado.png\|20]] |
+ - Total 0,34 ![[Orbe Divino.png|20]] Orbe divino ou 190 ![[Orbe Exaltado.png|20]] Orbe Exaltado.
+	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 555 ![[Orbe Exaltado.png|20]] Orbe Exaltado
 # Bases para comprar
 - [Besta com dano elemental](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/4m4QpJWES9) - Altere conforme sua preferencia
 - [Bestas com sufixos T8](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/KlyoMyjnc5) - Você pode pegar T7, T6 ou T5, mas as chances de sucesso cai bastante..
