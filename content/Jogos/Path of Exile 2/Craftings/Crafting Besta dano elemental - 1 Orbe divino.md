@@ -4,7 +4,7 @@ tags:
   - pathOfExile2
   - besta
 ---
-![]()
+![](https://youtu.be/ocPfQH7dy-w)
 # Ingredientes
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
@@ -19,7 +19,9 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 | 2    | ![[Presságio da Exaltação Hábil.png\|20]] Presságio da Exaltação Hábil           | 8 ![[Orbe Exaltado.png\|20]]    |
 | 1    | ![[Mandíbula Conservada.png\|20]] Mandíbula Conservada                           | 1 ![[Orbe Exaltado.png\|20]]    |
 | 1    | ![[Presságio dos Ecos Abissais.png\|20]] Presságio dos Ecos Abissais             | 104  ![[Orbe Exaltado.png\|20]] |
- - Total 0,34 ![[Orbe Divino.png|20]] Orbe divino ou 190 ![[Orbe Exaltado.png|20]] Orbe Exaltado.
+| 1    | ![[Essência de Batalha Perfeita.png\|20]] Essência de batalha perfeita           | 65 ![[Orbe Exaltado.png\|20]]   |
+| 1    | ![[Essência de Aceleração Perfeita.png\|20]] Essência de Aceleração perfeita     | 23 ![[Orbe Exaltado.png\|20]]   |
+ - Total 0,50 ![[Orbe Divino.png|20]] Orbe divino ou 278 ![[Orbe Exaltado.png|20]] Orbe Exaltado.
 	- Preço do ![[Orbe Divino.png|20]] Orbe Divino no momento do guia: 555 ![[Orbe Exaltado.png|20]] Orbe Exaltado
 # Bases para comprar
 - [Besta com dano elemental](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/4m4QpJWES9) - Altere conforme sua preferencia
@@ -38,10 +40,14 @@ Sempre verifique o preço dos itens que você vai usar, já que o guia não é a
 		- Você pode usar um ![[Presságio dos Ecos Abissais.png|20]] <span style="color:rgb(0, 176, 240)">Presságio dos Ecos Abissais</span> para aumentar sua chance de sucesso.
 		1. Se não cair dano elemental, você pode usar um ![[Presságio da Luz.png|20]] <span style="color:rgb(0, 176, 240)">Presságio da Luz</span> com ![[Orbe da Anulação.png|20]] <span style="color:rgb(0, 176, 240)">Orbe da Anulação</span> para remover o modificador profanado e refazer o <span style="color:rgb(112, 48, 160)">passo 5</span>.
 		2. Ou você pode recomeçar o craft novamente (mais barato).
+6. Finalizar o craft
+	1. Usar ![[Essência de Aceleração Perfeita.png|20]] <span style="color:rgb(0, 176, 240)">Essência de Aceleração perfeita</span> e ![[Essência de batalha perfeita.png|20]] <span style="color:rgb(0, 176, 240)">Essência de batalha perfeita</span> para arrumar o sufixo.
 # Resultado final
 Como existe muita chance de dar ruim o nosso craft, sempre verifique os preços dos piores resultados possíveis antes de sair tentando montar o seu próprio item.
 
 - Como deve ficar - [Resultado Final](https://br.pathofexile.com/trade2/search/poe2/Rise%20of%20the%20Abyssal/6zjQdYRkcG)
+
+Como esse tipo de modificadores é bem pouco conhecido, é bem provável que não venda nem por 1 div, então faça para uso proprio.
 ## O pior resultado possível
 
 ![[{49550678-3CBE-43AF-8B60-E65BCA19EB70}.png]]
