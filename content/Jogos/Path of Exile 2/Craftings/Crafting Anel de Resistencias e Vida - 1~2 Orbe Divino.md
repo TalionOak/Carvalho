@@ -5,7 +5,6 @@ tags:
   - elmo
   - lacaios
 ---
-![]()
 # Ingredientes
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
