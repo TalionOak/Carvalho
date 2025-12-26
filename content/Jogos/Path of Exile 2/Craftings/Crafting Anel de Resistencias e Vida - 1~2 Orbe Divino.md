@@ -9,7 +9,6 @@ tags:
 
 Sempre verifique o preço dos itens que você vai usar, já que o guia não é atualizado diariamente..
 
-
 | Qnt. | Item                                                                          | Preço                        |
 | ---- | ----------------------------------------------------------------------------- | ---------------------------- |
 | 2    | ![[Orbe Exaltado.png\|20]] Orbe Exaltado Maior                                | 4 ![[Orbe Exaltado.png\|20]] |
