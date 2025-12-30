@@ -7,7 +7,7 @@ tags:
   - BuildsPathOfExile2
   - LigaStarter
 ---
-![](https://www.youtube.com/watch?v=MzHQ4tP1bE0&t=25s)
+![](https://youtu.be/_sBF34WW874)
 
 | Classe | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ------ | ----------- | ----- | ----------- | --------------- |
@@ -140,13 +140,10 @@ tags:
 >| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 >| ![[Coração da Fonte.png\|100]] | Coração da Fonte cara<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Md3ELVKyiJ)       |
 # Arvore de Habilidades
-
-
 ![[{D76F0053-9FAA-4283-9AC4-A96A2FF95A1E}.png]]
 ![[{4C2457B0-13D0-430F-9FD5-3CAA700597AA} 1.png]]
 ![[{33E7015B-EC01-4F65-89C8-02B184802AB3}.png]]
 ![[{6AE371D3-873B-4E91-9534-2928CA00C125}.png]]
-![[{F8B86159-83F5-4AF2-AB8B-34868823B78B}.png]]
 ![[{67927843-5FE8-462B-ADF8-6825D2D32584}.png]]
 ![[{960A9CDF-D504-4EB4-A99C-5F123DA103D4}.png]]
 # Ascendência
