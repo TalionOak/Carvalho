@@ -140,11 +140,33 @@ tags:
 >| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 >| ![[Coração da Fonte.png\|100]] | Coração da Fonte cara<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Md3ELVKyiJ)       |
 # Arvore de Habilidades
+
+## Ato 1
+- [PoE2DB](https://poe2db.tw/pt/pob/KECKbpdPRu)
+- [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsAE8V-hgRvHkSwjn5NoURtRPdjVTCOM7HwVcOk-yuoBpTXfcIa8jCuAAAEhgRNoTOxqAYESCGO-pp0vko=)
+
 ![[{D76F0053-9FAA-4283-9AC4-A96A2FF95A1E}.png]]
+
+## Ato 2
+- [PoE2DB](https://poe2db.tw/pt/pob/neQuR9OpVc)
+- [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBK_Ztjn5zq0mGRLAwrvBVw6SNBH7alNdEbUxrxX5Noe_RM7H7K7s7Y1VmVGIEGk8t3anEhgSjz6gGbx59wkT3wxKnCYYJcRZtYqNuuq5E2ZjbMI4a8pImAAAIc6t-2k2h79EzsYYEqAaSJghIIeSAjvr-qSRwKnmadL5K)
 ![[{4C2457B0-13D0-430F-9FD5-3CAA700597AA} 1.png]]
+## Ato 3
+- [PoE2DB](https://poe2db.tw/pt/pob/Q5rRPRInTB)
+- [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBMvZt8chEbcV-Gk-6rpjb-yuOfnOrM7FtYnEWSYYwjjCu8FXDpI0EftqU14YJTGsNFAF6qAZvHmZU118t3aNuqcSGBKPPvLqrpU2hfcJE98MSRLBiBGNVuzunCU9BRNnv0RrykiYAAAUzsagGhgRNoZImCkghNsokcJFDvkrkgCp5jvqadP6p)
 ![[{33E7015B-EC01-4F65-89C8-02B184802AB3}.png]]
+## Ato 4
+- [PoE2DB](https://poe2db.tw/pt/pob/FkiLFAkCwF)
+- [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBSkRtSYbXlsGB8FW6rkxrWVkBetc9ZlQeYTHpLd28unwiRPeGCX3ClocQLPHI-z72bX1HxX5-2vsrmNskiI5-xcKrpYO64qBA1G1iMK5xNqcJjQTm1ZTXM7GjKAEoCSgNFE2hej-SJpJso27XX-6HhgQT4KPPf1VxFjYfY1XDEqgGYgR477s7q3VPQanE79FzqxryGk8AABDBgVlZ1z0eYfs-fUckiOKgM7FNoXo_kibuh4YEqAardRAiYEgh5IAkcIMaIpLfuZkWkUOO-v6pvkrgIzxDmnQ2yg==)
 ![[{6AE371D3-873B-4E91-9534-2928CA00C125}.png]]
+## Interludio
+- [PoE2DB](https://poe2db.tw/pt/pob/sex9NJShoH)
+- [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBXnW9jph_VXDcUhliSjk-iyLBgfBVftpMa2qnSBABemhz79HXPby6ZlQeYTHpq6XXlqnEAEEo6tp1BLB8IkT3YgSGCWNVlocC7nE2xX4QLPHI47e4nzYf9m1zq45-kaqrdYO6JIj7K-KgPVLFwgEo--m7OzOxfcKnCY0EeO-U13o_Qd2jKAkoGyhpWQ0ULd3SGc9h118wrqNu6qQT4KPPBJLpiU2hwxJA1ObVcRZtYkDyT0EaT5jbRG0a8n1HAAAWjphiSosiHmEAQSjqBLAC7o5-JIg9UvvpM7F6Pxso0hnPYQSS6YlNoUDyfUcWImBIIeSAJHBDbCKS4CODGpkWfmGRQ2vb_qXFgpp0jvoYTqLBd1LfuSNN2e0=)
 ![[{67927843-5FE8-462B-ADF8-6825D2D32584}.png]]
+## End Game
+- [PoE2DB](https://poe2db.tw/pt/pob/x97tKm1Win)
+- [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBhxd2LEeNmn9VYko5PrFuNMHAAVtWaqdua_IZSAkeYTHpPNxA8jKMfcKWhxAs-z7DuLhA0GqRqoO6M7GnCYKA1pkNFHdSIT0JKBso0hnKJQA07ofqpGPio88b2G4_sgHDEubVBLC7O-_Rdb2OmERt5p9SGfBVftpQH1lZx2wfGIwJUeMC7i3dgInwH2X4vLpE94YJCnCuEIsiZlR6P_HI47fadQF6SBCFhcV-uJ9LJHvsfUdjVSSIVh0aTzCuwD6wksXC--l38LhW15b7K0DUlNeU2RfUoyjXXxPg5rWtC2lZcRZtYtwwx--jbkHdz2EEkumJNh9zq6ulWFhiBHE2KOopi09BcNyY2xXDGvJMawAAF42aYkoeYUDy0GozsYKAGyjSGQSwjpgC7osiej99RySIwD776dwwz2EEkumJKOoX5IAkcENsIpLBgdntmRZ-Yf6lxYLioJp0SCHgI29JGE7eOqLB0oXZLI76VRgjTQ==)
 ![[{960A9CDF-D504-4EB4-A99C-5F123DA103D4}.png]]
+
 # Ascendência
 ![[{D31E62C4-5182-41F2-98D5-AB063EEDF58F}.png]]
