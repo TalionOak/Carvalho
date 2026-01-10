@@ -6,7 +6,7 @@ tags:
   - Fogo
   - AtaquesDeLongoAlcance
 ---
-![]()
+![](https://youtu.be/azPTLhbK0FU)
 
 | Classe      | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ----------- | ----------- | ----- | ----------- | --------------- |
