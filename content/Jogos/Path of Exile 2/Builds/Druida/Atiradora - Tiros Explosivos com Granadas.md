@@ -27,13 +27,13 @@ Prioridade nas armaduras: <span style="color:rgb(255, 0, 0)">Ganha deflexão equ
 
 ## Arma
 
-| ![[Besta Elegante.png\|100]] | Besta Rara Barata<br><br>Grande parte das suas moedas vai ser investido em uma arma boa!<br><br>Procure por um com no mínimo 500 de dps e +5 para todas as habilidades de ataque<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/rP022a3mfQ) |
+| ![[Besta Elegante.png\|100]] | Besta Rara Barata<br><br>Grande parte das suas moedas vai ser investido em uma arma boa!<br><br>Procure por um com no mínimo 500 de dps e +5 para todas as habilidades de ataque<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aLg9gVwRue) |
 | :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Besta Elegante.png\|100]] | Besta Rara um pouco mais cara<br><br>Obviamente, se tiver grana, procure por um com no mínimo 700 de dps, +5 para todas as habilidades de ataque e dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JBWaaYl5hl) |
+| ![[Besta Elegante.png\|100]] | Besta Rara um pouco mais cara<br><br>Obviamente, se tiver grana, procure por um com no mínimo 700 de dps, +5 para todas as habilidades de ataque e dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/q9GmG2L3sg) |
 | :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Besta Elegante.png\|100]] | Melhor Besta Rara<br><br>Agora se você tiver podre de rico, procure por um com no mínimo 900 de dps, +5 para todas as habilidades de ataque e dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/rP02288ZHQ) |
+| ![[Besta Elegante.png\|100]] | Melhor Besta Rara<br><br>Agora se você tiver podre de rico, procure por um com no mínimo 900 de dps, +5 para todas as habilidades de ataque e dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2KpdpnvVFk) |
 | :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Peitoral
 
