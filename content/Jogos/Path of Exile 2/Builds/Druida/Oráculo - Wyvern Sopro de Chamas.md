@@ -45,8 +45,8 @@ tags:
 
 ## Elmo
 
-| ![[Grandelmo Imperial.png\|100]] | Elmo<br><br>Procure por um elmo com bastante vida, resistência elemental, e armadura<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/8rLk0gBqsV) |
-| :------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Grandelmo Imperial.png\|100]] | Elmo<br><br>Procure por um elmo com bastante vida, resistência elemental, e armadura<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Z6Y6qmb0tQ) |
+| :------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![[Coroa de Olhos.png\|100]] | Melhor Elmo Único<br><br>Compre quando conseguir nível o suficiente para equipar (45), se estiver com grana sobrando procure por um com mais slots de aprimoramento. <br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/rPlWpodmTQ) |
 | :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,8 +90,8 @@ tags:
 | ![[Sangue do Guerreiro.png\|100]] | Frasco de Vida único para manter a fúria no máximo<br><br>Procure por um Frasco com duração aumentada<br><br>Não recomendo esse frasco caso você ainda não tenha pegado a inoculação de caos!<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qkyDwO5f5) |
 | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Frasco Supremo de Mana.png\|100]] | Frasco de Mana<br><br>Procure por um Frasco Supremo de Mana com bastante cargas<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Ypve6pgksY) |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Frasco Supremo de Mana.png\|100]] | Frasco de Mana<br><br>Procure por um Frasco Supremo de Mana com bastante cargas<br><br>Este frasco é para o Ambrosia dar o máximo de dano.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Ypve6pgksY) |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![[Patuá Extintor.png\|100]] | Patuá #1<br><br>Procure por uma Patuá Extintor<br><br>As outras ficam ao seu gosto.. lembre-se que a inoculação de caos deixa você imune a veneno, caos e sangramento..<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/d82ZD8bOFJ) |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,9 +117,10 @@ tags:
 | ![[Safira.png\|40]][Joias barata](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Wv9lp0zKum)<br> | ![[Safira.png\|40]] [Joias Caras](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qkyZ8w5I5) |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 
-| ![[Coração da Fonte.png\|100]] | Coração da Fonte barato<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Coração da Fonte.png\|100]] | Melhor Coração da Fonte<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zb0jqnG2F4)       |
+| ![[Coração da Fonte.png\|100]] | Coração da Fonte barato<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw)                                                                                                                                                                                                                                                                   |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Coração da Fonte.png\|100]] | Melhor Coração da Fonte<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zb0jqnG2F4)                                                                                                                                                                                                                                                                         |
+| ![[Tragédia Heróica.png\|100]] | Joia obrigatorio para conseguir mais escudo de energia<br><br>Procure por uma Vorana com <span style="color:rgb(0, 176, 240)">Treinamento Druídico</span> e <span style="color:rgb(0, 176, 240)">Energias Naturais</span>.<br><br>Pode ser também <span style="color:rgb(0, 176, 240)">Bastião de Aço</span>, mas o dano é inferior ao Treinamento<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/LW8wdDlTn) |
 # Leveling e End Game
 ## Ato 1
 - [PoE2DB](https://poe2db.tw/pob/CJI9KZl8VZ)
