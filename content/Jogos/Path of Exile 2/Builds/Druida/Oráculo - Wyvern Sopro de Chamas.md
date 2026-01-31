@@ -55,26 +55,26 @@ tags:
 | ![[Luvas de Escamas de Sereia.png\|100]] | Luvas Raras Barata<br><br>Procure por uma luva com bastante vida, resistência elemental e defesas<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/wv49wpEPUb) |
 | :--------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Essentia Sanguis.png\|100]] | Melhor Luvas única<br><br>Se estiver com grana sobrando, compra a luva que tenha mais slots de aprimoramento<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/5z6qggKHa) |
-| :----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[Essentia Sanguis.png\|100]] | Melhor Luvas única<br><br>Compre quando conseguir nível o suficiente para equipar (52), lembre-se que você precisa de Dreno de Vida na arma ou no amuleto para essa luva funcionar.. caso contrario fica impossível de regenerar o escudo de energia..<br><br>Se tiver com grana sobrando, compre um com mais slots de aprimoramento...<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/5z6qggKHa) |
+| :----------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Botas
 
 | ![[Sandálias de Sekhema.png\|100]] | Botas raras<br><br>Procure por uma bota com bastante defesa, velocidade de movimento, um pouco de vida e resistência elemental<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/nrRk07LvT0) |
 | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Sandálias de Sekhema.png\|100]] | Melhor botas raras<br><br>Se tiver dinheiro sobrando, procure por um que tenha deflexão<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vewWJgKDUE) |
-| :--------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Sandálias de Sekhema.png\|100]] | Melhor botas raras<br><br>Se tiver dinheiro sobrando, procure por um que tenha mais escudo de energia, e resistências elementais <br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vewWJgKDUE) |
+| :--------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Aneis
 
-| ![[Anel de Topázio.png\|100]] | Anel raro barato<br><br>Procure por um Anel com ao menos 80 de vida, atributos, resistência elemental e dano.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/9znG7eyQCK) |
-| :---------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Anel de Topázio.png\|100]] | Anel raro barato<br><br>Procure por um anel com atributos, resistência elemental e dano flat.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/9znG7eyQCK) |
+| :---------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Polcirkeln.png\|100]] | Caso o Arauto Glacial não esteja funcionando, compre esse anel que resolve o problema..<br><br>Se tiver dinheiro sobrando, procure por um com encantamento de corrupção..<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/WXLGlQvCm) |
-| :----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Polcirkeln.png\|100]] | Caso o Arauto Glacial não esteja funcionando, compre esse anel que resolve o problema..<br><br>Se tiver dinheiro sobrando, procure por um com encantamento de corrupção..<br><br>Esse anel é somente para mapas, caso for fazer um chefe, você pode usar um anel raro.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/WXLGlQvCm) |
+| :----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Amuleto
 
-| ![[Amuleto de Ouro.png\|100]] | Amuleto barato<br><br>Procure por um Amuleto raro com nível para as habilidades e alguns atributos e dano extra<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6lvXrWdT5) |
-| :---------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Amuleto de Ouro.png\|100]] | Amuleto barato<br><br>Procure por um Amuleto raro com nível para as habilidades, alguns atributos e dano extra<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6lvXrWdT5) |
+| :---------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![[Amuleto de Ouro.png\|100]] | Melhor Amuleto Raro<br><br>Se tiver grana sobrando, procure por um com +3 em habilidades <br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/bGEJYr4zCL) |
 | :---------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -87,14 +87,14 @@ tags:
 | :------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 ## Utilitários
 
-| ![[Sangue do Guerreiro.png\|100]] | Frasco de Vida único para manter a fúria no máximo<br><br>Procure por um Frasco com duração aumentada<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qkyDwO5f5) |
-| :-------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[Sangue do Guerreiro.png\|100]] | Frasco de Vida único para manter a fúria no máximo<br><br>Procure por um Frasco com duração aumentada<br><br>Não recomendo esse frasco caso você ainda não tenha pegado a inoculação de caos!<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qkyDwO5f5) |
+| :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![[Frasco Supremo de Mana.png\|100]] | Frasco de Mana<br><br>Procure por um Frasco Supremo de Mana com bastante cargas<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Ypve6pgksY) |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Patuá Extintor.png\|100]] | Patuá #2<br><br>Procure por uma Patuá Extintor<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/d82ZD8bOFJ) |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[Patuá Extintor.png\|100]] | Patuá #1<br><br>Procure por uma Patuá Extintor<br><br>As outras ficam ao seu gosto.. lembre-se que a inoculação de caos deixa você imune a veneno, caos e sangramento..<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/d82ZD8bOFJ) |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # Instilação do Amuleto
 
 >![[image.png]]
@@ -113,8 +113,9 @@ tags:
 >Utilize essas gemas de habilidades, caso você não tenha dano físico o suficiente para causar a explosão de Armadura!
 # Arvore de Habilidades
 # Joias
-- [Joias barata](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Wv9lp0zKum)
-- [Joias Caras](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qkyZ8w5I5)
+
+| ![[Safira.png\|40]][Joias barata](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Wv9lp0zKum)<br> | ![[Safira.png\|40]] [Joias Caras](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qkyZ8w5I5) |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 
 | ![[Coração da Fonte.png\|100]] | Coração da Fonte barato<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🎮 Talion Oak",
+    pageTitle: "Talion Oak Guias",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
