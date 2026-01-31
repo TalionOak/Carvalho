@@ -98,10 +98,12 @@ tags:
 # Instilação do Amuleto
 
 >![[image.png]]
+>
 >Para dano máximo.
 
 
 >![[image-1.png]]
+>
 >Case você esteja ficando Atordoado constantemente após pegar a Inoculação do Caos, você pode pegar esse ponto no amuleto.
 # Gemas de Habilidades
 >![[{02080607-A2A2-477E-8D2D-B3BD9C04A2FB}.png]]
