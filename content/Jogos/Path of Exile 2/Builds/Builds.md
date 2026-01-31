@@ -4,3 +4,4 @@
 | --------------------------------------------- | --------- | ----- | ----------- | --------------- |
 | [[Oráculo - Lobo Ataque Lunar]]               | Druida    | ⭐⭐    | ⭐⭐          | SIM             |
 | [[Atiradora - Tiros Explosivos com Granadas]] | Atiradora | ⭐⭐    | ⭐⭐⭐         | SIM             |
+| [[Oráculo - Wyvern Sopro de Chamas]]          | Druida    | ⭐⭐    | ⭐⭐⭐         | SIM             |
