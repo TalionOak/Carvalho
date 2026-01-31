@@ -122,11 +122,11 @@ tags:
 ## Ato 1
 - [PoE2DB]([https://poe2db.tw/pt/pob/KECKbpdPRu](https://poe2db.tw/pob/VsC07w7axQ))
 - [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsAE0ghxX5EbZp0bWKOfm8eRPfDEkSwMK7wVcOk-yswjn3ChgQa8qgGAAAESCGadIYEqAYEvkozsU2h_qk=)
-![[image-3.png]]
+![[{DD39AE76-08CB-4A89-8285-797781CB26C5}.png]]
 ## Ato 2
 - [PoE2DB](https://poe2db.tw/pob/yl1OM22t01)
 - [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBLCxHSCFEbTk-Q2xdekmGRLDFxfBVw6S6rlhYx2zyGTzcqAZE933CWB5E2dp947f-pcV-jvqOfhhODJIwjqcJ-ysqeZp0hgTAAW8ewxIwrvAfbWIVwxryn2MAAAdIIUNsqAb-pY76mnSGBAf-qb5KM7GgpgSSTaH7uw==)
-![[image-4.png]]
+![[{B4E7FA12-CD9F-422A-8CA6-1F2F1A5102C9}.png]]
 ## Ato 3
 - [PoE2DB](https://poe2db.tw/pob/sY2PUWsYvh)
 - [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsBOSxHSCFEbXDcOT5DbF16RLDFxfBVw6RYWMdsZlQt3YCJ37nadagGRPd9wlge2n3jt7PI_qXFfo76jn4YToO6DJIwjqcJ-yv2Pb21CSiNBF9u6qS4n5GquFZvHiNNmnTDEjCubWK7O4YE1wiY2xXDGvKfYwAACUghQ2yoBv6ljvoYTiNNmnSGBAn-qb5KM7GgpkDyJr4Ekk2h-7s=)
