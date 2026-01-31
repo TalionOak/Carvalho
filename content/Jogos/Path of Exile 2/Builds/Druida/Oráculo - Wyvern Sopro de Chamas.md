@@ -119,8 +119,9 @@ tags:
 | ![[Coração da Fonte.png\|100]] | Coração da Fonte barato<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![[Coração da Fonte.png\|100]] | Melhor Coração da Fonte<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zb0jqnG2F4)       |
+# Leveling e End Game
 ## Ato 1
-- [PoE2DB]([https://poe2db.tw/pt/pob/KECKbpdPRu](https://poe2db.tw/pob/VsC07w7axQ))
+- [PoE2DB](https://poe2db.tw/pob/CJI9KZl8VZ)
 - [Passivas](https://poe2db.tw/passive-skill-tree/AAAABgsAE0ghxX5EbZp0bWKOfm8eRPfDEkSwMK7wVcOk-yswjn3ChgQa8qgGAAAESCGadIYEqAYEvkozsU2h_qk=)
 ![[{DD39AE76-08CB-4A89-8285-797781CB26C5}.png]]
 ## Ato 2
