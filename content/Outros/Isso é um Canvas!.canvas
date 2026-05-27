@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a0e048c6546779b7","type":"group","x":260,"y":-20,"width":400,"height":400,"color":"2","label":"Grupo sem título"},
+		{"id":"4256bfce1bf01b76","type":"file","file":"Jogos/Path of Exile 2/Path of Exile 2.md","x":-540,"y":-60,"width":640,"height":840},
+		{"id":"6e36b92927c5bb5b","type":"text","text":"","x":340,"y":240,"width":250,"height":60},
+		{"id":"285ebfa1fd2559e8","type":"text","text":"Faz sentido?","x":529,"y":399,"width":250,"height":60},
+		{"id":"986fbd4e8d03701e","type":"file","file":"Jogos/Path of Exile 2/Builds/Druida/Oráculo - Lobo Ataque Lunar.md","x":589,"y":559,"width":651,"height":621},
+		{"id":"9bfac7749a23f127","type":"link","url":"https://www.youtube.com/","x":620,"y":1240,"width":400,"height":400},
+		{"id":"da584d5ed348ea77","x":-260,"y":1040,"width":660,"height":480,"type":"file","file":"Outros/Teste Canvas 2.md"}
+	],
+	"edges":[
+		{"id":"c7766924188b0291","fromNode":"4256bfce1bf01b76","fromSide":"right","toNode":"a0e048c6546779b7","toSide":"left"}
+	]
+}

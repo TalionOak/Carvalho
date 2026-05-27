@@ -1,3 +1,4 @@
+#pathOfExile
 
 Builds de Liga Starter que vocês vão ficar ouvindo por um bom tempo, por que vão estar na boca do povo... e essas builds conseguem fazer todos os conteúdos e não precisa de nenhum item único para dar dano, ou seja, você já pode começar com elas no dia 1.
 # Drenar Essencia e Contagiar
