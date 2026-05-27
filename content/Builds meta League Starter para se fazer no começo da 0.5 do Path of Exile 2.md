@@ -1,9 +1,5 @@
 
-Falta poucos dias para a 0.5 e nesse vídeo, vou trazer para vocês builds de Liga Starter que vocês vão ficar ouvindo por um bom tempo, por que vão estar na boca do povo... e essas builds conseguem fazer todos os conteudos e não precisa de nenhum item unico para dar dano, ou seja, você já pode começar com elas no dia 1.
-
-Então sem demora,
-
-### oi
+Builds de Liga Starter que vocês vão ficar ouvindo por um bom tempo, por que vão estar na boca do povo... e essas builds conseguem fazer todos os conteúdos e não precisa de nenhum item único para dar dano, ou seja, você já pode começar com elas no dia 1.
 # Drenar Essencia e Contagiar
 Contagio você pega no nível 1, Drenar essência no nível 3 e para matar chefes você usa o Tormenta Ossea que pega no nível 14..
 
@@ -47,7 +43,7 @@ Muita gente faz essa buid com a caçadora, com o monge e com a atiradora, ai fic
 
 Muita gente vai estar pegando essa build para fazer a campanha com a caçadora e o monge, visto que essas duas classes tem duas ascensões novas que ninguém sabe como funciona 100%, então se as ascensões novas não prestarem, provavelmente vão voltar para essa build..
 
-![[tufao.png]]https://youtu.be/hf6aG0ZbGOQ?si=DsvTT5ga5xirumu7
+https://youtu.be/hf6aG0ZbGOQ?si=DsvTT5ga5xirumu7
 https://www.youtube.com/watch?v=Yd2UmEzBXM4
 https://youtu.be/PaFb5PudHTY?si=6RxATGJYAupXpvC0
 
@@ -93,7 +89,4 @@ https://www.youtube.com/watch?v=UdIsZHbhXOY
 https://www.youtube.com/watch?v=_N3pkgGhsUk
 https://www.youtube.com/watch?v=aFUnazc9DvQ
 
-Não podemos esquecer das duas novas ascendencias, a spirit walker e o martial artists 
-
-
-Galera, essas são as builds que devem estar no meta na 0.5, obviamente, toda builda é igual comida, não existe a melhor build, e quem estiver tentando te vender isso, saiba que você está sendo enganado. Eu mesmo gosto de comer minha comida com arroz, feijão e mistura, meu irmão não gosta de feijão, e meu cachorro só gosta da mistura, e não tem problema, o importante é o que cada um gosta, e você não deve se esforçar a gostar de alguma coisa só por que o pessoal fala que é bom, olha a gameplay das builds, se você gostar, faz ela, se não gostar, parte para outra, todas as builds consegue fazer todos os conteúdos, obviamente algumas precisam de mais investimento que outras, mas no final, é o que você gosta que importa, o jogo foi feito para ser divertido e não para criar uma competição de qual build é a melhor..
+Não podemos esquecer das duas novas ascendencias, a spirit walker e o martial artists que devem aparecer em algum momento na 0.5

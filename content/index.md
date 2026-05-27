@@ -36,4 +36,4 @@ Estou animado para compartilhar este espaço com vocês e criar juntos uma rede 
 ### Jogos
 
 - [[O que é Once Human🤔|Once Human]]
-- [[O que é Path Of Exile🤔|Path of Exile]]
+- [[Path Of Exile 2|Path of Exile]]
