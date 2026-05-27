@@ -1,1 +1,0 @@
-![[Camiseta de Agente.png]]

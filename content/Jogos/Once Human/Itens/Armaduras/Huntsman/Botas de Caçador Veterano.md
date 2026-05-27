@@ -1,1 +1,0 @@
-![[Botas de Caçador Veterano.png]]

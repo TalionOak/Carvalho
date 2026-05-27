@@ -1,1 +1,0 @@
-![[Calças de Marés Traiçoeiras.png]]

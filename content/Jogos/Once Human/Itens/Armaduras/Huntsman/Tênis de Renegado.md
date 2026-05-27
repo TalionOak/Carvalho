@@ -1,1 +1,0 @@
-![[Tênis de Renegado.png]]

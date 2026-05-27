@@ -1,1 +1,0 @@
-![[Açafrão mutante.png]]

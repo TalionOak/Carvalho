@@ -1,1 +1,0 @@
-![[Luvas de lobo solitário.png]]

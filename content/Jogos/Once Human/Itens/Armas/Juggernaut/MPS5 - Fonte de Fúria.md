@@ -1,1 +1,0 @@
-![[MPS5 - Fonte de Fúria.png]]

@@ -1,1 +1,0 @@
-![[Luvas de Protetor.png]]

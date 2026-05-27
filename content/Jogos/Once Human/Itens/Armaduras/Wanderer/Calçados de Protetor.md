@@ -1,1 +1,0 @@
-![[Calçados de Protetor.png]]

@@ -1,5 +1,0 @@
-
-|         Icone          | Poder                                                                                                                                                                                                                                                                  |
-| :--------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Minidevorador.png]] | Segue continuamente o jogador e invoca 1.0 tentáculo(s) perto de um inimigo a cada 1.5 segundo(s). Os tentáculos esmagarão e causarão dano aos inimigos. Para cada tentáculo(s) 1.0 invocado(s), o Dano de Status do jogador aumenta em 20,0%, até um máximo de 80,0%. |
-|     Onde encontrar     | Eventos místicos                                                                                                                                                                                                                                                       |

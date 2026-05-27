@@ -1,1 +1,0 @@
-![[Besta Recurva.png]]

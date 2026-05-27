@@ -1,1 +1,0 @@
-![[Capuz de Protetor.png]]

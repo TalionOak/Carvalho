@@ -1,1 +1,0 @@
-![[Jaqueta de Protetor.png]]

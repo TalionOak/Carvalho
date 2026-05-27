@@ -1,1 +1,0 @@
-![[Camisa Blackstone.png]]

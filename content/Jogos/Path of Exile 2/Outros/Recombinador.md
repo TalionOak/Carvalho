@@ -1,3 +1,5 @@
+# ATENÇÃO! RECOMBINADOR FOI REMOVIDO NA LIGA 0.5!
+
 # 1. O que é o Recombinador?
 
 O recombinador é uma bancada de craft onde você coloca dois itens. É necessário selecionar pelo menos um modificador em cada item, e o jogo mostrará uma probabilidade de sucesso (variando de 0% a 100%) no centro. Você pode selecionar até 6 modificadores no total entre os dois itens. O mesmo tipo de modificador não pode ser selecionado duas vezes (ex.: 2x dano de raio). Depois, basta clicar em **recombinar**.

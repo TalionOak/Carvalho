@@ -1,1 +1,0 @@
-![[Máscara de lobo solitário.png]]

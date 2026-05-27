@@ -1,1 +1,0 @@
-![[Botas de Runa de Fogo.png]]

@@ -1,1 +1,0 @@
-![[Ves. Superior das Marés Traiçoeiras.png]]

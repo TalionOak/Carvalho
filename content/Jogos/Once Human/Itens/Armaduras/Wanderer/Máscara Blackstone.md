@@ -1,1 +1,0 @@
-![[Máscara Blackstone.png]]

@@ -1,1 +1,0 @@
-![[Calçados de Agente.png]]

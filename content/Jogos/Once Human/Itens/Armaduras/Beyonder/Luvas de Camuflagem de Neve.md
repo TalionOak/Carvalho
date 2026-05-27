@@ -1,1 +1,0 @@
-![[Luvas de Camuflagem de Neve.png]]

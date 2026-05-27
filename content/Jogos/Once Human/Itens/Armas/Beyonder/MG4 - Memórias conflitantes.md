@@ -1,1 +1,0 @@
-![[MG4 - Memórias conflitantes.png]]

@@ -1,1 +1,0 @@
-![[Campânula.png]]
