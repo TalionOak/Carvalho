@@ -18,10 +18,10 @@ interface Colors {
 export type FontSpecification =
   | string
   | {
-      name: string
-      weights?: number[]
-      includeItalic?: boolean
-    }
+    name: string
+    weights?: number[]
+    includeItalic?: boolean
+  }
 
 export interface Theme {
   typography: {
@@ -38,7 +38,7 @@ export interface Theme {
 export type ThemeKey = keyof Colors
 
 const DEFAULT_SANS_SERIF =
-  'system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+  'Source Sans Pro, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 const DEFAULT_MONO = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
 
 export function getFontSpecificationName(spec: FontSpecification): string {
@@ -70,9 +70,9 @@ function formatFontSpecification(
   if (weights.length > 1) {
     const weightSpec = italic
       ? weights
-          .flatMap((w) => [`0,${w}`, `1,${w}`])
-          .sort()
-          .join(";")
+        .flatMap((w) => [`0,${w}`, `1,${w}`])
+        .sort()
+        .join(";")
       : weights.join(";")
 
     features.push(`wght@${weightSpec}`)
