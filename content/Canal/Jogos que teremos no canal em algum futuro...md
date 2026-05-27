@@ -6,13 +6,7 @@ Lost Soul Aside - 2024.. quando?
 
 Fable - 2025
 
-Pragmata - 2025..
-
-The First Berserker: Khazan - 2025?
-
 Phantom Blade Zero - 2025?
-
-Dragon Age Dreadnought - 2025 - Tem o anterior..
 
 Marvel's Wolverine - 2026 - Só PS5?
 

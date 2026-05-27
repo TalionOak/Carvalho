@@ -233,7 +233,7 @@ plugins:
         Youtube: https://www.youtube.com/@TalionOak
         Instagram: https://www.instagram.com/talionoak
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -255,7 +255,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

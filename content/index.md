@@ -5,7 +5,6 @@ title: Bem-vinda ao meu Cantinho 🌟
 > [Youtube](https://www.youtube.com/@TalionOak) |  [Instagram](http://instagram.com/talionoak) |  [Discord](https://discord.gg/4rzacdb7b4)
 
 É com grande alegria que os recebo neste cantinho especial do meu universo digital. Este é o meu espaço no **Obsidian**, uma ferramenta incrível que me permite organizar pensamentos, ideias e conhecimentos de forma interconectada.
-
 ### O que é o Obsidian?
 
 O Obsidian é um aplicativo de anotações baseado em Markdown que funciona em cima de uma pasta local de arquivos de texto simples. Ele permite criar uma rede de conhecimento interligada, semelhante a um "segundo cérebro" digital.
@@ -34,6 +33,4 @@ Estou animado para compartilhar este espaço com vocês e criar juntos uma rede 
 
 **Sejam bem-vindos e aproveitem a exploração!**
 ### Jogos
-
-- [[O que é Once Human🤔|Once Human]]
-- [[Path Of Exile 2|Path of Exile]]
+- [[Jogos/Path Of Exile 2|Path Of Exile]]
