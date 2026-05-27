@@ -5,8 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: 'goatcounter'
-    websiteId: 'talionoak'
+    provider: goatcounter
+    websiteId: talionoak
   locale: pt-BR
   baseUrl: talionoak.github.io/Carvalho
   ignorePatterns:
@@ -213,10 +213,15 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: TalionOak/Carvalho
+        repoId: R_kgDOM-crSQ
+        category: Announcements
+        categoryId: DIC_kwDOM-crSc4C97ff
+        lang: pt
     layout:
       position: afterBody
       priority: 10
