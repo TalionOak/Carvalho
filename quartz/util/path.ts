@@ -46,7 +46,7 @@ export function normalizeRelativeURLs(el: Element | Document, destination: strin
   el.querySelectorAll('[href=""], [href^="./"], [href^="../"]').forEach((item) => {
     _rebaseHtmlElement(item, "href", destination)
   })
-  el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) => {
+  el.querySelectorAll('[src=""], [src^="./"], [^="../"]').forEach((item) => {
     _rebaseHtmlElement(item, "src", destination)
   })
 }

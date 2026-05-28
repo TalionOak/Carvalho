@@ -87,3 +87,5 @@ Ela será o dano principal do seu personagem. E geralmente é ela que determinar
 vamos pegar por exemplo as granadas explosivas, quando você passar o mouse em uma habilidade, ela vai ter dar muitas informações preciosas que vai determinar se você vai precisar criar um novo personagem, mudar a arvore de passivas ou até a sua arma para continuar usando ela.
 
 Todas as habilidades tem tags, que influência diretamente na ascendencia, na arvore de passivas e nas gemas de suporte
+
+![[Pasted image 20260528125608.png]]

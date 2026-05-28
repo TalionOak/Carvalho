@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ccd6a441e75a69d5","type":"file","file":"Sekehmas.png","x":-460,"y":-180,"width":1959,"height":1120},
+		{"id":"ccd6a441e75a69d5","type":"file","file":"Arquivo/Sekehmas.png","x":-460,"y":-180,"width":1959,"height":1120},
 		{"id":"05a4c792565241cc","type":"text","text":"Se tiver alguma mudança no futuro, ou tiver algguma ideia para melhorar o design, comenta no discord","x":-460,"y":-380,"width":250,"height":162},
 		{"id":"705dbfaee8ac8fcb","type":"file","file":"Arquivo/Discord.svg","x":-720,"y":-160,"width":200,"height":200},
 		{"id":"125024ad1d314c54","type":"file","file":"Arquivo/Pasted image 20260527165621.png","x":-960,"y":-160,"width":215,"height":280},
