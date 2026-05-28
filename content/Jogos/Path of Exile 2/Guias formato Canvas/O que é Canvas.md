@@ -1,0 +1,1 @@
+Canvas usa varias notas de uma forma mais interativa, facilitando a visualização de muitas informações que muitas vezes se encontra separadas

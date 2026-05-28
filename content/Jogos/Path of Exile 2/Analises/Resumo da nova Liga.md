@@ -1,3 +1,5 @@
+#pathOfExile 
+
 ![[{3830B336-2ADF-4CD2-9AEC-D5C9DF807997}.png]]
 ![](https://www.youtube.com/watch?v=vkCu3V81N74)
 

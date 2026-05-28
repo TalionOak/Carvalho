@@ -1,3 +1,5 @@
+#pathOfExile 
+
 No Path of Exile 2, copiar uma build de um criador experiente costuma ser uma opção melhor porque evita diversos erros que jogadores iniciantes normalmente cometem ao tentar criar uma build do zero. Criar um personagem sem experiência frequentemente resulta em desperdício de moedas, progressão travada, mortes constantes, falta de dano e dificuldade para entender por que a build simplesmente não funciona no endgame.
 
 Uma build criada por alguém experiente já passou por testes, ajustes e refinamentos. O criador normalmente já resolveu problemas relacionados ao dano, descobriu quais suportes funcionam melhor, quais estatus realmente aumentam o desempenho das habilidades e quais escolhas parecem fortes, mas que acabam sendo armadilhas para jogadores sem experiência.

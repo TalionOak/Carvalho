@@ -1,3 +1,5 @@
+#pathOfExile 
+
 ![](https://www.youtube.com/watch?v=y320TPooDs8&pp=0gcJCQoLAYcqIYzv)
 
 Poucos sabem, mas a pessoa que aparece no novo teaser do path of exile 2 na verdade já está morta.

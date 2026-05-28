@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ef8716509f149808","type":"file","file":"Templo Vaal.png","x":-240,"y":-116,"width":3274,"height":2163},
+		{"id":"c88a619a428565a0","type":"file","file":"Arquivo/Discord.svg","x":-520,"y":104,"width":200,"height":200},
+		{"id":"5f8b221ad706a15b","type":"file","file":"Arquivo/Pasted image 20260527165621.png","x":-760,"y":104,"width":215,"height":280},
+		{"id":"0f8558b7c0928fbf","type":"file","file":"Arquivo/talionoak.png","x":-760,"y":-116,"width":455,"height":168},
+		{"id":"60dc12071a026657","type":"text","text":"Quando sair dia 2, a gente atualiza isso se tiver mudanças mt significativas","x":-414,"y":-375,"width":294,"height":135}
+	],
+	"edges":[]
+}
