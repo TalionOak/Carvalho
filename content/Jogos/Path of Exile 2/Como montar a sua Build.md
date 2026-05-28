@@ -89,3 +89,5 @@ vamos pegar por exemplo as granadas explosivas, quando você passar o mouse em u
 Todas as habilidades tem tags, que influência diretamente na ascendencia, na arvore de passivas e nas gemas de suporte
 
 ![[Pasted image 20260528125608.png]]
+
+![](https://www.youtube.com/watch?v=F7ozRAYK9fQ)
