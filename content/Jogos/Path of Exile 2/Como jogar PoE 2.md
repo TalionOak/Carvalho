@@ -59,7 +59,8 @@ O início dela irá mudar baseado na sua classe escolhida, havendo 2 versões do
 > [!tip] Pesquise
 Lembre-se que você pode pesquisar na arvore de passivas, então não precisa passar em cima de cada ponto para procurar pontos iguais ou relacionados..
 >  
->  ![[{FBDE542B-24E0-4875-989A-0E191FC2C14C}.png]]
+
+  ![[{FBDE542B-24E0-4875-989A-0E191FC2C14C}.png|234]]
 
 Aqui você pode usar as **TAGs** que ficam nas habilidades para tentar aumentar o dano da sua habilidade
 
