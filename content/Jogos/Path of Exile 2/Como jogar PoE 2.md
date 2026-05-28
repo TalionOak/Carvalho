@@ -56,11 +56,9 @@ Você também pode aumentar aumentar a quantidade máxima de gemas de suporte na
 
 O início dela irá mudar baseado na sua classe escolhida, havendo 2 versões do início de cada classe, 2 versões estão ligadas ao fato de que duas classes irão compartilhar o mesmo ponto de partida, como é o caso da <span style="color:rgb(0, 176, 80)">Bruxa</span> e a <span style="color:rgb(0, 176, 80)">Feiticeira</span> e existe uma terceira versão que é vista por todas as outras classes. E essa mudança é para todas as classes, sem exceção.. 
 
-> [!tip] Pesquise
+> [!tip]- Pesquise
 Lembre-se que você pode pesquisar na arvore de passivas, então não precisa passar em cima de cada ponto para procurar pontos iguais ou relacionados..
->  
-
-  ![[{FBDE542B-24E0-4875-989A-0E191FC2C14C}.png|234]]
+> ![[{FBDE542B-24E0-4875-989A-0E191FC2C14C}.png|234]]
 
 Aqui você pode usar as **TAGs** que ficam nas habilidades para tentar aumentar o dano da sua habilidade
 
