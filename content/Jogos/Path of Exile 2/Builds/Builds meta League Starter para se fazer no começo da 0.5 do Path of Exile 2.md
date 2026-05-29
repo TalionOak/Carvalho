@@ -16,6 +16,8 @@ nos chefes, só usar tormenta ossea que você mata qualquer um em 5 a 10 conjura
 
 Existe algumas variações dessa build, algumas com foco no drenar essencia, outras no contagiar e algumas com desenterrar.. recomendo a do contagiar que é menos intenso nos botões... as de desenterrar é boa para os mapas, mas você vai precisar apertar mais botoes..
 
+
+
 Você pode fazer essa build com a bruxa e a feiticeira, mas geralmente o pessoal gosta de usar a bruxa e pegar a ascenção da lich 
 
 https://www.youtube.com/watch?v=yg3qQJQmYTk

@@ -19,16 +19,17 @@ A muda de estratégia:
 **Ato 1 ao ato 2**
 ```
 
-"resistência|ge.* l|dan.*gico|q.* r|vel.* mov"
+"resistência|ge.* l|dan.*gico|quant.* r|vel.* mov"
 
 ```
 
 **Ato 3+**
 ```
 
-"es.* en|ge.* l|q.* r" "!arm" "!ev"
+"es.* en|ge.* l|quant.* r "!arm" "!ev"
 
 ```
 
 Onde você vai usar o **Regex**:
 ![[Pasted image 20260528121546.png|500]]
+

@@ -10,7 +10,6 @@
 
 [[Builds meta League Starter para se fazer no começo da 0.5 do Path of Exile 2]]
 
-| Nome                            | Classe     | Custo | Dificuldade | Começo de Liga? |
-| ------------------------------- | ---------- | ----- | ----------- | --------------- |
-| [[Feiticeira Lacaios de Djinn]] | Feiticeira | ⭐     | ⭐           | SIM             |
-|                                 |            |       |             |                 |
+| Nome                         | Classe     | Custo | Dificuldade | Começo de Liga? |
+| ---------------------------- | ---------- | ----- | ----------- | --------------- |
+| [[Build de Lacais Varashta]] | Feiticeira | ⭐     | ⭐           | SIM             |

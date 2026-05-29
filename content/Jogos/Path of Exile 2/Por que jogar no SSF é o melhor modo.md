@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=mAh6dSAC9gU
 
 O Solo Self-Found, como o nome sugere, faz o jogo girar completamente em torno de você e elimina dependências de outras pessoas — outras pessoas para trocar itens, no caso. É tudo com você. Você só pode usar aquilo que consegue dropar ou craftar.
 

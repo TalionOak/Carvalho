@@ -5,7 +5,8 @@ tags:
   - Atiradora
   - Fogo
   - AtaquesDeLongoAlcance
-League Starter: Nã
+League Starter: Não
+Custo: ⭐⭐
 ---
 ![](https://youtu.be/azPTLhbK0FU)
 
