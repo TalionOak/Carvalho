@@ -1,5 +1,6 @@
 ![](https://youtu.be/cRVpFm74Eac?si=yulnJ2zbu0LIsLhV)
 
+Guia será atualizado em [Live](https://www.twitch.tv/talionoak), após dia 29.
 # Habilidades
 [25 pontos de habilidade](https://poe2db.tw/passive-skill-tree/AAAABwcAABkSgwAAV5MAAEfnAAC5wwAAm84AAN5nAACFCgAAjb4AAOfwAAC1FgAAeQMAAK69AAA20QAAoKoAACDNAACG-QAAIiEAAABfAAAFmQAAoicAAIs9AAAXvQAAgE8AAGVHAACK6AAA)
 [50 pontos de habilidade](https://poe2db.tw/passive-skill-tree/AAAABwcAADISgwAAV5MAAEfnAAC5wwAAm84AAN5nAACFCgAAjb4AAOfwAAC1FgAAeQMAAK69AAAFmQAAKfYAACClAACYPAAAbyoAAFd5AAAFpwAAOmEAAABfAACIGAAAcdwAAC2fAADucgAA1LUAAEo-AACaJQAAAOUAALUdAAAiIQAAF70AAGVHAACiJwAAiugAAIBPAACLPQAANtEAAKCqAAAgzQAAhvkAANMUAABEXQAAWP8AAD4NAAA9wQAARvAAAGlBAAB5xwAAeAAAAA==)
@@ -30,6 +31,9 @@ A muda de estratégia:
 
 ```
 
-Onde você vai usar o **Regex**:
-![[Pasted image 20260528121546.png|500]]
+>[!tip]- Onde usar o Regex?
+> ![[Pasted image 20260528121546.png|500]]
 
+# Filtro de Itens
+
+Clique em Seguir o filtro aqui: https://www.pathofexile.com/account/view-profile/TalionOak-5124/item-filters
