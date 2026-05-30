@@ -4,6 +4,10 @@ Guia será atualizado em [Live](https://www.twitch.tv/talionoak), após dia 29.
 
 Você pode seguir a build também pelo [PoeNinja clicando aqui](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara)
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)
+
+# .Build
+
+![[Disciple of Varashta - Level 62 - Rodbara - poe.ninja.build]]
 # Habilidades
 [25 pontos de habilidade](https://poe2db.tw/passive-skill-tree/AAAABwcAABkSgwAAV5MAAEfnAAC5wwAAm84AAN5nAACFCgAAjb4AAOfwAAC1FgAAeQMAAK69AAA20QAAoKoAACDNAACG-QAAIiEAAABfAAAFmQAAoicAAIs9AAAXvQAAgE8AAGVHAACK6AAA)
 [50 pontos de habilidade](https://poe2db.tw/passive-skill-tree/AAAABwcAADISgwAAV5MAAEfnAAC5wwAAm84AAN5nAACFCgAAjb4AAOfwAAC1FgAAeQMAAK69AAAFmQAAKfYAACClAACYPAAAbyoAAFd5AAAFpwAAOmEAAABfAACIGAAAcdwAAC2fAADucgAA1LUAAEo-AACaJQAAAOUAALUdAAAiIQAAF70AAGVHAACiJwAAiugAAIBPAACLPQAANtEAAKCqAAAgzQAAhvkAANMUAABEXQAAWP8AAD4NAAA9wQAARvAAAGlBAAB5xwAAeAAAAA==)
