@@ -1,7 +1,7 @@
 ![](https://youtu.be/cRVpFm74Eac?si=yulnJ2zbu0LIsLhV)
 
 >[!tip]- Combo para matar chefe no Ato 1
-> ![](https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s)
+> https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s
 
 Guia será atualizado em [Live](https://www.twitch.tv/talionoak), após dia 29.
 
