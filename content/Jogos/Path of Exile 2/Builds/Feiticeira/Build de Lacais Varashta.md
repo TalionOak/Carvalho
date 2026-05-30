@@ -27,7 +27,7 @@ A muda de estratégia:
 **Ato 3+**
 ```
 
-"es.* en|ge.* l|quant.* r "!arm" "!ev"
+"es.* energia|ge.* l|quant.* r" "!armad" "!eva"
 
 ```
 
