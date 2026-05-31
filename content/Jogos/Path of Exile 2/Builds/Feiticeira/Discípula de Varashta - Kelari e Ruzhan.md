@@ -15,7 +15,7 @@
 # POB
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara)
 
-*Clique na foto para acessar o site com a build*
+*<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>*
 
 Guia sendo atualizado em [Live](https://www.twitch.tv/talionoak)!
 
