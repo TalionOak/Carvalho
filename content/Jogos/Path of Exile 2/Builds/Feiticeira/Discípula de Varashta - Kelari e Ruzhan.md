@@ -3,6 +3,11 @@
 >[!tip]- Combo para matar chefe no Ato 1
 > https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s
 
+| Classe     | Ascendencia           | Custo | Dificuldade | Começo de Liga? |
+| ---------- | --------------------- | ----- | ----------- | --------------- |
+| Feiticeira | Discípula de Varashta | ⭐     | ⭐           | SIM             |
+
+
 Guia será atualizado em [Live](https://www.twitch.tv/talionoak), após dia 29.
 
 Você pode seguir a build também pelo [PoeNinja clicando aqui](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara)

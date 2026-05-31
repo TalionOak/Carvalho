@@ -12,4 +12,4 @@
 
 | Nome                         | Classe     | Custo | Dificuldade | Começo de Liga? |
 | ---------------------------- | ---------- | ----- | ----------- | --------------- |
-| [[Build de Lacais Varashta]] | Feiticeira | ⭐     | ⭐           | SIM             |
+| [[Discípula de Varashta - Kelari e Ruzhan]] | Feiticeira | ⭐     | ⭐           | SIM             |
