@@ -1,8 +1,5 @@
 ![](https://youtu.be/cRVpFm74Eac?si=yulnJ2zbu0LIsLhV)
 
->[!tip]- Combo para matar chefe no Ato 1
-> https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s
-
 >[!tip]- Atualização - Dia 1
 > ![](https://www.youtube.com/watch?v=1GRb0tk8ZYo&t=642s)
 
@@ -15,14 +12,10 @@
 # POB
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara)
 
-*<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>*
-
-Guia sendo atualizado em [Live](https://www.twitch.tv/talionoak)!
-
-
+*<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
 # .Build
 
-![[Disciple of Varashta - Level 62 - Rodbara - poe.ninja.build]]
+![[Disciple of Varashta - Lvl 22 - 65.build]]
 
 > [!help]- Onde usar o .Build?
 > <span style="color:rgb(223, 99, 17)">Baixe o arquivo .Build,</span> abra as configurações do jogo e vá em '**Jogo**'. Clique na pasta para abrir o **Filtro de Itens**.
@@ -31,12 +24,34 @@ Guia sendo atualizado em [Live](https://www.twitch.tv/talionoak)!
 > Coloque o arquivo .Build na pasta **BuildPlanner**, já deve aparecer dentro do jogo as passivas e gemas para seguir a build..
 > ![[Pasted image 20260531120012.png]]
 
+> [!help]- Posso usar no Console?
+> O gerenciador de Build da GGG ainda está em fase Beta, por isso não é possível usar no console ainda.. no futuro deve ser possível usar no console igual o filtro de itens..
 # Guia de Leveling
 ## Nível 1 ao nível 5
 Conjure ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">Contagio</span>](https://poe2db.tw/pt/Contagion) nos monstros para matar ele com ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) para espalhar mais ainda o ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">contagiar</span>](https://poe2db.tw/pt/Contagion).
 
-Nos chefes, você começa com ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">bomba congelante</span>](https://poe2db.tw/pt/Frost_Bomb) e muda para o <span style="color:rgb(255, 192, 0)">ataque básico do cajado</span> se você tiver um cajado com nível bom ( Ou usa ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) se estiver mais forte)
-## Nível 6 ao nível 13
+Nos chefes, você começa com ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) e muda para o <span style="color:rgb(255, 192, 0)">ataque básico do cajado</span> se você tiver um cajado com nível bom ( Ou usa ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) se estiver mais forte)
+## Nível 6 ao nível 22 para mapas
+
+Coloque <span style="color:rgb(0, 112, 192)">Desencadeamento</span> no ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">Contagio</span>](https://poe2db.tw/pt/Contagion) , e só conjure ele ao acertar algum inimigo como ![[Pasted image 20260601123628.png|20]][<span style="color:rgb(255, 192, 0)">Dreno de Essência</span>](https://poe2db.tw/pt/Essence_Drain). Assim você garante que vai acertar o Contagio no mesmo alvo do Dreno..
+
+Se quiser, pode colocar <span style="color:rgb(0, 112, 192)">Propagação I</span> no ![[Pasted image 20260601123628.png|20]][<span style="color:rgb(255, 192, 0)">Dreno de Essência</span>](https://poe2db.tw/pt/Essence_Drain).
+
+## Nível 14 ao nível 22 para chefes
+Aqui você derrete os chefes, faça o seguinte combo:
+1. ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb)
+2. ![[Pasted image 20260601123830.png|20]][<span style="color:rgb(255, 192, 0)">Orbe Trovejante</span>](https://poe2db.tw/pt/Orb_of_Storms)
+3. ![[Pasted image 20260601123907.png|20]][<span style="color:rgb(255, 192, 0)">Fuzilamento Abrasador</span>](https://poe2db.tw/pt/Ember_Fusillade)- 7 Vezes
+4. Repete o combo, ignorando a  ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) se estiver em tempo de recarga..
+
+>[!tip]- Veja o combo ao vivo..
+> https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s
+
+## Nível 22
+
+Faça a provação e libere a sua Ascenção escolhendo Discípula de Varashta.
+Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e libere as outras habilidades como ![[Pasted image 20260601124213.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade Relampejante</span>](https://poe2db.tw/pt/Thunderstorm) e ![[Pasted image 20260601124246.png|20]][<span style="color:rgb(255, 192, 0)">Bote</span>](https://poe2db.tw/pt/Pounce).
+
 # Possíveis instilações no amuleto
 
 ![[{575C73CB-72EF-44CC-A5CD-2AC86CA06DAD}.png]]![[{EAB0D055-9873-48CF-89D5-57ECAF1C00D4}.png]]
