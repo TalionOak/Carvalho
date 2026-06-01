@@ -9,10 +9,11 @@
 | Classe     | Ascendencia           | Custo | Dificuldade | Começo de Liga? |
 | ---------- | --------------------- | ----- | ----------- | --------------- |
 | Feiticeira | Discípula de Varashta | ⭐     | ⭐           | SIM             |
-# POB
+# Build atualizada ao vivo abaixo
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara)
 
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
+Maxroll não é atualizado ao vivo!
 # .Build
 
 ![[Disciple of Varashta - Lvl 22 - 65.build]]
@@ -33,7 +34,7 @@ Conjure ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192,
 Nos chefes, você começa com ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) e muda para o <span style="color:rgb(255, 192, 0)">ataque básico do cajado</span> se você tiver um cajado com nível bom ( Ou usa ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) se estiver mais forte)
 ## Nível 6 ao nível 22 para mapas
 
-Coloque <span style="color:rgb(0, 112, 192)">Desencadeamento</span> no ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">Contagio</span>](https://poe2db.tw/pt/Contagion) , e só conjure ele ao acertar algum inimigo como ![[Pasted image 20260601123628.png|20]][<span style="color:rgb(255, 192, 0)">Dreno de Essência</span>](https://poe2db.tw/pt/Essence_Drain). Assim você garante que vai acertar o Contagio no mesmo alvo do Dreno..
+Coloque <span style="color:rgb(0, 112, 192)">Desencadeamento</span> no ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">Contagio</span>](https://poe2db.tw/pt/Contagion) , e só conjure ele ao acertar algum inimigo com ![[Pasted image 20260601123628.png|20]][<span style="color:rgb(255, 192, 0)">Dreno de Essência</span>](https://poe2db.tw/pt/Essence_Drain). Assim você garante que vai acertar o Contagio no mesmo alvo do Dreno..
 
 Se quiser, pode colocar <span style="color:rgb(0, 112, 192)">Propagação I</span> no ![[Pasted image 20260601123628.png|20]][<span style="color:rgb(255, 192, 0)">Dreno de Essência</span>](https://poe2db.tw/pt/Essence_Drain).
 
@@ -52,10 +53,8 @@ Aqui você derrete os chefes, faça o seguinte combo:
 Faça a provação e libere a sua Ascenção escolhendo Discípula de Varashta.
 Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e libere as outras habilidades como ![[Pasted image 20260601124213.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade Relampejante</span>](https://poe2db.tw/pt/Thunderstorm) e ![[Pasted image 20260601124246.png|20]][<span style="color:rgb(255, 192, 0)">Bote</span>](https://poe2db.tw/pt/Pounce).
 
-# Possíveis instilações no amuleto
-
-![[{575C73CB-72EF-44CC-A5CD-2AC86CA06DAD}.png]]![[{EAB0D055-9873-48CF-89D5-57ECAF1C00D4}.png]]
-
+# Instilações no amuleto
+![[Pasted image 20260601125324.png]]
 # Regex para usar nos vendedores
 
 **Ato 1 ao ato 2**
