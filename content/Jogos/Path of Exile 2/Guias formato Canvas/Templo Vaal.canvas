@@ -6,8 +6,8 @@
 		{"id":"0f8558b7c0928fbf","type":"file","file":"Arquivo/talionoak.png","x":-760,"y":-116,"width":455,"height":168},
 		{"id":"60dc12071a026657","type":"text","text":"Quando sair dia 2, a gente atualiza isso se tiver mudanças mt significativas","x":-414,"y":-375,"width":294,"height":135},
 		{"id":"9dce653d321c9080","type":"file","file":"Jogos/Path of Exile 2/Builds/Feiticeira/Discípula de Varashta - Kelari e Ruzhan.md","x":-1400,"y":384,"width":640,"height":1040},
-		{"id":"7640de731380822c","x":-1440,"y":1560,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=Vhd0RSa033Q"},
-		{"id":"e529aa99e2ae3d82","x":-649,"y":1224,"width":329,"height":400,"color":"4","type":"file","file":"Arquivo/{6D77ACD9-6AAD-478D-BE3F-5472F8E27511}.png"}
+		{"id":"7640de731380822c","type":"link","url":"https://www.youtube.com/watch?v=Vhd0RSa033Q","x":-1440,"y":1560,"width":640,"height":360},
+		{"id":"e529aa99e2ae3d82","type":"file","file":"Arquivo/{6D77ACD9-6AAD-478D-BE3F-5472F8E27511}.png","x":-649,"y":1224,"width":329,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"a3028cf525e5d74e","fromNode":"9dce653d321c9080","fromSide":"right","toNode":"ef8716509f149808","toSide":"left"}

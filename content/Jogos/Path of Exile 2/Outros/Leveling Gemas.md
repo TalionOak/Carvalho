@@ -1,7 +1,7 @@
 # Ato 1
-Nível máx. 15
+Nível máx. 14
 Gemas de Suporte nível 1: I
-Gemas de habilidade III
+Gemas de habilidade V
 Segundo conjunto de armas: 4
 # Ato 2
 Nível máx. 32

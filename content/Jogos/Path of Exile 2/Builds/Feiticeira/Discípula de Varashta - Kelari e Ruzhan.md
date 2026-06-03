@@ -10,13 +10,15 @@
 | ---------- | --------------------- | ----- | ----------- | --------------- |
 | Feiticeira | Discípula de Varashta | ⭐     | ⭐           | SIM             |
 # Build atualizada ao vivo abaixo
-[![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara)
+[![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara) 
+[![[logo-mobalytics-expanded-fixed.svg|300]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/93bb5135-f05a-481b-bf56-ece35b762cac)
+
 
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
 Maxroll não é atualizado ao vivo!
 # .Build
 
-![[Disciple of Varashta - Lvl 22 - 65.build]]
+![[Discípula de Varashta - Kelari e Ruzhan.zip]]
 
 > [!help]- Onde usar o .Build?
 > <span style="color:rgb(223, 99, 17)">Baixe o arquivo .Build,</span> abra as configurações do jogo e vá em '**Jogo**'. Clique na pasta para abrir o **Filtro de Itens**.
@@ -51,9 +53,14 @@ Aqui você derrete os chefes, faça o seguinte combo:
 ## Nível 22
 
 Faça a provação e libere a sua Ascenção escolhendo Discípula de Varashta.
-Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e libere as outras habilidades como ![[Pasted image 20260601124213.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade Relampejante</span>](https://poe2db.tw/pt/Thunderstorm) e ![[Pasted image 20260601124246.png|20]][<span style="color:rgb(255, 192, 0)">Bote</span>](https://poe2db.tw/pt/Pounce).
+Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e libere as outras habilidades como ![[Pasted image 20260601124213.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade Relampejante</span>](https://poe2db.tw/pt/Thunderstorm) e ![[Pasted image 20260601124246.png|20]][<span style="color:rgb(255, 192, 0)">Bote</span>](https://poe2db.tw/pt/Pounce). Remove as outras habilidade, agr você só joga com os lacaios da ascensão da feiticeira.
 
 # Instilações no amuleto
+
+## Mais barata
+![[Pasted image 20260601131031.png]]
+
+## Mais cara
 ![[Pasted image 20260601125324.png]]
 # Regex para usar nos vendedores
 
@@ -77,3 +84,21 @@ Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e li
 # Filtro de Itens
 
 Clique em Seguir o filtro aqui: https://www.pathofexile.com/account/view-profile/TalionOak-5124/item-filters
+
+# Itens unicos
+
+https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/JBbl7Z29Il
+
+no futuro trocar para um foco
+
+https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/Kg03k6yh5
+
+
+
+Kelari - Uul-Netol's Embrace
+
+peitoral - Silks of Veneration
+
+"!recu.* vida" "!recarga"
+
+Planícies Áridas
