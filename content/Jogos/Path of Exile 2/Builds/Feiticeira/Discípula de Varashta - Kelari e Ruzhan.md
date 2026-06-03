@@ -102,3 +102,17 @@ peitoral - Silks of Veneration
 "!recu.* vida" "!recarga"
 
 Planícies Áridas
+
+
+# Itens Únicos interessantes
+
+
+## Abissotimbral
+- Muito boa para usar no SSF, farmar ritual até conseguir ela, depois tentar fazer um craft com um Focus e pegar o +2 de lacaios na parte do sufixo..
+[![[Pasted image 20260603205647.png|100]]](https://poe2db.tw/pt/Trenchtimbre)
+
+## Moldamar
+- Muito bom para usar no SSF, mas deve ser um pouco difícil de conseguir isso de primeira. No futuro você troca por um peitoral com mais resistências, espirito e escudo de energia..
+  
+  Ponto bom é que você pode farmar isso no ritual e corromper ate ficar interessante..
+[![[Pasted image 20260603205704.png|100]]](https://poe2db.tw/pt/Waveshaper)
