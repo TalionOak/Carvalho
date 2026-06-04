@@ -11,8 +11,7 @@
 | Feiticeira | Discípula de Varashta | ⭐     | ⭐           | SIM             |
 # Build atualizada ao vivo abaixo
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara) 
-[![[logo-mobalytics-expanded-fixed.svg|300]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/93bb5135-f05a-481b-bf56-ece35b762cac)
-
+[![[Pasted image 20260603210556.png|100]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/93bb5135-f05a-481b-bf56-ece35b762cac)
 
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
 Maxroll não é atualizado ao vivo!
