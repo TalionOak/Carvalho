@@ -94,8 +94,13 @@ Clique em Seguir o filtro aqui: https://www.pathofexile.com/account/view-profile
   Ponto bom é que você pode farmar isso no ritual e corromper ate ficar interessante..
 [![[Pasted image 20260603205704.png|100]]](https://poe2db.tw/pt/Waveshaper)
 
+# Compre os itens aqui!
+![[Discípula de Varashta - Kelari e Ruzhan Itens.canvas]]
 
 # Outros
 
 Kelari - Uul-Netol's Embrace
 peitoral - Silks of Veneration
+
+
+

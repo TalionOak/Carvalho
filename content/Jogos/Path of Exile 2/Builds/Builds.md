@@ -8,8 +8,10 @@
 
 # Versão 0.5 Early Access 
 
-[[Builds meta League Starter para se fazer no começo da 0.5 do Path of Exile 2]]
-
-| Nome                         | Classe     | Custo | Dificuldade | Começo de Liga? |
-| ---------------------------- | ---------- | ----- | ----------- | --------------- |
+| Nome                                        | Classe     | Custo | Dificuldade | Começo de Liga? |
+| ------------------------------------------- | ---------- | ----- | ----------- | --------------- |
 | [[Discípula de Varashta - Kelari e Ruzhan]] | Feiticeira | ⭐     | ⭐           | SIM             |
+
+
+
+[[Builds meta League Starter para se fazer no começo da 0.5 do Path of Exile 2]]
