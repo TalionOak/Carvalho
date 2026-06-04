@@ -84,31 +84,9 @@ Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e li
 # Filtro de Itens
 
 Clique em Seguir o filtro aqui: https://www.pathofexile.com/account/view-profile/TalionOak-5124/item-filters
-
-# Itens unicos
-
-https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/JBbl7Z29Il
-
-no futuro trocar para um foco
-
-https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/Kg03k6yh5
-
-
-
-Kelari - Uul-Netol's Embrace
-
-peitoral - Silks of Veneration
-
-"!recu.* vida" "!recarga"
-
-Planícies Áridas
-
-
 # Itens Únicos interessantes
-
-
 ## Abissotimbral
-- Muito boa para usar no SSF, farmar ritual até conseguir ela, depois tentar fazer um craft com um Focus e pegar o +2 de lacaios na parte do sufixo..
+- Muito boa para usar no SSF, farmar ritual até conseguir ela, depois tentar fazer um craft com um [Focus](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/Kg03k6yh5) e pegar o +2 de lacaios na parte do sufixo..
 [![[Pasted image 20260603205647.png|100]]](https://poe2db.tw/pt/Trenchtimbre)
 
 ## Moldamar
@@ -116,3 +94,9 @@ Planícies Áridas
   
   Ponto bom é que você pode farmar isso no ritual e corromper ate ficar interessante..
 [![[Pasted image 20260603205704.png|100]]](https://poe2db.tw/pt/Waveshaper)
+
+
+# Outros
+
+Kelari - Uul-Netol's Embrace
+peitoral - Silks of Veneration
