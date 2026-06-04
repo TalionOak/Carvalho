@@ -1,4 +1,4 @@
-![](https://youtu.be/cRVpFm74Eac?si=yulnJ2zbu0LIsLhV)
+![](https://www.youtube.com/watch?v=smdc4CjB57Q)
 
 >[!tip]- Atualização - Dia 1
 > ![](https://www.youtube.com/watch?v=1GRb0tk8ZYo&t=642s)
@@ -13,10 +13,10 @@
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara) [![[Pasted image 20260603210556.png|100]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/93bb5135-f05a-481b-bf56-ece35b762cac)
 
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
-Maxroll não é atualizado ao vivo!
+Maxroll e mobalytics não é atualizado ao vivo!
 # .Build
 
-![[Discípula de Varashta - Kelari e Ruzhan.zip]]
+![[Discípula de Varashta - Kelari e Ruzhan.zip|Clique aqui para baixar]]
 
 > [!help]- Onde usar o .Build?
 > <span style="color:rgb(223, 99, 17)">Baixe o arquivo .Build,</span> abra as configurações do jogo e vá em '**Jogo**'. Clique na pasta para abrir o **Filtro de Itens**.
@@ -48,11 +48,12 @@ Aqui você derrete os chefes, faça o seguinte combo:
 >[!tip]- Veja o combo ao vivo..
 > https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s
 
-## Nível 22
+## Nível 22+
 
 Faça a provação e libere a sua Ascenção escolhendo Discípula de Varashta.
 Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e libere as outras habilidades como ![[Pasted image 20260601124213.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade Relampejante</span>](https://poe2db.tw/pt/Thunderstorm) e ![[Pasted image 20260601124246.png|20]][<span style="color:rgb(255, 192, 0)">Bote</span>](https://poe2db.tw/pt/Pounce). Remove as outras habilidade, agr você só joga com os lacaios da ascensão da feiticeira.
 
+Sempre volte na cidade ao subir de nível para ver se tem itens bons para a build, principalmente o elmo e o cetro! Se conseguir um cetro com +2 de nível de lacaio no ato 3, você já garantiu o end game até os mapas t10..
 # Instilações no amuleto
 
 ## Mais barata
