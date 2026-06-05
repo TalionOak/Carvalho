@@ -1,3 +1,8 @@
+Status:  #fim
+Tags: [[Path of Exile 2]]
+
+---
+
 # ATENÇÃO! RECOMBINADOR FOI REMOVIDO NA LIGA 0.5!
 
 # 1. O que é o Recombinador?

@@ -27,7 +27,7 @@ Factorio
 Palworld
 Starfield
 # Jogos que ainda estou jogando
-[[Jogos\Path of Exile 2]]
+[[Path of Exile 2]]
 
 # Jogos que já joguei
 Dungeons 4 - Concluído
