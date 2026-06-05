@@ -1,7 +1,7 @@
 ---
 title: Bem-vinda ao meu Cantinho 🌟
 ---
-> [!tip]- Onde me encontrar
+> [!tip] Onde me encontrar
 > [Youtube](https://www.youtube.com/@TalionOak) |  [Instagram](http://instagram.com/talionoak) |  [Discord](https://discord.gg/4rzacdb7b4)
 
 É com grande alegria que os recebo neste cantinho especial do meu universo digital. Este é o meu espaço no **Obsidian**, uma ferramenta incrível que me permite organizar pensamentos, ideias e conhecimentos de forma interconectada.
@@ -27,10 +27,12 @@ Neste espaço, compartilharei com vocês:
 
 Estou animado para compartilhar este espaço com vocês e criar juntos uma rede de conhecimento rica e diversificada. Vamos embarcar nesta jornada de descobertas e aprendizado mútuo!
 
-> [!info] Caiu o site?
+> [!info]- Caiu o site?
 > Se o site cair ou alguma página não carregar, pode ser que alterei o titulo de algum artigo.. quando isso acontece, você precisa voltar para a página raiz do site para o indexador carregar e atualizar as páginas que mudaram.. 
 > Se mesmo assim não estiver carregando, envie uma mensagem no nosso [Discord](https://discord.gg/4rzacdb7b4)  que vou verificar o que pode ter acontecido..
 
 **Sejam bem-vindos e aproveitem a exploração!**
-### Jogos
-- [[Jogos/Path Of Exile 2|Path Of Exile]]
+
+# Índices
+- [[Path of Exile 2]]
+- [[Youtube]]
