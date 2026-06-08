@@ -20,3 +20,7 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]]
 
 # Outros
 [[Builds meta League Starter para se fazer no começo da 0.5 do Path of Exile 2]]
+
+# Builds da Galera do Discord
+
+[[SRS Gemling Legionnaire]]

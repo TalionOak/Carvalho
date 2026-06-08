@@ -14,3 +14,9 @@ Pradaria pastoreada - Espiritos azmeri
 
 ![[{A9D3AAF5-5B71-471A-B802-C1F012EFD355}.png]]
 - Tem 1 chefe
+
+
+# COmo conseguir verisio excepcional
+![[{A42AD8DC-74A4-4559-9196-3F9DD284F1AB}.png]]
+
+entrando na caverna onde tem um chefe com um nodulo de verisio
