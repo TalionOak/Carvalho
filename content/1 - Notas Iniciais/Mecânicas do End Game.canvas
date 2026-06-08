@@ -31,7 +31,8 @@
 		{"id":"b1807a7f694a660f","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Anéis da Árvore de Gênese.md","x":355,"y":-3360,"width":653,"height":760},
 		{"id":"4949672193b27876","type":"text","text":"# Não ganha fragmento da fenda!","x":2686,"y":1680,"width":480,"height":140},
 		{"id":"b3f05cd195e14010","type":"file","file":"Anexos/Juntando 300 fragmento da fenda.png","x":1550,"y":-1138,"width":260,"height":158},
-		{"id":"ad5bb6c7f3d85080","type":"file","file":"Anexos/Pedra de Fenda.png","x":2686,"y":561,"width":89,"height":89}
+		{"id":"ad5bb6c7f3d85080","type":"file","file":"Anexos/Pedra de Fenda.png","x":2686,"y":561,"width":89,"height":89},
+		{"id":"a37481ea5abc1b72","x":4360,"y":-220,"width":520,"height":740,"type":"file","file":"1 - Notas Iniciais/Vruun, Marechal de Xesht.md"}
 	],
 	"edges":[
 		{"id":"6c2a1f8fc69b50d0","fromNode":"453507bad1b04b21","fromSide":"left","toNode":"38a48ec36454c49b","toSide":"right"},
@@ -69,6 +70,7 @@
 		{"id":"a025a50be3c86bf3","fromNode":"1de31ca0e07e9c9a","fromSide":"right","toNode":"1c3a5ef6559ee891","toSide":"left"},
 		{"id":"61dfbd4d7c985656","fromNode":"63ce9c08b1ed7407","fromSide":"bottom","toNode":"b3f05cd195e14010","toSide":"left"},
 		{"id":"d9148ddb824e53c8","fromNode":"b3f05cd195e14010","fromSide":"right","toNode":"ad5bb6c7f3d85080","toSide":"left"},
-		{"id":"92078ee3a1dd21f8","fromNode":"ad5bb6c7f3d85080","fromSide":"right","toNode":"dbe2d757ee88cfe4","toSide":"top"}
+		{"id":"92078ee3a1dd21f8","fromNode":"ad5bb6c7f3d85080","fromSide":"right","toNode":"dbe2d757ee88cfe4","toSide":"top"},
+		{"id":"c4b1eb0509053e74","fromNode":"78f2f5bfa3b18f68","fromSide":"right","toNode":"a37481ea5abc1b72","toSide":"left"}
 	]
 }
