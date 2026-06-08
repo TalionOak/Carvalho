@@ -4,7 +4,6 @@
 		{"id":"8081aa7105d819fe","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como ganhar pontos de passiva da fenda.md","x":2872,"y":-2880,"width":640,"height":440,"color":"6"},
 		{"id":"e96bca8ca595df67","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Árvore de passivas da fenda.md","x":3226,"y":-2390,"width":772,"height":1120,"color":"6"},
 		{"id":"50a5d5730d327a0c","type":"file","file":"2 - Minhas fontes/Path of Exile 2/O que fazer com os Fragmentos da Fenda.md","x":3246,"y":1360,"width":554,"height":1920},
-		{"id":"78f2f5bfa3b18f68","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como fechar uma colmeia da fenda.md","x":3738,"y":-1090,"width":520,"height":2330,"color":"6"},
 		{"id":"453507bad1b04b21","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como fechar uma fenda.md","x":2886,"y":-1090,"width":560,"height":1740,"color":"6"},
 		{"id":"38a48ec36454c49b","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Essência da Fenda.md","x":2280,"y":-980,"width":528,"height":880,"color":"6"},
 		{"id":"c269da7a3e1471c6","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Recompensas da fenda.md","x":2686,"y":800,"width":480,"height":820,"color":"6"},
@@ -32,7 +31,8 @@
 		{"id":"4949672193b27876","type":"text","text":"# Não ganha fragmento da fenda!","x":2686,"y":1680,"width":480,"height":140},
 		{"id":"b3f05cd195e14010","type":"file","file":"Anexos/Juntando 300 fragmento da fenda.png","x":1550,"y":-1138,"width":260,"height":158},
 		{"id":"ad5bb6c7f3d85080","type":"file","file":"Anexos/Pedra de Fenda.png","x":2686,"y":561,"width":89,"height":89},
-		{"id":"a37481ea5abc1b72","x":4360,"y":-220,"width":520,"height":740,"type":"file","file":"1 - Notas Iniciais/Vruun, Marechal de Xesht.md"}
+		{"id":"78f2f5bfa3b18f68","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como fechar uma colmeia da fenda.md","x":4160,"y":-1090,"width":520,"height":2330,"color":"6"},
+		{"id":"a37481ea5abc1b72","type":"file","file":"1 - Notas Iniciais/Vruun, Marechal de Xesht.md","x":3560,"y":-800,"width":520,"height":740}
 	],
 	"edges":[
 		{"id":"6c2a1f8fc69b50d0","fromNode":"453507bad1b04b21","fromSide":"left","toNode":"38a48ec36454c49b","toSide":"right"},
@@ -71,6 +71,7 @@
 		{"id":"61dfbd4d7c985656","fromNode":"63ce9c08b1ed7407","fromSide":"bottom","toNode":"b3f05cd195e14010","toSide":"left"},
 		{"id":"d9148ddb824e53c8","fromNode":"b3f05cd195e14010","fromSide":"right","toNode":"ad5bb6c7f3d85080","toSide":"left"},
 		{"id":"92078ee3a1dd21f8","fromNode":"ad5bb6c7f3d85080","fromSide":"right","toNode":"dbe2d757ee88cfe4","toSide":"top"},
-		{"id":"c4b1eb0509053e74","fromNode":"78f2f5bfa3b18f68","fromSide":"right","toNode":"a37481ea5abc1b72","toSide":"left"}
+		{"id":"9076bc4770d5966d","fromNode":"453507bad1b04b21","fromSide":"right","toNode":"a37481ea5abc1b72","toSide":"left"},
+		{"id":"86eaa8a92379f74c","fromNode":"78f2f5bfa3b18f68","fromSide":"left","toNode":"a37481ea5abc1b72","toSide":"right"}
 	]
 }
