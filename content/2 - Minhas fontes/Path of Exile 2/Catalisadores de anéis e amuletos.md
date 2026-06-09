@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Catalisadores de anéis e amuletos
@@ -24,6 +24,12 @@ Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melh
 |  ![[Catalisador Sibilante.png\|40]]   | Catalisador Sibilante    |              Conjurador              |
 |  ![[Catalisador de Chayula.png\|40]]  | Catalisador de Chayula   |                 Caos                 |
 |  ![[Catalisador Rastejante.png\|40]]  | Catalisador Rastejante   |              Velocidade              |
+
+Você pode ver todos os modificadores que são influenciados por catalisadores acessando o PoE2DB abaixo:
+- [Amuleto](https://poe2db.tw/us/Amulets#ModifiersCalc)
+- [Anel](https://poe2db.tw/us/Rings#ModifiersCalc)
+
+Por ser um catalisador, você pode combinar isso com a ![[Essência da Fenda.png|20]][[Essência da Fenda]] para aumentar mais ainda a quantidade de catalisadores que podem ser usados no amuleto.
 
 Para conseguir esses catalisadores, você precisa habilitar os respectivos pontos na [[Árvore de Gênese]] na categoria de Moedas:
 

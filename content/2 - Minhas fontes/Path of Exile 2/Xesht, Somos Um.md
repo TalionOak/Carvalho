@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]], [[Chefes]]
 
 ---
 # Xesht, Somos Um
@@ -26,3 +26,4 @@ Possíveis recompensas após eliminar o Xesht, Somos Um:
 | ![[Esplendor de Esh.png\|40]]            | [Esplendor de Esh](https://poe2db.tw/pt/Eshs_Radiance)                                                              | Gemas de Origem | ?      |
 | ![[Abraço de Uul-Netol.png\|40]]         | [Abraço de Uul-Netol](https://poe2db.tw/pt/Uul-Netols_Embrace)                                                      | Gemas de Origem | ?      |
 - 6 Pontos de Habilidades de Fenda no Atlas
+- Alguns pontos extras na [[Árvore de Gênese]] em todas as categorias.

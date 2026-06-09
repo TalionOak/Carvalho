@@ -1,5 +1,5 @@
 Status: #inicio #meio #fim
-Tags: [[Path of Exile 2]], [[Expedição]], [[Mecanicas de Farm]]
+Tags: [[Path of Exile 2]], [[Expedição]], [[Mecânicas de Farm]], [[Expedição]]
 
 ---
 Sempre começar pelas pedras ezomytas com menor espaço de runas, já que cada runa vai para a proxima pedra na linha de explosão.. 

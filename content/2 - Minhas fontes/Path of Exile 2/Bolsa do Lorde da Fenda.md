@@ -1,5 +1,5 @@
 Status: #fim 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Bolsa do Lorde da Fenda

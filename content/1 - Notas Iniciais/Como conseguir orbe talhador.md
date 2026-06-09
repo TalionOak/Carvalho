@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]]
 
 ---
 Orbe talhador só cai de mapas purificados

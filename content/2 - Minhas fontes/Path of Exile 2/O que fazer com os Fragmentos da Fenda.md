@@ -1,20 +1,25 @@
-Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Status: #inicio [[Onde iniciar a missão da Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # O que fazer com os Fragmentos da Fenda?
 
-Ao juntar <span style="color:rgb(255, 192, 0)">300</span> ![[Fragmento da Fenda.png|20]] [[Fragmento da Fenda]], você transforma os fragmentos em uma ![[Dádiva do Ventre Reveladora.png|20]]Dádiva do Ventre Reveladora.
-![[Juntando 300 fragmento da fenda.png]]
+Ao juntar **300** ![[Fragmento da Fenda.png|20]] [[Fragmento da Fenda]], você transforma os fragmentos em uma ![[Dádiva do Ventre Reveladora.png|20]]<span style="color:rgb(0, 176, 80)">Dádiva do Ventre Reveladora</span>.
 
-Você pode usar a Dádiva na [[Árvore de Gênese]] para conseguir uma ![[Pedra de Fenda.png|20]]Pedra da Fenda.
+![[Juntando 300 fragmento da fenda.png|172]]
 
-![[Usando a dádiva do ventre na arvore de genese.png]]
+Você pode usar a Dádiva na [[Árvore de Gênese]] para conseguir uma ![[Pedra de Fenda.png|20]]<span style="color:rgb(0, 176, 80)">Pedra da Fenda</span>.
 
-Após conseguir a ![[Pedra de Fenda.png|20]]Pedra da fenda, você pode usar ela no fim de jogo para revelar fortalezas da fenda.
+![[Usando a dádiva do ventre na arvore de genese.png|338]]
 
-![[Fortaleza da fenda não relevada no fim de jogo.png]]
+Após conseguir a ![[Pedra de Fenda.png|20]]<span style="color:rgb(0, 176, 80)">Pedra da fenda</span>, você pode usar ela no fim de jogo para revelar fortalezas da fenda.
 
-Ao usar a ![[Pedra de Fenda.png|20]]Pedra da fenda, deve revelar uma fortaleza da fenda onde você poderá ter um encontro com os chefes da fenda.
+![[Fortaleza da fenda não relevada no fim de jogo.png|338]]
+![[Uma fortaleza da fenda relevada no fim de jogo.png|338]]
 
-![[Uma fortaleza da fenda relevada no fim de jogo.png]]
+Nessa região você vai encontrar:
+- [[Como fechar uma fortaleza da fenda|2 ~ 3 Fortalezas da fenda]]
+- [[Como fechar uma colônia da colmeia|1 Colônia da fenda]]
+- [[Como fechar uma colmeia da fenda|Biomas da fortaleza da fenda]]
+
+É aqui também onde você enfrenta o [[Aquilo que foi Tul e aquilo que foi Esh]], um passo importante para enfrentar [[Xesht, Somos Um]].

@@ -1,5 +1,5 @@
-Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Status: #fim
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Catalisadores de joias
@@ -24,6 +24,11 @@ Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melh
 |  ![[Catalisador Sibilante Refinado.png\|40]]   | Catalisador Sibilante Refinado    |              Conjutador              |
 |  ![[Catalisador Rastejante Refinado.png\|40]]  | Catalisador Rastejante Refinado   |              Velocidade              |
 |  ![[Catalisador Adaptável Refinado.png\|40]]   | Catalisador Adaptável Refinado    |               Atributo               |
+
+Você pode ver todos os modificadores que são influenciados por catalisadores acessando o PoE2DB abaixo:
+- [Rubi](https://poe2db.tw/us/Ruby)
+- [Esmeralda](https://poe2db.tw/pt/Emerald#ModifiersCalc)
+- [Safira](https://poe2db.tw/pt/Sapphire#ModifiersCalc)
 
 Para conseguir esses catalisadores, você precisa habilitar os respectivos pontos na [[Árvore de Gênese]] na categoria de Moedas:
 

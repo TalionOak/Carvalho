@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Dádivas do Ventre

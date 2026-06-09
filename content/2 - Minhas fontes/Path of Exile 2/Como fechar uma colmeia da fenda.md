@@ -1,5 +1,5 @@
 Status: #inicio
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Como fechar uma colmeia da fenda
@@ -30,4 +30,4 @@ Seu objetivo é defender Ailith custe o que custar até que todas as ondas de mo
 
 Se você liberou as habilidades da [[Ailith]], você poderá usar as habilidades dela para ganhar alguns bônus durante a defesa, como por exemplo, Curar ou Dar escudo a [[Ailith]], ou simplesmente invocar mais monstros para ganhar mais recompensas.
 
-A recompensa é a mesma de uma [[Como fechar uma fenda|fenda]] normal.
+A recompensa é a mesma de uma [[Como fechar uma fenda instável|fenda]] normal.

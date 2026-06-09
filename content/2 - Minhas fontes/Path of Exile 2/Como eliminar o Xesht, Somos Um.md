@@ -1,5 +1,5 @@
 Status: #inicio #meio #fim
-Tags:
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Como eliminar o Xesht, Somos Um

@@ -1,3 +1,9 @@
+Status: #inicio
+Tags: [[Path of Exile 2]]
+
+---
+# Como fazer saloes da matriarca e patriarca
+
 ![[{76EB21E9-FDAC-4EDB-A4A6-8564CC1F8DEF}.png]]
 
 pedra-guia: \+(?:[9-9]\d|[1-9]\d{2,})%

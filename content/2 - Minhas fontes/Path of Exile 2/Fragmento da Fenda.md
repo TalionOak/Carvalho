@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]], [[Fenda]], [[Moedas Empilháveis]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]], [[Moedas Empilháveis]]
 
 ---
 # Fragmento da Fenda

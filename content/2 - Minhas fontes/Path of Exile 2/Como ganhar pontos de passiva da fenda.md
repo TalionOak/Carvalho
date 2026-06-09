@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Fenda]], [[Mecanicas de Farm]]
+Tags: [[Path of Exile 2]], [[Fenda]], [[Mecânicas de Farm]]
 
 ---
 # Como ganhar pontos de passiva da fenda

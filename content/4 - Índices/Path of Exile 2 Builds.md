@@ -1,5 +1,6 @@
 # Outros
 [[Builds]]
+[[Novos modificadores dos Anéis, Cinto e Amuleto]]
 
 # Patrulheira
 [[Atiradora - Tiros Explosivos com Granadas]]

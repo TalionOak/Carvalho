@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecanicas de Farm]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Ritual]]
 
 ---
 ![[Pasted image 20260605201128.png]]![[Pasted image 20260605201406.png]]![[Pasted image 20260605174850.png]]
