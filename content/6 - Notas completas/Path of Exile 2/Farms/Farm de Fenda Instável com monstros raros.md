@@ -63,6 +63,15 @@ Mas se estiver muito cara, você pode comprar somente 1 tábua acima e os 2 rest
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/G646a2Xoib)
 - ![[Tábua de Fenda Item.png|20]]<span style="color:rgb(255, 192, 0)">Efetividade de monstros raros da fenda no mapa aumentada</span>
 - ![[Tábua de Fenda Item.png|20]]<span style="color:rgb(255, 192, 0)">Fendas têm densidade de monstros aumentada</span>
+Se conseguir tente pegar no prefixo: **Efetividade de monstros**, **Raridade de monstros** ou até **Raridade de Itens**, que isso melhora tremendamente o nosso *Farm*.
+
+No prefixo a prioridade é a seguinte:
+1. Efetividade de Monstros
+2. Raridade de Itens
+3. Raridade de Monstros
+4. Mapa tem quantidade de monstros raros aumentado
+
+---
 
 E para finalizar uma tábua única para complementar a quantidade de monstros raros no mapa que deve ficar faltando:
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/KlRloKRPI5)
