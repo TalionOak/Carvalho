@@ -15,3 +15,6 @@ O mapa também estava com delirium
 
 - Grupo de monstros
 "g.* m.*: \+(?:[3-9]\d|[1-9]\d{2,})%"
+
+
+bioma - pantano? swamp
