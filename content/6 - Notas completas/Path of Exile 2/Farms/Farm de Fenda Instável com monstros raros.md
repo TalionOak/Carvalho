@@ -4,6 +4,8 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 ---
 # Farm de Fenda Instável com monstros raros
 
+![](https://www.youtube.com/watch?v=PnQNL3HIyEs)
+
 Por usar monstros raros e efetividade de monstros, você pode precisar de uma *build* forte já que não será tão fácil.. 
 
 Esse tipo de *Farm* foca nas recompensas gerais.. Moedas, itens raros e mágicos, como também itens únicos..  
@@ -17,6 +19,7 @@ As recompensas da Fenda são um bônus que pode ser incluída no resultado final
 | ![[História dos Vaal.png\|40]]       | História dos Vaal   | 1   | Cidades Vaal também são consideradas de outro bioma - Floresta |
 | ![[Pressões Evolucionárias.png\|40]] | Forest Mastery      | 3   | Quantidade de monstros raros aumentada em 15%                  |
 | ![[Moldar as Correntes.png\|40]]     | Moldar as Correntes | 1   | Efetividade de monstros raros da fenda aumentada em 30%        |
+
 Você também precisa ter pego os pontos de quantidade monstros raros, efetividade de monstros, monstros raros e quantidade de monstros na árvore de passivas.. 
 
 # Mapas
