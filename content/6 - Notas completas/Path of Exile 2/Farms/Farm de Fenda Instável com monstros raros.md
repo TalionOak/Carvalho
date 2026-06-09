@@ -20,6 +20,7 @@ As recompensas da Fenda são um bônus que pode ser incluída no resultado final
 | ![[Pressões Evolucionárias.png\|40]] | Forest Mastery      | 3   | Quantidade de monstros raros aumentada em 15%                  |
 | ![[Moldar as Correntes.png\|40]]     | Moldar as Correntes | 1   | Efetividade de monstros raros da fenda aumentada em 30%        |
 
+
 Você também precisa ter pego os pontos de quantidade monstros raros, efetividade de monstros, monstros raros e quantidade de monstros na árvore de passivas.. 
 
 # Mapas
