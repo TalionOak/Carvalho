@@ -4,6 +4,8 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]]
 ---
 # Farm de Orbe Talhador
 
+![](https://youtu.be/3Iv5HxJQ4fg)
+
 A única forma de conseguir ![[Orbe talhador.png|20]]<span style="color:rgb(0, 176, 80)">Orbe Talhador</span> é fazendo <span style="color:rgb(223, 99, 17)">mapas purificados</span> e matando <span style="color:rgb(223, 99, 17)">monstros purificados</span>, então a melhor estratégia para aumentar a nossas chances de *farmar* essa moeda rara, é aumentando a quantidade de monstros e tentado matar eles varias vezes seguidas no mesmo mapa.
 
 Mas após alguns testes, descobri que matar chefes tem a mesma ou até, uma chance maior de conseguir ![[Orbe talhador.png|20]]<span style="color:rgb(0, 176, 80)">Orbe Talhador</span>. Mesmo eles não sendo monstros "purificados".
@@ -46,13 +48,17 @@ Para os mapas você pode usar mapas Corrompidos ou normal, não tem muita difere
 
 Você pode usar um ![[Presságio da raridade caótica.png|20]]<span style="color:rgb(0, 176, 80)">Presságio da Raridade Caótica</span> para adicionar mais tamanhos de grupo.
 
+### Recomendações
+
+Utilize o <span style="color:rgb(255, 192, 0)">Ritual dos Sem Nome</span> para fazer aparecer chefes nos rituais, assim aumenta mais ainda a sua chance de pegar ![[Orbe talhador.png|20]]<span style="color:rgb(0, 176, 80)">Orbe Talhador</span>.
+
 # Bioma
 
 Para esse tipo de *farm* é difícil ter um bioma especifico, mas você pode tentar terraformar o bioma. De preferencia tente pegar o pântano.
 
 Você pode usar o ponto do **Doryani Vestígios da Grandeza** para isso. Lembre-se de não fazer os mapas purificados nesse processo, obvio.
 
-Mas se não conseguir, não tem problemas.
+Mas se não conseguir terraformar, não tem problema.
 
 # Tábuas
 Comprar 1 tábua de cada com <span style="color:rgb(255, 192, 0)">Mapa contém 1 Círculo de Invocação Adicional</span> e se possível <span style="color:rgb(255, 192, 0)">Tamanho de Grupo do Mapa Aumentado</span>:

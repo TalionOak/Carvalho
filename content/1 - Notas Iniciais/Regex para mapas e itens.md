@@ -3,7 +3,7 @@ Tags: [[Path of Exile 2]]
 
 ---
 # Regex para mapas e itens
-
+sw
 ```
 "ren.*:\s*([1-9])$" "corrompido"
 ```

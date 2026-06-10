@@ -101,6 +101,22 @@ Clique em Seguir o filtro aqui: https://www.pathofexile.com/account/view-profile
 Se for usar <span style="color:rgb(0, 112, 192)">inoculação do caos</span>, você precisa de <span style="color:rgb(223, 99, 17)">resistência a atordoamento</span> baseado no escudo de energia, caso contrario, você vai ficar sendo atordoado constantemente durante os mapas!!
 
 ![[{EDACE7AC-FE66-4B8A-AFD6-239A37388C27}.png]]
+
+# Como escalar mais o dano
+
+Compre uma ![[Safira Perdida no Tempo.png|20]]<span style="color:rgb(255, 192, 0)">Safira perdida no tempo</span> com os modificadores que se aplicam a lacaios:
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/mkKaaE5Rt6)
+- Habilidades passivas notáveis ao alcance também concedem Lacaios têm o bônus de dano crítico aumentado
+- Habilidades passivas notáveis ao alcance também concedem Lacaios têm a chance de golpe crítico aumentada
+Se quiser, pode pegar uma variante com <span style="color:rgb(255, 192, 0)">Atualiza o raio de alcance para grande</span>.
+
+Depois você precisa de um ![[Diamante Do Nada.png|20]]<span style="color:rgb(255, 192, 0)">Diamante Do Nada</span> que ativa <span style="color:rgb(223, 99, 17)">Equilíbrio Elemental</span>.
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/Ep7YYEZT5)
+
+Depois é só ativar os pontos em vermelho abaixo e colocar a ![[Safira Perdida no Tempo.png|20]]<span style="color:rgb(255, 192, 0)">Safira perdida no tempo</span> no quadrado verde.
+
+![[Pasted image 20260610183116.png|413]]
+
 # Outros
 
 Kelari - Uul-Netol's Embrace - testar
