@@ -1,4 +1,4 @@
-Status: #meio 
+Status: #meio
 Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
@@ -44,9 +44,9 @@ Você pode usar um ![[Presságio da Quantidade Caótica.png|20]]<span style="col
 
 ## Bioma
 
-Obviamente biomas com a Cidade Vaal.
+Obviamente biomas com a Cidade Vaal ou Floresta.
 
-Tente colocar delirium nos mapas da cidade para aumentar mais ainda as recompensas..
+Tente colocar delirium usando o Simulacrum nos mapas da cidade para aumentar mais ainda as recompensas..
 
 # Tábuas
 
