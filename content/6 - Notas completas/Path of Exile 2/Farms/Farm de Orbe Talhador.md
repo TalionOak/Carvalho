@@ -1,4 +1,4 @@
-Status: #inicio 
+Status: #meio
 Tags: [[Path of Exile 2]], [[Mecânicas de Farm]]
 
 ---
@@ -12,19 +12,19 @@ Então vamos utilizar do <span style="color:rgb(112, 48, 160)">ritual</span> par
 
 # Habilidades do Atlas
 
-| Icone                                | Nome                     | Nº  | Efeito                                                                                 |
-| ------------------------------------ | ------------------------ | --- | -------------------------------------------------------------------------------------- |
-| ![[O caminho escolhido.png\|40]]     | De distâncias Isondáveis |     | Chefes de círculo de invocação tem 5% de chance de lagar 1 Orbe talhador               |
-| ![[Ascensão do Nêmese.png\|40]]      | Ascensão do Nêmese       | 3   | Grupos de monstros raros em seu mapa tem 50% de chance de ter 1 monstro raro adicional |
-| ![[Ascensão do Nêmese.png\|40]]      | A jornada Adiante        | 1   | Tamanho do grupo aumentado em 6%                                                       |
-| ![[Pressões Evolucionárias.png\|40]] | Forest Mastery           | 3   | Quantidade de monstros raros aumentada em 15%                                          |
-| ![[Domínio do Soberano.png\|40]]     | Domínio do Soberano      | 2   | Invoca um circulo de invocação                                                         |
-| ![[O caminho escolhido.png\|40]]     | O caminho escolhido      | 3   | Círculos de Invocação                                                                  |
-| ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução       | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
-| ![[Mountain Mastery.png\|40]]        | Mountain Mastery         | 3   | Raridade de itens encontrados aumentada em 6%                                          |
-| ![[Desert Mastery.png\|40]]          | Desert Mastery           | 3   | Efetividade de monstros aumentada em 15%                                               |
-| ![[Swamp Mastery.png\|40]]           | Swamp Mastery            | 3   | Tamanho do grupo aumentado em 6%                                                       |
-| ![[Grass Mastery.png\|40]]           | Grass Mastery            | 3   | Efetividade de monstros aumentado em 15%                                               |
+| Icone                                | Nome                      | Nº  | Efeito                                                                                 |
+| ------------------------------------ | ------------------------- | --- | -------------------------------------------------------------------------------------- |
+| ![[O caminho escolhido.png\|40]]     | De distâncias Insondáveis |     | Chefes de círculo de invocação tem 5% de chance de lagar 1 Orbe talhador               |
+| ![[Ascensão do Nêmese.png\|40]]      | Ascensão do Nêmese        | 3   | Grupos de monstros raros em seu mapa tem 50% de chance de ter 1 monstro raro adicional |
+| ![[Ascensão do Nêmese.png\|40]]      | A jornada Adiante         | 1   | Tamanho do grupo aumentado em 6%                                                       |
+| ![[Pressões Evolucionárias.png\|40]] | Forest Mastery            | 3   | Quantidade de monstros raros aumentada em 15%                                          |
+| ![[Domínio do Soberano.png\|40]]     | Domínio do Soberano       | 2   | Invoca um circulo de invocação                                                         |
+| ![[O caminho escolhido.png\|40]]     | O caminho escolhido       | 3   | Círculos de Invocação                                                                  |
+| ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução        | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
+| ![[Mountain Mastery.png\|40]]        | Mountain Mastery          | 3   | Raridade de itens encontrados aumentada em 6%                                          |
+| ![[Desert Mastery.png\|40]]          | Desert Mastery            | 3   | Efetividade de monstros aumentada em 15%                                               |
+| ![[Swamp Mastery.png\|40]]           | Swamp Mastery             | 3   | Tamanho do grupo aumentado em 6%                                                       |
+| ![[Grass Mastery.png\|40]]           | Grass Mastery             | 3   | Efetividade de monstros aumentado em 15%                                               |
 
 Você também precisa ter pego os pontos de quantidade de monstros, efetividade e toda a categoria de monstros do pântano, infelizmente como os mapas purificados tem biomas diferentes, recomendo liberar toda a árvore do atlas antes de tentar fazer esse tipo de *farm*.
 
@@ -61,7 +61,7 @@ Comprar 1 tábua de cada com <span style="color:rgb(255, 192, 0)">Mapa contém 1
 - ![[Hegemonia Cruel.png|20]] [Hegemonia Cruel](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/q945zjW9fg)
 Você pode adicionar a tábua do [Delírio](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/EBjn66PRT5) no lugar da Irradiada, fica a seu gosto..
 
-No final Usamos a ![[Hegemonia Cruel.png|20]]<span style="color:rgb(255, 192, 0)">Hegemonia Cruel</span> para fazer o ponto <span style="color:rgb(0, 176, 80)">De distâncias Insondáveis</span> funcionar. Que aumenta a chance em 5% de conseguir Orbe Talhador
+No final usamos a ![[Hegemonia Cruel.png|20]]<span style="color:rgb(255, 192, 0)">Hegemonia Cruel</span> para fazer o ponto <span style="color:rgb(0, 176, 80)">De distâncias Insondáveis</span> funcionar. Que aumenta a chance em 5% de conseguir Orbe Talhador
 
 Se estiver muito caro as tábuas, você pode remover o modificador **Tamanho de grupos do mapa aumentado** para tentar baratear tudo, mas saiba que o lucro pode cair bastante..
 
@@ -74,18 +74,15 @@ No prefixo a prioridade é a seguinte:
 
 ```
 "cir.* ad"
-
 ```
 ou
 ```
-
 "cir.* au"
-
 ```
 Regex para filtrar as tábuas. Esse modificador com +1 é bem raro..
 
 # Mestre do Atlas
-Por causa do Inscrições Antigas, você precisa usar mapas diferentes, caso contrario ele não terá efeito total!
+Por causa da Inscrições Antigas, você precisa usar mapas diferentes, caso contrario, eles não vão ter efeito total!
 
 ![[Pasted image 20260609224354.png|301]]
 
@@ -93,5 +90,5 @@ Por causa do Inscrições Antigas, você precisa usar mapas diferentes, caso con
 
 Se você encontrar o Furor Confinado, terá um chefe no meio do mapa que é garantido soltar um Orbe Talhador!
 
-![[{16139CFF-D7F9-42D4-9ED6-00752430F9A5}.png|479]]
+![[{16139CFF-D7F9-42D4-9ED6-00752430F9A5}.png|314]]
 
