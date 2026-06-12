@@ -12,4 +12,18 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Delirium]]
 ![[Pasted image 20260605205906.png]]
 
 ![[Pasted image 20260605205948.png]]
-![[Pasted image 20260605210530.png]]
+![[Pasted image 20260605210530.png]]![[{2B9F1205-A9D4-404F-A635-4C960B22ADC0}.png]]
+
+
+
+Chefes do Delirium tem alta chance de cair emoções liquidas de tier maior
+
+# Teste
+unique - espirito azmeri nos chefes
+delirium - monstros efetividade e chefe unicos necontro
+irradiado - circulo e efetividade
+mapa - efetividade 
+
+![[Pasted image 20260611181911.png]]
+
+espelho impo

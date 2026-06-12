@@ -3,6 +3,9 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 
 ---
 # Vruun, Marechal de Xesht
+
+![[{FE274248-BAC1-42F1-9711-E42FBE88F82C}.png|271]]
+
 É um chefe que pode aparece após matar os monstros raros ao estabilizar uma [[Como fechar uma fenda instável|Fenda instável]].
 
 # Recompensas
