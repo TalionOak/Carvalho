@@ -33,7 +33,8 @@
 		{"id":"453507bad1b04b21","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como fechar uma fenda instável.md","x":2976,"y":-1115,"width":674,"height":1765,"color":"6"},
 		{"id":"38a48ec36454c49b","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Essência da Fenda.md","x":2376,"y":-1160,"width":528,"height":1200,"color":"6"},
 		{"id":"4e080fc71123e5f1","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Onde iniciar a missão da Fenda.md","x":2440,"y":-2512,"width":680,"height":1240,"color":"4"},
-		{"id":"a37481ea5abc1b72","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Vruun, Marechal de Xesht.md","x":3720,"y":-920,"width":520,"height":600,"color":"6"}
+		{"id":"a37481ea5abc1b72","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Vruun, Marechal de Xesht.md","x":3720,"y":-920,"width":520,"height":600,"color":"6"},
+		{"id":"062f314836b2911e","x":6800,"y":-1905,"width":820,"height":3385,"type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Fenda Instável com monstros raros.md"}
 	],
 	"edges":[
 		{"id":"6c2a1f8fc69b50d0","fromNode":"453507bad1b04b21","fromSide":"left","toNode":"38a48ec36454c49b","toSide":"right"},
@@ -73,6 +74,7 @@
 		{"id":"92078ee3a1dd21f8","fromNode":"ad5bb6c7f3d85080","fromSide":"right","toNode":"dbe2d757ee88cfe4","toSide":"top"},
 		{"id":"9076bc4770d5966d","fromNode":"453507bad1b04b21","fromSide":"right","toNode":"a37481ea5abc1b72","toSide":"left"},
 		{"id":"22771fc368aafb5a","fromNode":"dbe2d757ee88cfe4","fromSide":"right","toNode":"0f0739d7ee3634b1","toSide":"left"},
-		{"id":"272d325145f1ec76","fromNode":"0f0739d7ee3634b1","fromSide":"right","toNode":"1de31ca0e07e9c9a","toSide":"left"}
+		{"id":"272d325145f1ec76","fromNode":"0f0739d7ee3634b1","fromSide":"right","toNode":"1de31ca0e07e9c9a","toSide":"left"},
+		{"id":"7f4fd2f01f1034e7","fromNode":"e96bca8ca595df67","fromSide":"right","toNode":"062f314836b2911e","toSide":"top"}
 	]
 }

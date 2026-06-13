@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"f0fd64470826e193","x":-720,"y":440,"width":560,"height":4200,"type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Orbe Talhador.md"},
+		{"id":"7cf33a9a5a19ada8","type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Fenda Instável com monstros raros.md","x":-80,"y":440,"width":640,"height":3640},
+		{"id":"da84f6664af6d89d","x":-1400,"y":440,"width":580,"height":2742,"type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Tábuas.md"}
+	],
+	"edges":[]
+}

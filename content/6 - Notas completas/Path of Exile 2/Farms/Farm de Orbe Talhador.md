@@ -1,5 +1,5 @@
 Status: #meio
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]]
+Tags: [[Path of Exile 2]], [[Farm]]
 
 ---
 # Farm de Orbe Talhador
@@ -23,7 +23,7 @@ Então vamos utilizar do <span style="color:rgb(112, 48, 160)">ritual</span> par
 | ![[Domínio do Soberano.png\|40]]     | Domínio do Soberano       | 2   | Invoca um circulo de invocação                                                         |
 | ![[O caminho escolhido.png\|40]]     | O caminho escolhido       | 3   | Círculos de Invocação                                                                  |
 | ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução        | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
-| ![[Mountain Mastery.png\|40]]        | Mountain Mastery          | 3   | Raridade de itens encontrados aumentada em 6%                                          |
+| ![[Domínio da Montanha.png\|40]]        | Mountain Mastery          | 3   | Raridade de itens encontrados aumentada em 6%                                          |
 | ![[Desert Mastery.png\|40]]          | Desert Mastery            | 3   | Efetividade de monstros aumentada em 15%                                               |
 | ![[Swamp Mastery.png\|40]]           | Swamp Mastery             | 3   | Tamanho do grupo aumentado em 6%                                                       |
 | ![[Grass Mastery.png\|40]]           | Grass Mastery             | 3   | Efetividade de monstros aumentado em 15%                                               |
