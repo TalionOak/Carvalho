@@ -4,6 +4,8 @@ Tags: [[Path of Exile 2]], [[Farm]]
 ---
 # Farm de Tábuas
 
+![](https://www.youtube.com/watch?v=8JzFYe_AzVw)
+
 Descobriram que se você não usar ![[Tábua Irradiada.png|20]]<span style="color:rgb(0, 176, 80)">tábuas</span> de mecânicas, ao fazer as mecânicas, você tem alta chance de conseguir ![[Tábua Irradiada.png|20]]<span style="color:rgb(0, 176, 80)">tábuas</span>.
 
 Então o esse tipo de *Farm* é voltado em utilizar o máximo de ![[Tábua Irradiada.png|20]]<span style="color:rgb(0, 176, 80)">tábuas</span> irradiadas, que adiciona mais conteúdos aleatório no mapa.
