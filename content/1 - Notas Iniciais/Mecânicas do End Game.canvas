@@ -27,14 +27,15 @@
 		{"id":"c269da7a3e1471c6","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Recompensas da fenda.md","x":2686,"y":840,"width":480,"height":900,"color":"6"},
 		{"id":"dc711830b3919d4e","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Novos modificadores dos Anéis, Cinto e Amuleto.md","x":-383,"y":-1401,"width":446,"height":421,"color":"6"},
 		{"id":"b3f05cd195e14010","type":"file","file":"Anexos/Juntando 300 fragmento da fenda.png","x":1740,"y":-698,"width":260,"height":158,"color":"6"},
-		{"id":"8081aa7105d819fe","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como ganhar pontos de passiva da fenda.md","x":2840,"y":-3080,"width":640,"height":520,"color":"6"},
-		{"id":"e96bca8ca595df67","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Árvore de passivas da fenda.md","x":3280,"y":-2425,"width":740,"height":1065,"color":"6"},
 		{"id":"78f2f5bfa3b18f68","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como fechar uma colmeia da fenda.md","x":4296,"y":-1080,"width":520,"height":2330,"color":"6"},
 		{"id":"453507bad1b04b21","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como fechar uma fenda instável.md","x":2976,"y":-1115,"width":674,"height":1765,"color":"6"},
 		{"id":"38a48ec36454c49b","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Essência da Fenda.md","x":2376,"y":-1160,"width":528,"height":1200,"color":"6"},
 		{"id":"4e080fc71123e5f1","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Onde iniciar a missão da Fenda.md","x":2440,"y":-2512,"width":680,"height":1240,"color":"4"},
 		{"id":"a37481ea5abc1b72","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Vruun, Marechal de Xesht.md","x":3720,"y":-920,"width":520,"height":600,"color":"6"},
-		{"id":"062f314836b2911e","x":6800,"y":-1905,"width":820,"height":3385,"type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Fenda Instável com monstros raros.md"}
+		{"id":"062f314836b2911e","type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Fenda Instável com monstros raros.md","x":6800,"y":-1905,"width":820,"height":3385},
+		{"id":"c90426244a4815ba","type":"file","file":"Anexos/Fenda Icone.png","x":2340,"y":-4960,"width":200,"height":200},
+		{"id":"8081aa7105d819fe","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como ganhar pontos de passiva da fenda.md","x":2960,"y":-3080,"width":640,"height":520,"color":"6"},
+		{"id":"e96bca8ca595df67","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Árvore de passivas da fenda.md","x":3360,"y":-2417,"width":740,"height":1065,"color":"6"}
 	],
 	"edges":[
 		{"id":"6c2a1f8fc69b50d0","fromNode":"453507bad1b04b21","fromSide":"left","toNode":"38a48ec36454c49b","toSide":"right"},
@@ -75,6 +76,7 @@
 		{"id":"9076bc4770d5966d","fromNode":"453507bad1b04b21","fromSide":"right","toNode":"a37481ea5abc1b72","toSide":"left"},
 		{"id":"22771fc368aafb5a","fromNode":"dbe2d757ee88cfe4","fromSide":"right","toNode":"0f0739d7ee3634b1","toSide":"left"},
 		{"id":"272d325145f1ec76","fromNode":"0f0739d7ee3634b1","fromSide":"right","toNode":"1de31ca0e07e9c9a","toSide":"left"},
-		{"id":"7f4fd2f01f1034e7","fromNode":"e96bca8ca595df67","fromSide":"right","toNode":"062f314836b2911e","toSide":"top"}
+		{"id":"7f4fd2f01f1034e7","fromNode":"e96bca8ca595df67","fromSide":"right","toNode":"062f314836b2911e","toSide":"top"},
+		{"id":"17ae3f6395215ecd","fromNode":"c90426244a4815ba","fromSide":"bottom","toNode":"4e080fc71123e5f1","toSide":"top"}
 	]
 }

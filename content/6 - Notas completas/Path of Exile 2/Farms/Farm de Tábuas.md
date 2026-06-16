@@ -33,7 +33,7 @@ Para os mapas você pode usar mapas Corrompidos ou normal, não tem muita difere
 "tamanho.*: \+(?:[2-9]\d|[1-9]\d{2,})%"
 ```
 ```
-"rarid.*: \+(?:[2-9]\d|[1-9]\d{2,})%"
+"r.* itens: \+(?:[2-9]\d|[1-9]\d{2,})%"
 ```
 ```
 "efet.*: \+(?:[2-9]\d|[1-9]\d{2,})%"

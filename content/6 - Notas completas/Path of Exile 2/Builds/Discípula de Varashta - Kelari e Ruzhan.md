@@ -1,5 +1,5 @@
 Status: #meio 
-Tags: [[3 - Tags/Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Lacaios]], [[Dano físico]], [[Dano de fogo]], [[Discípula de Varashta]]
+Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Lacaios]], [[Dano físico]], [[Dano de fogo]], [[Discípula de Varashta]]
 
 ---
 
@@ -9,7 +9,7 @@ Tags: [[3 - Tags/Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], 
 | ---------- | --------------------- | ----- | ----------- | --------------- |
 | Feiticeira | Discípula de Varashta | ⭐     | ⭐           | SIM             |
 # Build atualizada ao vivo abaixo
-[![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara) [![[Pasted image 20260603210556.png|100]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/93bb5135-f05a-481b-bf56-ece35b762cac)
+[![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rodbara)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rodbara) [![[Mobali.png|100]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/93bb5135-f05a-481b-bf56-ece35b762cac)
 
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
 Maxroll e mobalytics não é atualizado ao vivo!
@@ -53,6 +53,7 @@ Faça a provação e libere a sua Ascenção escolhendo Discípula de Varashta.
 Troque os pontos de dano mágico da arvore de passivas para dano de lacaio, e libere as outras habilidades como ![[Pasted image 20260601124213.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade Relampejante</span>](https://poe2db.tw/pt/Thunderstorm) e ![[Pasted image 20260601124246.png|20]][<span style="color:rgb(255, 192, 0)">Bote</span>](https://poe2db.tw/pt/Pounce). Remove as outras habilidade, agr você só joga com os lacaios da ascensão da feiticeira.
 
 Sempre volte na cidade ao subir de nível para ver se tem itens bons para a build, principalmente o elmo e o cetro! Se conseguir um cetro com +2 de nível de lacaio no ato 3, você já garantiu o end game até os mapas t10..
+
 # Instilações no amuleto
 
 Instilação bem cara, mas que faz você ter o bônus dos arconte dos mortos vivo constantemente!
@@ -63,16 +64,12 @@ Instilação bem cara, mas que faz você ter o bônus dos arconte dos mortos viv
 
 **Ato 1 ao ato 2**
 ```
-
 "resistência|ge.* l|dan.*gico|quant.* r|vel.* mov"
-
 ```
 
 **Ato 3+**
 ```
-
 "es.* energia|ge.* l|quant.* r" "!armad" "!eva"
-
 ```
 
 >[!help]- Onde usar o Regex?
@@ -81,12 +78,13 @@ Instilação bem cara, mas que faz você ter o bônus dos arconte dos mortos viv
 # Filtro de Itens
 
 Clique em Seguir o filtro aqui: https://www.pathofexile.com/account/view-profile/TalionOak-5124/item-filters
+
 # Itens Únicos interessantes
-## Abissotimbral
+### Abissotimbral
 - Muito boa para usar no SSF, farmar ritual até conseguir ela, depois tentar fazer um craft com um [Focus](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/Kg03k6yh5) e pegar o +2 de lacaios na parte do sufixo..
 [![[Pasted image 20260603205647.png|100]]](https://poe2db.tw/pt/Trenchtimbre)
 
-## Moldamar
+### Moldamar
 - Muito bom para usar no SSF, mas deve ser um pouco difícil de conseguir isso de primeira. No futuro você troca por um peitoral com mais resistências, espirito e escudo de energia..
   
   Ponto bom é que você pode farmar isso no ritual e corromper ate ficar interessante..

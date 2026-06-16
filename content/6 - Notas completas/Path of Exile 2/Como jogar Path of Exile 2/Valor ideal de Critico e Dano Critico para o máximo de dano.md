@@ -156,7 +156,20 @@ Quero destacar que, no final, eu não otimizei exatamente os valores de taxa cr�
 
 Isso é importante porque, no fim das contas, você só consegue aumentar taxa crítica/dano crítico através de fontes limitadas, sendo a mais importante os itens. É evidente que cada roll investido em taxa crítica poderia também ser investido em dano crítico, e vice-versa. Isso significa que é necessário otimizar a quantidade de rolls (para cada roll em crit, um roll em dano crítico, como mostrado acima: n_c = n_cd = N/2) e não os valores de taxa crítica/dano crítico em si.
 
-Agora caso você queira só saber quantos de critico ou dano critico você precisa investir na sua build para aumentar mais o dano, acessa a calculadora de dano critico abaixo:
+# Mas tudo está errado!
+
+O calculo acima estaria correto no PoE 2 se tivéssemos a disposição para alocar a qualquer hora chance de critico e dano critico. E sabemos que não é assim que funciona o Path of Exile 2.. então precisamos dar peso diferentes para esses dois tipos de *chance*. 
+
+A formula correta de chance de critico para bônus de dano critico no PoE 2 seria de 1:10 ou seja, a cada 1% de chance de crítico, você precisa de 10% de bônus de dano crítico. 
+
+Você pode usar a calculadora abaixo para chegar no valor ideia.
+
+![[Pasted image 20260615013527.png|405]]
 
 https://www.brandonfowler.me/critical-analysis/
 
+# E o crítico inevitável do Oraculo?
+
+https://www.reddit.com/r/PathOfExile2/comments/1pnzoz9/inevitable_critical_damage_calculation/
+
+![[Pasted image 20260615013553.png|396]]
