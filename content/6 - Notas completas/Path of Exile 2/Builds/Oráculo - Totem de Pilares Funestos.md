@@ -2,6 +2,7 @@ Status: #meio
 Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Oráculo]], [[Dano de Gelo]], [[Druida]]
 
 ---
+![](https://www.youtube.com/watch?v=7SF_LfXy8G0)
 
 | Classe | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ------ | ----------- | ----- | ----------- | --------------- |

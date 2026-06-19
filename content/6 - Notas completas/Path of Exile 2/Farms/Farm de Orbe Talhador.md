@@ -36,7 +36,7 @@ Para os mapas você pode usar mapas Corrompidos ou normal, não tem muita difere
 
 ```
 
-"tamanho.*: \+(?:[2-9]\d|[1-9]\d{2,})%"
+"tam.*: \+(?:[2-9]\d|[1-9]\d{2,})%"
 
 ```
 

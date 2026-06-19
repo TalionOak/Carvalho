@@ -33,9 +33,9 @@
 		{"id":"4e080fc71123e5f1","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Onde iniciar a missão da Fenda.md","x":2440,"y":-2512,"width":680,"height":1240,"color":"4"},
 		{"id":"a37481ea5abc1b72","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Vruun, Marechal de Xesht.md","x":3720,"y":-920,"width":520,"height":600,"color":"6"},
 		{"id":"062f314836b2911e","type":"file","file":"6 - Notas completas/Path of Exile 2/Farms/Farm de Fenda Instável com monstros raros.md","x":6800,"y":-1905,"width":820,"height":3385},
-		{"id":"c90426244a4815ba","type":"file","file":"Anexos/Fenda Icone.png","x":2340,"y":-4960,"width":200,"height":200},
 		{"id":"8081aa7105d819fe","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Como ganhar pontos de passiva da fenda.md","x":2960,"y":-3080,"width":640,"height":520,"color":"6"},
-		{"id":"e96bca8ca595df67","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Árvore de passivas da fenda.md","x":3360,"y":-2417,"width":740,"height":1065,"color":"6"}
+		{"id":"e96bca8ca595df67","type":"file","file":"2 - Minhas fontes/Path of Exile 2/Árvore de passivas da fenda.md","x":3360,"y":-2417,"width":740,"height":1065,"color":"6"},
+		{"id":"c90426244a4815ba","type":"file","file":"Anexos/Fenda Icone.png","x":2440,"y":-3840,"width":200,"height":200}
 	],
 	"edges":[
 		{"id":"6c2a1f8fc69b50d0","fromNode":"453507bad1b04b21","fromSide":"left","toNode":"38a48ec36454c49b","toSide":"right"},
