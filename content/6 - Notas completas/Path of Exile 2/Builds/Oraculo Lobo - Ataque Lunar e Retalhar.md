@@ -132,9 +132,9 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Oráculo]], [[Dano de f
 
 
 > [!tip]- Coração da Fonte
->| ![[Coração da Fonte.png\|100]] | Coração da Fonte barata<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
+>| ![[Anexos/Path of Exile 2/Builds/Oráculo - Lobo Benção Lunar/Coração da Fonte.png\|100]] | Coração da Fonte barata<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
 >| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
->| ![[Coração da Fonte.png\|100]] | Coração da Fonte cara<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Md3ELVKyiJ)       |
+>| ![[Anexos/Path of Exile 2/Builds/Oráculo - Lobo Benção Lunar/Coração da Fonte.png\|100]] | Coração da Fonte cara<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Md3ELVKyiJ)       |
 # Arvore de Habilidades
 
 ## Ato 1

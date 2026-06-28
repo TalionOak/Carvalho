@@ -35,9 +35,7 @@ Você também precisa ter pego os pontos de quantidade de monstros, efetividade 
 Para os mapas você pode usar mapas Corrompidos ou normal, não tem muita diferença. O importante é ser +T15 e ter bastante quantidade de monstros e efetividade de monstros.
 
 ```
-
 "tam.*: \+(?:[2-9]\d|[1-9]\d{2,})%"
-
 ```
 
 > [!info]- Como personalizar o Regex?
@@ -85,6 +83,10 @@ ou
 ```
 "cir.* au"
 ```
+```
+"Map.* Rar.* monstro" "Quanti.* raros"
+```
+
 Regex para filtrar as tábuas. Esse modificador com +1 é bem raro..
 
 # Mestre do Atlas

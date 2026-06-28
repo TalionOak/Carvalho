@@ -131,9 +131,9 @@ Prioridade nas armaduras: <span style="color:rgb(255, 0, 0)">Ganha deflexão equ
 - [Joias barata](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/glg2lMq2hQ)
 - [Joias Caras](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/5np8neoeCa)
 
-| ![[Coração da Fonte.png\|100]] | Coração da Fonte barato<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
+| ![[Anexos/Path of Exile 2/Builds/Oráculo - Lobo Benção Lunar/Coração da Fonte.png\|100]] | Coração da Fonte barato<br><br>Procure por uma com no mínimo 10% de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/QLdLBr8RSw) |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Coração da Fonte.png\|100]] | Melhor Coração da Fonte<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Md3ELVKyiJ)       |
+| ![[Anexos/Path of Exile 2/Builds/Oráculo - Lobo Benção Lunar/Coração da Fonte.png\|100]] | Melhor Coração da Fonte<br><br>Procure por uma com 2 tipos de dano extra.<br><br>[Comprar](https://br.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Md3ELVKyiJ)       |
 # Arvore de Habilidades
 
 ## Ato 1

@@ -12,9 +12,11 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Oráculo]], [[Dano de G
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
 Maxroll e mobalytics não é atualizado ao vivo!
 
+Outras versões:
+- [Crítico sem Rakiata.](https://poe.ninja/poe2/pob/21986)
 
+--- 
+# Aumentar o dano
 
-
-
-
-Buried Shrines Grim Pillars
+- Anel da fenda Refinado com bastante atributo
+	- 37,5% de escudo de energia

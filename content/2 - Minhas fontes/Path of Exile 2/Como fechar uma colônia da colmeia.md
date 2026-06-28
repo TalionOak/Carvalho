@@ -4,9 +4,9 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
 ---
 # Como fechar uma colônia da colmeia
 
-Uma colônia da colmeia é onde se encontra os dois chefes da fenda, [[Aquilo que foi Tul e aquilo que foi Esh]].
+Uma colônia da colmeia é onde se encontra os dois chefes da fenda, [[Aquilo que foi Tul e aquilo que foi Esh]]. 
 
-A única forma de encontrar uma Colônia da fenda é usado uma [[O que fazer com os Fragmentos da Fenda|pedra da fenda]] no fim de jogo.
+A única forma de encontrar uma Colônia da fenda é usado uma [[O que fazer com os Fragmentos da Fenda|pedra da fenda]] e revelando um bioma da fenda no fim de jogo.
 
 ![[Uma colônia da colmeia.png]]
 
