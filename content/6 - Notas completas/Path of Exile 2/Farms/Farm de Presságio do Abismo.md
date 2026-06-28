@@ -4,6 +4,8 @@ Tags: [[Path of Exile 2]], [[Abismo]], [[Farm]]
 ---
 # Farm de Presságio do Abismo
 
+![](https://www.youtube.com/watch?v=h4ZliiTFTEI)
+
 Esse tipo de *Farm* foca nos presságios do abismo. Todos na foto abaixo.
 ![[Pasted image 20260616191726.png]]
 
@@ -38,7 +40,7 @@ Sabendo disso, devemos maximizar a quantidade de monstros raros no mapa para con
 | ![[Senhor do Fosso.png\|40]]     | Equilíbrio de Poder | 1   | Amanamu                                                                                |
 | ![[Senhor do Fosso.png\|40]]     | Tesouros Malignos   | 2   | Presságios                                                                             |
 
-Os pontos do exilado renegado é bom por que temos chances de conseguir ![[Anexos/Coração da Fonte.png|20]]<span style="color:rgb(0, 176, 80)">Corações da Fonte</span>.
+Os pontos do exilado renegado é bom por que temos chances de conseguir ![[Anexos/Coração da Fonte.png|20]][<span style="color:rgb(0, 176, 80)">Corações da Fonte</span>](https://poe2db.tw/pt/Heart_of_the_Well).
 
 # Mapas
 
