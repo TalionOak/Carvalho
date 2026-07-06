@@ -14,10 +14,11 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]]
 
 ## Versão 0.5 Early Access 
 
-| Nome                                        | Classe     | Custo   | Dificuldade | Começo de Liga? |
-| ------------------------------------------- | ---------- | ------- | ----------- | --------------- |
-| [[Discípula de Varashta - Kelari e Ruzhan]] | Feiticeira | ⭐       | ⭐           | SIM             |
-| [[Oráculo - Totem de Pilares Funestos]]     | Druida     | Oráculo | ⭐⭐⭐⭐        | SIM             |
+| Nome                                        | Classe     | Custo | Dificuldade | Começo de Liga? |
+| ------------------------------------------- | ---------- | ----- | ----------- | --------------- |
+| [[Discípula de Varashta - Kelari e Ruzhan]] | Feiticeira | ⭐⭐⭐   | ⭐           | SIM             |
+| [[Oráculo - Totem de Pilares Funestos]]     | Druida     | ⭐⭐    | ⭐⭐⭐         | SIM             |
+| [[Tempesta - Infusão com Ego de Adonia]]    | Feiticeira | ⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       | NÃO             |
 
 # Outros
 [[Builds meta League Starter para se fazer no começo da 0.5 do Path of Exile 2]]

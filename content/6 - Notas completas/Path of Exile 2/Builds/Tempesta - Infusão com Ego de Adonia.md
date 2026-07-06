@@ -6,7 +6,7 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempest
 
 | Classe     | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ---------- | ----------- | ----- | ----------- | --------------- |
-| Feitiçeira | Tempesta    | ⭐⭐    | ⭐⭐⭐⭐⭐       | NÃO             |
+| Feiticeira | Tempesta    | ⭐⭐    | ⭐⭐⭐⭐⭐       | NÃO             |
 
 # Build ao vivo abaixo
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rionlia)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rionlia) ![[Mobali.png|100]]
