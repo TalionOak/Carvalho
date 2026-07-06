@@ -6,6 +6,8 @@ Tags: [[Path of Exile 2]]
 
 ![](https://www.youtube.com/watch?v=WJRDGMvaOs0)
 
+![](https://www.youtube.com/watch?v=7tA0qSbP2jQ)
+
 O Solo Self-Found, como o nome sugere, faz o jogo girar completamente em torno de você e elimina dependências de outras pessoas — outras pessoas para trocar itens, outras pessoas para você pedir ajuda pra matar algum chefe, de outras pessoas pra fazer *carry* de ascensão. Você só pode usar aquilo que consegue dropar ou craftar.
 
 Como resultado, o *Solo Self-Found* faz você se envolver com todos os aspectos do Path of Exile 2, sem distrações. Eu realmente não tenho problemas com trade, mas embora o sistema de trocas seja conveniente para conseguir equipamentos — que é essa justamente a beleza do trade — ao mesmo tempo ele acaba limitando o que Path of Exile poderia ser, para melhor ou pior.
