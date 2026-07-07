@@ -15,11 +15,14 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempest
 *Sem guia no mobalytics..*
 
 ##### Outras versões
-- [Nível 65 - Versão barata](https://maxroll.gg/poe2/pob/r84i4y0t)
+- [Nível 65 - Versão barata](https://maxroll.gg/poe2/pob/r84i4y0t) 
 
 # Requisitos
 
-Estar nível 65! Upar de Spark é muito difícil, e cometa só aparece no interludio..
+Estar nível 65! Upar de Spark é muito difícil, e cometa só aparece no interlúdio..
+- Recomendo fazer a campanha com essa a [[Discípula de Varashta - Kelari e Ruzhan]], depois trocar para a **Tempesta**.
+
+Usar o combo do Ego de Adonia a cada 1 ~ 2 minuto.. *<- isso pode ser bem chato..*
 
 # Como craftar os itens da build
 
