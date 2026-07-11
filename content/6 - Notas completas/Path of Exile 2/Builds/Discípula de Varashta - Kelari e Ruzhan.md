@@ -30,7 +30,7 @@ Maxroll e mobalytics não é atualizado ao vivo!
 ## Nível 1 ao nível 5
 Conjure ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">Contagio</span>](https://poe2db.tw/pt/Contagion) nos monstros para matar ele com ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) para espalhar mais ainda o ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">contagiar</span>](https://poe2db.tw/pt/Contagion).
 
-Nos chefes, você começa com ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) e muda para o <span style="color:rgb(255, 192, 0)">ataque básico do cajado</span> se você tiver um cajado com nível bom ( Ou usa ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) se estiver mais forte)
+Nos chefes, você começa com ![[Bomba Congelante.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) e muda para o <span style="color:rgb(255, 192, 0)">ataque básico do cajado</span> se você tiver um cajado com nível bom ( Ou usa ![[Pasted image 20260531120951.png|20]][<span style="color:rgb(255, 192, 0)">Faísca</span>](https://poe2db.tw/pt/Spark) se estiver mais forte)
 ## Nível 6 ao nível 22 para mapas
 
 Coloque <span style="color:rgb(0, 112, 192)">Desencadeamento</span> no ![[Pasted image 20260531120802.png|20]][<span style="color:rgb(255, 192, 0)">Contagio</span>](https://poe2db.tw/pt/Contagion) , e só conjure ele ao acertar algum inimigo com ![[Pasted image 20260601123628.png|20]][<span style="color:rgb(255, 192, 0)">Dreno de Essência</span>](https://poe2db.tw/pt/Essence_Drain). Assim você garante que vai acertar o Contagio no mesmo alvo do Dreno..
@@ -39,10 +39,10 @@ Se quiser, pode colocar <span style="color:rgb(0, 112, 192)">Propagação I</spa
 
 ## Nível 14 ao nível 22 para chefes
 Aqui você derrete os chefes, faça o seguinte combo:
-1. ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb)
+1. ![[Bomba Congelante.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb)
 2. ![[Pasted image 20260601123830.png|20]][<span style="color:rgb(255, 192, 0)">Orbe Trovejante</span>](https://poe2db.tw/pt/Orb_of_Storms)
 3. ![[Pasted image 20260601123907.png|20]][<span style="color:rgb(255, 192, 0)">Fuzilamento Abrasador</span>](https://poe2db.tw/pt/Ember_Fusillade)- 7 Vezes
-4. Repete o combo, ignorando a  ![[Pasted image 20260531121043.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) se estiver em tempo de recarga..
+4. Repete o combo, ignorando a  ![[Bomba Congelante.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb) se estiver em tempo de recarga..
 
 >[!tip]- Veja o combo ao vivo..
 > https://www.youtube.com/watch?v=7FnnGW8LcGM&t=20292s
