@@ -37,14 +37,16 @@ A build funciona envolta de <span style="color:rgb(0, 176, 80)">afeções elemen
 
 # Conjunto de Armas
 
-1º Conjunto
+1º Conjunto de armas
 - ![[Bomba Congelante.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb);
 - ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm) ;
 Restante é conjunto diferente
 
-O primeiro conjunto é para gerar infusões e ser consumida com a Tempestade de Fogo para gerar as cargas de poder com o ponto "Infusão de Poder".
+O primeiro conjunto de armas é para gerar infusões e ser consumida com a ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm) para gerar as cargas de poder com o ponto "Infusão de Poder". 
 
-# Rotação para a *Build*
+Depois trocar para o 2º conjunto de armas e consumir as cargas de poder para duplicar o nosso dano.
+
+# Rotação do combo
 
 ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego) :
 1. ![[Bomba Congelante.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb);
@@ -52,7 +54,7 @@ O primeiro conjunto é para gerar infusões e ser consumida com a Tempestade de 
 3. ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm);
 4. Se você não ganhar 7 Cargas de Poder;
 5.  ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm) de novo. ![[Reminiscência da Tempestade.png|20]][<span style="color:rgb(255, 192, 0)">Reminiscência da Tempestade</span>](https://poe2db.tw/pt/Storms_Recollection) vai ativar te dando infusões extra;
-6. Usa ![[Centelha.png|20]][<span style="color:rgb(255, 192, 0)">Centelha</span>](https://poe2db.tw/pt/Spark) para trocar ao Conjunto de Armas 1
+6. Usa ![[Centelha.png|20]][<span style="color:rgb(255, 192, 0)">Centelha</span>](https://poe2db.tw/pt/Spark) para trocar o Conjunto de Armas
 7. ![[Pináculo do Poder.png|20]]<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>
 - Esse *buff* deve durar 1~3 minutos, e você precisa fazer ele constantemente nos mapas, ou ao entrar em uma região nova.. 
 
