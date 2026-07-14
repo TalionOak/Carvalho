@@ -11,10 +11,10 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempest
 | ---------- | ----------- | ----- | ----------- | --------------- |
 | Feiticeira | Tempesta    | ⭐⭐⭐   | ⭐⭐⭐⭐⭐       | NÃO             |
 
-# Build ao vivo abaixo
+# Build atualizada ao vivo abaixo
 [![[Path of Building.png\|100]]](pob2://poeninja/profile/code/TalionOak-5124/runesofaldurssf/Rionlia)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Rionlia) ![[Mobali.png|100]]
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
-*Sem guia no mobalytics..*
+*Sem guia no mobalytics por enquanto..*
 
 ##### Outras versões
 - [Nível 65 - Versão barata](https://maxroll.gg/poe2/pob/r84i4y0t) 
