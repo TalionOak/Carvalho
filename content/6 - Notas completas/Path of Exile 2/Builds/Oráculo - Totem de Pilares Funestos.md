@@ -12,6 +12,7 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Oráculo]], [[Dano de G
 | Classe | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ------ | ----------- | ----- | ----------- | --------------- |
 | Druida | Oráculo     | ⭐⭐⭐⭐  | ⭐⭐          | SIM             |
+
 [Personagem](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Tush ag) - Reaproveitado
 
 # Build ao vivo abaixo
