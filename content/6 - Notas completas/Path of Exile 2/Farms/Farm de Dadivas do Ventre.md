@@ -4,9 +4,9 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]], [[Fenda]]
 ---
 # Farm de Dadivas do Ventre
 
-![](https://youtu.be/Rj4DiNJvDIw)
+![](https://www.youtube.com/watch?v=JF997BiF3lc)
 
-O ponto <span style="color:rgb(112, 48, 160)">Momento Arriscado</span> na arvore de habilidades da fenda aumenta em 5% a chance de as dadivas serem de nível superior, para cada modificador no mapa, chegando em até 30% se for um mapa com 6 modificador.
+O ponto <span style="color:rgb(112, 48, 160)">Momento Arriscado</span> na arvore de habilidades da fenda aumenta em 5% a chance de as dadivas serem de nível superior para cada modificador no mapa, chegando em até 30% se for um mapa com 6 modificador.
 
 Conseguimos subir isso para 90% usando as tábuas da fenda.
 
