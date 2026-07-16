@@ -18,3 +18,4 @@ Possíveis recompensas após eliminar Aquilo que foi Tul e aquilo que foi Esh:
 | --------------------------------------- | ----------------------------------------------------------------------- | ------ |
 | ![[Bolsa do Lorde da Fenda.png\|50]]    | [[Bolsa do Lorde da Fenda]]                                             | 100%   |
 | ![[Amálgama do Lorde da Fenda.png\|50]] | [Amálgama do Lorde da Fenda](https://poe2db.tw/pt/Breachlord's_Amalgam) | ?      |
+|                                         | Avalanche de Tul                                                        | ?      |

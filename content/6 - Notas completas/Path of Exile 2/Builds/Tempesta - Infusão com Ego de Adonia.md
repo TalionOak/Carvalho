@@ -25,7 +25,7 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempest
 Estar nível 65! Upar de Spark é muito difícil, e cometa só aparece no interlúdio..
 - Recomendo fazer a campanha com a [[Discípula de Varashta - Kelari e Ruzhan]], depois trocar para a **Tempesta**.
 
-Usar o combo do Ego de Adonia a cada 1 ~ 2 minuto.. *<- isso pode ser bem chato..*
+Usar o combo do Ego de Adonia a cada 1 ~ 3 minuto.. *<- isso pode ser bem chato..*
 
 ## Por que está caindo pouco cometas?
 
