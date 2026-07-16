@@ -26,8 +26,8 @@ Você pode começar a build a partir do **Ato 3**!
 - [Versão final](https://maxroll.gg/poe2/pob/wy4hx90x) - Com os itens corretos e gemas de origem perfeitas.
 
 # Requisitos
-[![[{4F507639-E1EF-40E6-925F-D91D2DE55318}.png|275]]](https://poe2db.tw/us/Ancestral_Bond)
-Sem esse ponto você não vai poder invocar os totens, já que não geramos cargas nessa build! Por isso você precisa de muito espírito, se conseguir um cetro com 200 de espírito já consegue invocar 3 totens extras ou até mais..
+[![[{4F507639-E1EF-40E6-925F-D91D2DE55318}.png|233]]](https://poe2db.tw/us/Ancestral_Bond)
+<span style="color:rgb(255, 0, 0)">Sem esse ponto você não vai poder invocar os totens</span>, já que não geramos cargas nessa build! Por isso você precisa de muito espírito, se conseguir um cetro com 200 de espírito já consegue invocar 3 totens extras ou até mais..
 
 Gema de suporte - [Gelo Cortante](https://poe2db.tw/pt/Biting_Frost) Sem essa gema você não vai causar o dano máximo dos totens, então não adianta tentar fazer a build antes do ato 3, já que você só libera essa gema no ato 3..
 

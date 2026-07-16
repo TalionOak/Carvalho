@@ -46,6 +46,9 @@ O primeiro conjunto de armas é para gerar infusões e ser consumida com a ![[Te
 
 Depois trocar para o 2º conjunto de armas e consumir as cargas de poder para duplicar o nosso dano.
 
+# <span style="color:rgb(255, 0, 0)">ATENÇÃO!</span>
+<span style="color:rgb(255, 0, 0)">Se estiver gerando carga de poder com a Varinha na mão, você errou o conjunto de armas</span>, você só deve ter carga de poder para ativar o buff ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego) da varinha, se tiver com carga de poder e o buff ativo, você vai ficar com resistências elementais negativas e vai morrer muito mais nos mapas!!
+
 # Rotação do combo
 
 ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego) :

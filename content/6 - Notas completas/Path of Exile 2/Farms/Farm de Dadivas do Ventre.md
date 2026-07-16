@@ -1,5 +1,5 @@
 Status: #meio
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]]
+Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]], [[Fenda]]
 
 ---
 # Farm de Dadivas do Ventre
@@ -21,6 +21,7 @@ Podemos aumentar a chance para até 72% de as dadivas serem nível 82. Mas isso 
 | ![[Turbas em Evolução.png\|40]]  | Turbas em Evolução     | 2      | Tamanho de Grupos mágicos aumentado em 10%                                          |
 | ![[Moldar as Correntes.png\|40]] | Programa de Reprodução | 4 ou 2 | Dadivas do Ventre Sinete ou Ornada                                                  |
 | ![[Moldar as Correntes.png\|40]] | Abrir a Fenda          | 1      | Consome 1 Pedra de Fenda adicional para adicionar modificadores aos mapas revelados |
+
 Todos os pontos pequeno também influencia nesse farm.. então tenha toda a árvore do atlas liberada..
 
 
