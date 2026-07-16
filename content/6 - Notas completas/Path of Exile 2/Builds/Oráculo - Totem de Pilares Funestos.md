@@ -11,9 +11,7 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Oráculo]], [[Dano de G
 
 | Classe | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ------ | ----------- | ----- | ----------- | --------------- |
-| Druida | Oráculo     | ⭐⭐⭐⭐  | ⭐⭐          | SIM             |
-
-[Personagem](https://poe.ninja/poe2/profile/TalionOak-5124/runesofaldurssf/character/Tush ag) - Reaproveitado
+| Druida | Oráculo     | ⭐⭐⭐   | ⭐⭐          | SIM             |
 
 # Build ao vivo abaixo
 [![[Path of Building.png\|100]]](pob2://pobbin/1HO9_W2F4h_C)[![[poe.ninja.png\|100]]](https://poe.ninja/poe2/builds/runesofaldurssf/character/TalionOak-5124/Tushag?timemachine=week-5) [![[Mobali.png|100]]](https://mobalytics.gg/poe-2/profile/bold-robot-w8uj7v/builds/bebbe94c-4c4c-478f-bbeb-64c6db66ad68)

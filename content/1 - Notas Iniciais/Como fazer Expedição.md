@@ -20,3 +20,5 @@ Pradaria pastoreada - Espiritos azmeri
 ![[{A42AD8DC-74A4-4559-9196-3F9DD284F1AB}.png]]
 
 entrando na caverna onde tem um chefe com um nodulo de verisio
+
+https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/BgOElJpLh8
