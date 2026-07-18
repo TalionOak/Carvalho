@@ -65,10 +65,10 @@ Cidade Ezomytas!
 ![[Tábua de Ritual.png|20]]Comprar 1 tábuas com:
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/wvgK7gXjhb)
 - <span style="color:rgb(223, 99, 17)">Altares ritualísticos no mapa permitem recriar favores mais vezes</span>
+Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 176, 80)">tábua verde</span>.
 ```
 "Alt.* rec" 
 ```
-Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 176, 80)">tábua verde</span>.
 
 ![[Liberdade da Fé.png|20]]Comprar 1 tábua com:
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/eRGB9m4oFL)
@@ -83,7 +83,6 @@ Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 
 "Fav.* rec.* red"
 ```
 
-
 ![[Tábua de Ritual.png|20]] <span style="color:rgb(112, 48, 160)">Comprar 1 tábua com:</span> (Veja os Buffs do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">Cabeça do REI</span>!)
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/2KY7jXrDFk)
 - <span style="color:rgb(223, 99, 17)">Monstros sacrificados em Altares Ritualísticos no mapa concedem mais de tributo</span>
@@ -93,9 +92,9 @@ Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 
 ```
 
 No prefixo a prioridade é a seguinte:
-1. Tamanho de Grupo
-2. Raridade de Monstros
-3. Mapa tem quantidade de monstros raros aumentado
+1. <span style="color:rgb(0, 176, 240)">Tamanho de Grupo</span>
+2. <span style="color:rgb(0, 176, 240)">Raridade de Monstros</span>
+3. <span style="color:rgb(0, 176, 240)">Mapa tem quantidade de monstros raros aumentado</span>
 
 ---
 Assim que você conseguir adiar todos os presságios, você vai precisar comprar eles, e alguns vão custar bem caros...  
