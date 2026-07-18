@@ -21,4 +21,4 @@ Ao fazer o ritual dos sem nome, você não não pode reaproveitar o tributo, ent
 
 # Jado
 
-![[Pasted image 20260605191109.png]]
+![[Pasted image 20260605191109.png]]!![[image.jpg]]

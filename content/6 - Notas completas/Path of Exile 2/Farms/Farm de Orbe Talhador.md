@@ -25,7 +25,7 @@ Então vamos utilizar do <span style="color:rgb(112, 48, 160)">ritual</span> par
 | ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução        | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
 | ![[Domínio da Montanha.png\|40]]        | Mountain Mastery          | 3   | Raridade de itens encontrados aumentada em 6%                                          |
 | ![[Desert Mastery.png\|40]]          | Desert Mastery            | 3   | Efetividade de monstros aumentada em 15%                                               |
-| ![[Swamp Mastery.png\|40]]           | Swamp Mastery             | 3   | Tamanho do grupo aumentado em 6%                                                       |
+| ![[Domínio do Pântano.png\|40]]           | Swamp Mastery             | 3   | Tamanho do grupo aumentado em 6%                                                       |
 | ![[Grass Mastery.png\|40]]           | Grass Mastery             | 3   | Efetividade de monstros aumentado em 15%                                               |
 
 Você também precisa ter pego os pontos de quantidade de monstros, efetividade e toda a categoria de monstros do pântano, infelizmente como os mapas purificados tem biomas diferentes, recomendo liberar toda a árvore do atlas antes de tentar fazer esse tipo de *farm*.
