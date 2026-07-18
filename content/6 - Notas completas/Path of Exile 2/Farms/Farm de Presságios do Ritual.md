@@ -117,6 +117,9 @@ Dependendo dos buffs que você recebeu no ![[Cabeça do Rei.png|20]]<span style=
 Com exceção das recriar favores mais vezes, por que essa é ![[Orbe Divino.png|20]]70 Orbe Divino~~ e pagar esse preço não vale a pena..
 
 Se estiver muito caro as tábuas com esse modificador, a partir do 3º ou 4º mapa do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">rito</span>, você pode encaixar tábuas somente com esse modificador..
+```
+"Fav.* press"
+```
 
 # Mestre do Atlas
 ![[{C9609E41-90FC-449D-BEB2-C81D57D4E0A0}.png|423]]
