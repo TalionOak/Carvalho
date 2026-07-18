@@ -14,6 +14,8 @@ Podemos aumentar nossas chances de conseguir esse presságios com tábuas e mapa
 
 Então vamos adiar todos os presságios uma única vez, e você só vai adiar novamente, se ficar com uma borda vermelha envolta do item. 
 
+![[Pasted image 20260718000455.png]]
+
 Para comprar os itens, você vai usar outra tábua que vai reduzir o custo dos adiamentos, e ai sim, você vai adiar os itens para reduzir o seu custo e depois comprar quando não puder mais adiar eles..
 
 > [!info]- Ritual recebeu Buffs
@@ -107,6 +109,14 @@ para isso, você precisa comprar alguma tábua com o modificador:
 ```
 
 Dependendo dos buffs que você recebeu no ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">Cabeça do Rei</span>, você já pode usar essa tábua sem precisar da <span style="color:rgb(112, 48, 160)">Roxa</span> ou da <span style="color:rgb(0, 176, 80)">Verde</span>!
+
+### Observação nas tábuas
+
+<span style="color:rgb(255, 0, 0)">TODAS PRECISAM TER </span>
+- <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
+Com exceção das recriar favores mais vezes, por que essa é ![[Orbe Divino.png|20]]70 Orbe Divino~~ e pagar esse preço não vale a pena..
+
+Se estiver muito caro as tábuas com esse modificador, a partir do 3º ou 4º mapa do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">rito</span>, você pode encaixar tábuas somente com esse modificador..
 
 # Mestre do Atlas
 ![[{C9609E41-90FC-449D-BEB2-C81D57D4E0A0}.png|423]]
