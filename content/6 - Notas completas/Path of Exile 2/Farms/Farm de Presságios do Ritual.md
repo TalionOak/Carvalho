@@ -4,26 +4,27 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]], [[Ritual]]
 ---
 # Farm de Presságios do Ritual
 
-![]()
+![](https://youtu.be/3GXKgJSZtcc)
 
-Sempre que você for gastar os tributos do ritual, você tem chances de ganhar os Presságios do Ritual.
+Sempre que você for gastar os tributos do ritual, você tem chances de ganhar os Presságios do Ritual que são esses na imagem abaixo:
 
-![[Pasted image 20260717132749.png|239]]
+![[Pasted image 20260717132749.png|405]]
 
-Podemos aumentar nossas chances de conseguir esse presságios com tábuas, e conseguir mais tributos usando mapas *bufados*
-
-Antes você precisava de um mapa de nível 80 para conseguir os presságios roxos, após a atualização 0.5.1 não é necessário mais mapas de nível 80! Isso melhorou tremendamente o *farm*, e conseguimos aproximadamente 30k ~ 60k de tributos para gastar no ritual.. 
+Podemos aumentar nossas chances de conseguir esse presságios com tábuas e mapas *bufados*.
 
 Então vamos adiar todos os presságios uma única vez, e você só vai adiar novamente, se ficar com uma borda vermelha envolta do item. 
 
 Para comprar os itens, você vai usar outra tábua que vai reduzir o custo dos adiamentos, e ai sim, você vai adiar os itens para reduzir o seu custo e depois comprar quando não puder mais adiar eles..
+
+> [!info]- Ritual recebeu Buffs
+> Antes você precisava de um mapa de nível 80 para conseguir os presságios roxos, após a atualização 0.5.1 não é necessário mais mapas de nível 80! Isso melhorou tremendamente o *farm*, e conseguimos aproximadamente 30k ~ 60k de tributos para gastar no ritual.. 
 
 # 🌳Habilidades do Atlas
 
 | Icone                                | Nome                    | Nº  | Efeito                                                                                    |
 | ------------------------------------ | ----------------------- | --- | ----------------------------------------------------------------------------------------- |
 | ![[Sacrifícios Revigorados.png\|40]] | Sacrifícios Revigorados | 2   | Altares ritualísticos oferecem número de favores aumentado em 10%                         |
-| ![[Sacrifícios Revigorados.png\|40]] | Sacrifícios Revigorados | 2   | Altares ritualísticos oferecem número de favores aumentado em 10%                         |
+| ![[Sacrifícios Revigorados.png\|40]] | Aflição do Viajante     | 3   | Maculado                                                                                  |
 | ![[Ascensão do Nêmese.png\|40]]      | Ascensão do Nêmese      | 3   | Grupos de monstros raros em seus mapas têm 50% de chance de ter 1 monstros raro adicional |
 | ![[Ascensão do Nêmese.png\|40]]      | A jornada a diante      | 1   | Tamanho do Grupo aumentado em 6%                                                          |
 | ![[O caminho escolhido.png\|40]]     | O caminho Escolhido     | 2   | Exilados Reneados                                                                         |
@@ -31,7 +32,6 @@ Para comprar os itens, você vai usar outra tábua que vai reduzir o custo dos a
 | ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução      | 2   | Tamanho de Grupos mágicos aumentado em 10%                                                |
 | ![[Domínio do Pântano.png\|40]]      | Domínio do Pântano      | 3   | Tamanho do Grupo Aumentado em 6%                                                          |
 | ![[História dos Vaal.png\|40]]       | História dos Ezomytas   | 2   | Pântano                                                                                   |
-
 
 Como esse *farm* pode ser um pouco caro, recomendo todos os pontos de habilidades do atlas liberado.
 
