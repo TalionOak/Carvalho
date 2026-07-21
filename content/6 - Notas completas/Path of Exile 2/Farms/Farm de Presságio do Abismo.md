@@ -60,6 +60,9 @@ Compre 3 tábuas com
 - <span style="color:rgb(223, 99, 17)">Mapa tem raridade de monstros aumentado</span>
 - <span style="color:rgb(255, 192, 0)">Monstros abissais no mapa têm uma chance aumentada de ter modificadores abissais</span>
 - <span style="color:rgb(255, 192, 0)">Mais monstros raros adicionais são gerados do abismo</span>
+```
+"mon.* modi"
+```
 
 <span style="color:rgb(255, 0, 0)">PRIORIDADE:</span> **<span style="color:rgb(255, 192, 0)">Monstros abissais no mapa têm uma chance aumentada de ter modificadores abissais</span>.** Sem esse modificador, vamos ter quase nenhum monstro Amanamu por mapa.
 
@@ -67,21 +70,13 @@ Você precisa também de 1 tábua para conseguir mais abismos por mapas.
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/pJ8R8br3C0)
 - <span style="color:rgb(255, 192, 0)">Mapa tem chance de conter 4 abismos adicionais</span>
 É interessante pegar <span style="color:rgb(223, 99, 17)">quantidade de monstros raros</span> e <span style="color:rgb(223, 99, 17)">raridade</span> que isso ajuda bastante!
+```
+"ma.* ab.* adi"
+```
 
 Mexa nas configurações do link de compras, deixei varias opções caso você queira investir mais no *farm*.
 
 Raridade de itens é bom também, mas recomendo pegar isso no seu personagem ou no mapa e não nas tábuas. Já que o foco é ter o máximo de Amanamu por mapa..
-
-# Regex tábuas
-```
-"ma.* ab.* adi"
-```
- <span style="color:rgb(255, 192, 0)">Mapa tem chance de conter abismos adicionais</span>
-
-```
-"mon.* modi"
-```
-<span style="color:rgb(255, 192, 0)">Monstros abissais no mapa têm uma chance aumentada de ter modificadores abissais</span>
 
 # Regex mapas
 

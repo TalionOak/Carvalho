@@ -8,7 +8,7 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]]
 
 Como funciona o farm
 
-# Habilidades do Atlas
+# 🌳Habilidades do Atlas
 
 | Icone                           | Nome               | Nº  | Efeito                                                         |
 | ------------------------------- | ------------------ | --- | -------------------------------------------------------------- |
@@ -16,17 +16,17 @@ Como funciona o farm
 
 
 
-# Mapas
+# ![[Pedra-guia.png|40]]Mapas
 
 Para os mapas você pode usar mapas <span style="color:rgb(255, 0, 0)">Corrompidos</span>, caso o Leiaute do mapa que você for fazer seja ruim, o ponto do **Jado Missões Inesperadas** muda a área do mapa ao usar uma Pedra guia corrompida.
 
 Você pode usar um ![[Presságio da Quantidade Caótica.png|20]]<span style="color:rgb(0, 176, 80)">Presságio da quantidade caótica</span> para focar somente na efetividade de monstros..
 
-## Bioma
+## ![[Bioma.png|40]]Bioma
 
 
 
-# Tábuas
+# ![[Tábua de Ritual.png|40]]Tábuas
 
 Comprar 4 tábuas com:
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/Wv3vDr5bum)

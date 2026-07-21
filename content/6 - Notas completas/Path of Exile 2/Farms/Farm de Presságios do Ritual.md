@@ -1,4 +1,4 @@
-Status: #meio 
+Status: #fim 
 Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]], [[Ritual]]
 
 ---
@@ -105,7 +105,7 @@ para isso, você precisa comprar alguma tábua com o modificador:
 - <span style="color:rgb(223, 99, 17)">Favores adiados em Altares Ritualísticos no mapa têm o custo de tributo reduzido</span>
 - <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
 ```
-"Fav.* ad"
+"Fav.* ad.* red"
 ```
 
 Dependendo dos buffs que você recebeu no ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">Cabeça do Rei</span>, você já pode usar essa tábua sem precisar da <span style="color:rgb(112, 48, 160)">Roxa</span> ou da <span style="color:rgb(0, 176, 80)">Verde</span>!
@@ -114,7 +114,7 @@ Dependendo dos buffs que você recebeu no ![[Cabeça do Rei.png|20]]<span style=
 
 <span style="color:rgb(255, 0, 0)">TODAS PRECISAM TER </span>
 - <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
-Com exceção das recriar favores mais vezes, por que essa é ![[Orbe Divino.png|20]]70 Orbe Divino~~ e pagar esse preço não vale a pena..
+Com exceção das recriar favores mais vezes, por que essa é 70 ![[Orbe Divino.png|20]]<span style="color:rgb(0, 176, 240)">Orbe Divino</span>~~ e pagar esse preço não vale a pena..
 
 Se estiver muito caro as tábuas com esse modificador, a partir do 3º ou 4º mapa do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">rito</span>, você pode encaixar tábuas somente com esse modificador..
 ```
