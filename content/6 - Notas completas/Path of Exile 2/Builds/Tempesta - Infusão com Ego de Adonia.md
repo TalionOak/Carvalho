@@ -2,10 +2,16 @@ Status: #fim
 Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempesta]], [[Dano de Gelo]], [[Dano de fogo]], [[Dano de Raio]]
 
 ---
-![](https://youtu.be/XoNbFv31CD8)
+![](https://youtu.be/yx0YorhweGw)
 
-> [!info]- Atualização 1
+> [!info]- Versão baratinha
+> ![](https://youtu.be/XoNbFv31CD8)
+
+> [!info]- Versão mediana
 > ![](https://www.youtube.com/watch?v=9TYx7hv86Q4)
+
+> [!info]- Versão final
+> ![](https://youtu.be/3OXt6KATwX8)
 
 | Classe     | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ---------- | ----------- | ----- | ----------- | --------------- |
@@ -28,28 +34,20 @@ Estar nível 65! Upar de Spark é muito difícil, e cometa só aparece no interl
 
 Usar o combo do Ego de Adonia a cada 1 ~ 3 minuto.. *<- isso pode ser bem chato..*
 
-## Por que está caindo pouco cometas?
-
-A build funciona envolta de <span style="color:rgb(0, 176, 80)">afeções elementais</span>(Raio, Fogo e Gelo), se você fizer mapas que deixa os inimigos mais resistente a afecções, naturalmente deve cair menos cometas... tente filtrar esses mapas.
-
-```
-"!res.*-li.*af"
-```
-
 # Conjunto de Armas
 
 1º Conjunto de armas
 - ![[Bomba Congelante.png|20]][<span style="color:rgb(255, 192, 0)">Bomba Congelante</span>](https://poe2db.tw/pt/Frost_Bomb);
 - ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm) ;
-Restante é conjunto diferente
+Restante é conjunto diferente...
 
-O primeiro conjunto de armas é para gerar infusões e ser consumida com a ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm) para gerar as cargas de poder com o ponto "Infusão de Poder". 
+O primeiro conjunto de armas é para gerar infusões e ser consumida com a ![[Tempestade de Fogo.png|20]][<span style="color:rgb(255, 192, 0)">Tempestade de Fogo </span>](https://poe2db.tw/pt/Firestorm), assim você vai gerar as cargas de poder com o ponto "Infusão de Poder". 
 
-Depois trocar para o 2º conjunto de armas e consumir as cargas de poder para duplicar o nosso dano.
+Depois trocar para o 2º conjunto de armas e consumir as cargas de poder com o ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego) .
 
-## <span style="color:rgb(255, 0, 0)">ATENÇÃO!</span>
+## ![[Cargas de Poder.png|30]]<span style="color:rgb(255, 0, 0)">ATENÇÃO!</span>
 <span style="color:rgb(255, 0, 0)">Se estiver gerando carga de poder com a Varinha na mão, você errou no conjunto de armas!</span>
-Você só deve ter carga de poder para ativar o *buff* ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego) da varinha, se tiver com carga de poder e o buff ativo, você vai ficar com resistências elementais negativas e vai morrer muito mais nos mapas!!
+Você só deve ter ![[Cargas de Poder.png|20]]<span style="color:rgb(0, 176, 240)">Carga de poder</span> para ativar o *buff* ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego) da varinha, se você continuar com  ![[Cargas de Poder.png|20]]<span style="color:rgb(0, 176, 240)">Carga de poder</span> e o buff ativo simultaneamente, você vai ficar com resistências elementais negativas e vai morrer muito mais nos mapas!! Após ativar o ![[Pináculo do Poder.png|20]][<span style="color:rgb(255, 192, 0)">Pináculo do Poder</span>](https://poe2db.tw/pt/Adonias_Ego), você não deve ter ![[Cargas de Poder.png|20]]<span style="color:rgb(0, 176, 240)">Cargas de Poder</span>!
 
 # Rotação do combo
 
@@ -80,19 +78,17 @@ Você só deve ter carga de poder para ativar o *buff* ![[Pináculo do Poder.png
 
 # Itens únicos interessantes
 
-| ![[Sine Aequo.png\|100]] | [Sine Aequo](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/MdbVjkDGFJ)<br><br>Luva que faz congelar os inimigos mais rápido (Cai mais cometa) e aumenta o dano contra inimigos congelados.. <br><br>Perfeita como uma evolução da [Virtuosidade de Maligaro](https://poe2db.tw/pt/Maligaros_Virtuosity). Após *craftar* as joias |
-| :----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Sine Aequo.png\|100]] | [Sine Aequo](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/MdbVjkDGFJ)<br><br>Luva que faz congelar os inimigos mais rápido (Cai mais cometa) e aumenta o dano contra inimigos congelados.. <br><br>Perfeita como uma evolução da [Virtuosidade de Maligaro](https://poe2db.tw/pt/Maligaros_Virtuosity). Após *craftar* as joias.<br><br>Inclusive você pode ficar com essa luva, e colocar uma [Epifania de Cadigan](https://poe2db.tw/pt/Cadigans_Epiphany).   |
+| :----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![[Palma Orientadora dos Olhos.png\|100]] | [Palma Orientadora dos Olhos](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/5g877vDCa)<br><br>Cetro perfeito para usar até conseguir o [Pé de Galinha](https://poe2db.tw/pt/Sacred_Flame), substituto caso esteja jogando no SSF. |
 | :---------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![[Sangue Mágico.png]] | [Sangue Mágico](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/EBbGoqdVu5)<br><br>Cinto muito bom para usar em qualquer versão da *build*, você pode pegar 2 [Legado](https://poe2db.tw/pt/Mageblood#MagesLegacyRef) de Diamante, 1 [Legado](https://poe2db.tw/pt/Mageblood#MagesLegacyRef) de Diamante e 1 [Legado](https://poe2db.tw/pt/Mageblood#MagesLegacyRef) de Mercúrio.<br><br>Mas vai de como está os seus itens, você pode personalizar dependendo da sua necessidade. |
-| :--------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Sangue Mágico.png]] | [Sangue Mágico](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/EBbGoqdVu5)<br><br>Cinto muito bom para usar em qualquer versão da *build*, você pode pegar 2 [Legado](https://poe2db.tw/pt/Mageblood#MagesLegacyRef) de Diamante, 1 [Legado](https://poe2db.tw/pt/Mageblood#MagesLegacyRef) de Bismuto e 1 [Legado](https://poe2db.tw/pt/Mageblood#MagesLegacyRef) de Mercúrio.<br><br>Mas vai de como está os seus itens, você pode personalizar dependendo da sua necessidade. |
+| :--------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ![[Caça-cabeças.png]] | [Caça-cabeças](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/op4BqzXkcl)<br><br>Cinto muito bom se você planeja fazer Mapas, ou qualquer conteúdo que tenha muito monstros raros como expedição por exemplo..<br><br>Lembre-se que ela perde os efeitos conforme passa o tempo, então não é um cinto ideal para enfrentar chefes.. |
 | :-------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-
 
 # ![[Do Nada.png|40]]Joia Do Nada
 Como esses pontos não aparece direito nos outros sites de *Builds*, deixei uma imagem para você saber quais pontos pegar ao conseguir uma ![[Do Nada.png|20]]<span style="color:rgb(223, 99, 17)">Do Nada</span>. 
@@ -102,6 +98,15 @@ De preferencia, tente pegar uma que possibilita alocar pontos próximo ao Condu�
 - [Compre clicando aqui](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/4kw9ewks9).
 ![[{9AAA0F3C-C94B-4E35-9B7F-001365528971}.png|574]]
 
-# Como craftar os itens da build
+# Como *Craftar* os itens da build
 
 [[Craftings|Veja todos os Crafts clicando aqui]]
+
+# Perguntas Frequentes
+## Por que está caindo pouco cometas?
+
+A build funciona envolta de <span style="color:rgb(0, 176, 80)">afeções elementais</span>(Raio, Fogo e Gelo), se você fizer mapas que deixa os inimigos mais resistente a afecções, naturalmente deve cair menos cometas... tente filtrar esses mapas.
+
+```
+"!res.*-li.*af"
+```
