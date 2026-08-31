@@ -1,9 +1,11 @@
 Build geralmente feita com a Tempesta, mas existe variantes com o Oraculo, Infernalista, Lich Abissal, Maga Sangrenta e até o Mercenário Gemante
 Quanto mais longe você for da Tempesta, mais caro fica a build..
 
+![[Pasted image 20260829200949.png|80]]![[Pasted image 20260829201001.png|80]]
 
 Pros -
 Dano absurdo
+Limpa 2 tela de monstros
 Muito tanque (depende da variante)
 É build de Cometa!!
 Congela (inimigos não ataca)
@@ -13,7 +15,7 @@ Sem teleporte, é bem lenta
 Campanha é horrível
 Pode ser bem caro
 Algumas variante usa Varinha de Adonia (precisa fazer o combo a cada 3m~)
-Afecções Elementais é um problema ( Resolve com equipamentos caros)
+Afecções Elementais é um problema ( Resolve com equipamentos caros )
 Demora para funcionar ( Ato4+)
 
 [Leveling Infernalista](https://www.youtube.com/watch?v=gEEL_Shl3gk)

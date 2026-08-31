@@ -1,14 +1,14 @@
-Build bem legalzinha pra quem que experimentar coisas diferentes, mas não recomendo muito não, tem bastante variantes, Oraculo, Mercenário, Titan etc..
+Build bem legalzinha pra quem que experimentar coisas diferentes, mas não recomendo muito não, tem bastante variantes, Oraculo, Mercenário e Titan.
 ![[Pasted image 20260830200701.png|80]]
 
 Pros - 
-Bem tanque
-Dano ok
-Dano em area ok
+Tanque ( Depende da variante )
+Dano em alvos únicos ok 
+Dano em área ok
 
 Contras -
-Demora para funcionar na campanha (Ato3+)
-Lenta
+Demora para funcionar (Ato3+)
+Movimentação lenta
 Gameplay de Besta (precisa carregar)
 
 [Video Malaka PT-BR - Monge](https://www.youtube.com/watch?v=-Q-OPXyM3_o&t=232s)

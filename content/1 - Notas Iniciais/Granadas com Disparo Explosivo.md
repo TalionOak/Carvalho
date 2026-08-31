@@ -1,5 +1,6 @@
 Essa build tem bastante variantes, alguns fazem com Monge, Atiradora, Mercenário, tem até com a Caçadora.. A gameplay pode não ser para todos, já que você precisa esperar as granadas explodirem..
 
+![[Pasted image 20260829200818.png|80]]![[Pasted image 20260829200855.png|80]]
 
 Pros -
 Voa pela campanha

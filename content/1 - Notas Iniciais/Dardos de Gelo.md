@@ -4,13 +4,13 @@ Geralmente essa build é feita com a Cronomante, mas existe variantes com o Merc
 
 Pros -
 Dano em alvos único bem alto
+Resistente ( Depende da Variante )
 
 Contras -
-Locomoção baixa
+Movimentação lenta
 Dano em área fraco
-Resistente
 Muito cara?
-Não funciona no Leveling (Ato4+)
+Demora para funcionar (Ato4+)
 
 [Leveling Feiticeira](https://mobalytics.gg/poe-2/profile/ruse_cruize/builds/ultimate-sorc-elementalist-infusion-league-starter)
 [End Game Feiticeira Cronomante](https://mobalytics.gg/poe-2/profile/gl1tch3d-uhqo2k/builds/0-5-gl1tch3d-s-machine-gun-chronomancer)

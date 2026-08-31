@@ -1,5 +1,7 @@
 Você só consegue fazer essa build com a Caçadora Andarilha Espiritual! Não existe outras variantes!!
 
+![[Pasted image 20260829203637.png|80]]
+
 Pros -
 Lacaios, só deixar eles baterem
 Muito tanque (Inimigos focam os lacaios)

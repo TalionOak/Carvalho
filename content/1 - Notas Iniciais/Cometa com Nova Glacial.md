@@ -1,4 +1,4 @@
-Geralmente é feita com a Cronomante, mas existe outras variantes como Tempesta e o Mercenario Gemante.
+Geralmente é feita com a Cronomante, mas existe outras variantes como Tempesta e o Mercenário Gemante.
 
 ![[Pasted image 20260829200949.png|80]]![[Pasted image 20260830202619.png|80]]
 
