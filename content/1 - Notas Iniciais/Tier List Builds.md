@@ -1,19 +1,4 @@
-Grim Pillars Totens
-EARTHSHATTER TITAN - https://www.youtube.com/watch?v=oKNmn6LEMj0 
-Flameblast Oil Granade
-Skyfall runemaster
-Killing Palm - Afana
-Full Spark - Afana
-Arc Totem
-Hollow Palm
-Entagle + Trasnhing Vines
-Ember Fusilade
-Bonecage
-josiahyeet - build yt
-Glacial Lance
-Clamor de Sangramento
-Balrog - Mobalytcs
-
+Ainda não completa!
 ### Tier SS
 
 - [[Corte Giratório com Tufão]] 
@@ -64,3 +49,20 @@ Balrog - Mobalytcs
 
 
 ### Tier F - É usável se você tiver pelo menos 8 ![[Espelho de Kalandra.png|30]]
+
+# Para analisar
+Grim Pillars Totens
+EARTHSHATTER TITAN - https://www.youtube.com/watch?v=oKNmn6LEMj0 
+Flameblast Oil Granade
+Skyfall runemaster
+Killing Palm - Afana
+Full Spark - Afana
+Arc Totem
+Hollow Palm
+Entagle + Trasnhing Vines
+Ember Fusilade
+Bonecage
+josiahyeet - build yt
+Glacial Lance
+Clamor de Sangramento
+Balrog - Mobalytcs
