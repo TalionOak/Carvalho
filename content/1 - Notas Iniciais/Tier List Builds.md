@@ -18,11 +18,24 @@ Ainda não completa!
 - [[Cometa com Nova Glacial]]
 ![[Pasted image 20260829200949.png|80]]![[Pasted image 20260830202619.png|80]]
 
+- [[Céu em Queda com Centelha]]
+![[Pasted image 20260831191800.png|80]]![[Pasted image 20260829201001.png|80]]
+
+- [[Centelha]]
+![[Pasted image 20260829201001.png|80]]
+
+- [[Totem mágicos]]
+![[Pasted image 20260831180237.png|80]]
+
 - [[Granadas com Disparo Explosivo]]
 ![[Pasted image 20260829200818.png|80]]![[Pasted image 20260829200855.png|80]]
 
 - [[Domadora de Bestas (Chefes)]]
 ![[Pasted image 20260829203637.png|80]]
+
+- [[Emaranhar com Vinhas Surradoras]]
+![[Pasted image 20260831203324.png|80]]![[Pasted image 20260831203423.png|80]]
+
 
 ### Tier A
 
@@ -40,30 +53,36 @@ Ainda não completa!
 - [[Seta Glacial]]
 ![[Pasted image 20260830200701.png|80]]
 
+- [[Explosão Flamejante com Granada de Óleo]]
+![[Pasted image 20260831184142.png|80]]![[Pasted image 20260831184217.png|80]]
+
+- [[Palma Mortal com Pancada Trovejante]]
+![[Pasted image 20260831194320.png|80]]![[Pasted image 20260831194854.png|80]]
+
+- [[Lança Glacial]]
+![[Pasted image 20260831212529.png|80]]
+
 ### Tier C
 
 - [[Dardos de Gelo]]
 ![[Pasted image 20260830210337.png|80]]
 
+- [[Jaula Óssea]]
+![[Pasted image 20260831211151.png|80]]
 ### Tier D - É usável se você tiver pelo menos 2 ![[Espelho de Kalandra.png|30]]
-
+- [[Fuzilamento Abrasador com Conjurar com Cambalhota Evasiva]]
+![[Pasted image 20260831210000.png|80]]![[Pasted image 20260831205937.png|80]]
 
 ### Tier F - É usável se você tiver pelo menos 8 ![[Espelho de Kalandra.png|30]]
 
 # Para analisar
-Grim Pillars Totens
-EARTHSHATTER TITAN - https://www.youtube.com/watch?v=oKNmn6LEMj0 
-Flameblast Oil Granade
-Skyfall runemaster
-Killing Palm - Afana
-Full Spark - Afana
-Arc Totem
-Hollow Palm
-Entagle + Trasnhing Vines
-Ember Fusilade
-Bonecage
-josiahyeet - build yt
-Glacial Lance
+
+
 Clamor de Sangramento
 Balrog - Mobalytcs
 Lacaios
+permafrost - pohx
+sunder titan 
+urso titan
+poisonburst chayula
+Shield Wall titan resonance

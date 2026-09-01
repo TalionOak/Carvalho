@@ -13,4 +13,4 @@ Resistente ( 2k ~ 4k de vida )
 Os equipamentos são caros ( ninguém faz item de armadura )
 
 [Leveling Titan](https://mobalytics.gg/poe-2/builds/slam-warrior-leveling-build)
-[End Game Titan](https://mobalytics.gg/poe-2/profile/rich-gun-b76kfg/builds/2a03e80c-48c8-42  5c-a2da-0d3447890139?weaponSet=set1) - Criador Original
+[End Game Titan](https://mobalytics.gg/poe-2/profile/rich-gun-b76kfg/builds/2a03e80c-48c8-425c-a2da-0d3447890139) - Criador Original
