@@ -3,7 +3,7 @@ Você somente consegue fazer essa build com o MONGE ARTISTA MARCIAL!
 ![[Pasted image 20260829191945.png|80]]![[Pasted image 20260829191951.png|80]]
 
 Pros -
-Dano alto
+Dano em alvos únicos alto
 Dano em área gigante
 Muito tanque (10k escudo de energia)
 

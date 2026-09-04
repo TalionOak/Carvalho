@@ -1,9 +1,11 @@
-Ainda não completa!
+
+
+
 ### Tier SS
 
 - [[Corte Giratório com Tufão]] 
 ![[Pasted image 20260829194418.png|80]]![[Pasted image 20260829194429.png|80]] 
-
+ 
 - [[Tiro de Precisão com Disparo de Gelo]]
 ![[Pasted image 20260829184715.png|80]]![[Pasted image 20260829184701.png|80]]
 
@@ -39,12 +41,12 @@ Ainda não completa!
 - [[Explosão Flamejante com Granada de Óleo]]
 ![[Pasted image 20260831184142.png|80]]![[Pasted image 20260831184217.png|80]]
 
-- [[Emaranhar com Vinhas Surradoras]]
-![[Pasted image 20260831203324.png|80]]![[Pasted image 20260831203423.png|80]]
-
 - [[Desenterrar (Lacaios)]]
 ![[Pasted image 20260901162232.png|80]]
 ### Tier A
+
+- [[Emaranhar com Vinhas Surradoras]]
+![[Pasted image 20260831203324.png|80]]![[Pasted image 20260831203423.png|80]]
 
 - [[Forma de Urso]]
 ![[Pasted image 20260901164127.png|80]]
@@ -55,21 +57,15 @@ Ainda não completa!
 - [[Dreno de essência com Contagio]]
 ![[Pasted image 20260830213738.png|80]]![[Pasted image 20260830213744.png|80]]
 
-- [[Flecha de Explosão Venenosa com Crescimento Tóxico]]
-![[Pasted image 20260901191221.png|80]]![[Pasted image 20260901191208.png|80]]
-
 - [[Fragmentos Galvânicos com Explosão Tormentosa]]
 ![[Pasted image 20260830190248.png|80]]![[Pasted image 20260830190804.png|80]]
 ### Tier B
 
-- [[Esmaga-ossos com Rachaterra]]
-![[Pasted image 20260830194852.png|80]]![[Pasted image 20260830195004.png|80]]
+- [[Flecha de Explosão Venenosa com Crescimento Tóxico]]
+![[Pasted image 20260901191221.png|80]]![[Pasted image 20260901191208.png|80]]
 
 - [[Escudo Ressonante com Arauto Sangrento]]
 ![[Pasted image 20260901183424.png|80]]![[Pasted image 20260901183529.png|80]]
-
-- [[Parede de Escudos]]
-![[Pasted image 20260901195444.png|80]]
 
 - [[Seta Glacial]]
 ![[Pasted image 20260830200701.png|80]]
@@ -79,6 +75,12 @@ Ainda não completa!
 
 - [[Palma Mortal com Pancada Trovejante]]
 ![[Pasted image 20260831194320.png|80]]![[Pasted image 20260831194854.png|80]]
+
+- [[Esmaga-ossos com Rachaterra]]
+![[Pasted image 20260830194852.png|80]]![[Pasted image 20260830195004.png|80]]
+
+- [[Parede de Escudos]]
+![[Pasted image 20260901195444.png|80]]
 
 - [[Lança Glacial]]
 ![[Pasted image 20260831212529.png|80]]
