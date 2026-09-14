@@ -10,20 +10,20 @@ Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melh
 
 # Efeitos
 
-|                 Icone                 | Nome                     |     Efeitos no Anéis e Amuletos      |
-| :-----------------------------------: | :----------------------- | :----------------------------------: |
-|   ![[Catalisador de Carne.png\|40]]   | Catalisador de Carne     |                 Vida                 |
-|    ![[Catalisador Neural.png\|40]]    | Catalisador Neural       |                 Mana                 |
-| ![[Catalisador da Carapaça.png\|40]]  | Catalisador da Carapaça  | Armadura, Evasão e Escudo de Energia |
-|  ![[Catalisador Adaptável.png\|40]]   | Catalisador Adaptável    |               Atributo               |
-|   ![[Catalisador de Xoph.png\|40]]    | Catalisador de Xoph      |                 Fogo                 |
-|    ![[Catalisador de Tul.png\|40]]    | Catalisador de Tul       |                 Frio                 |
-|    ![[Catalisador de Esh.png\|40]]    | Catalisador de Esh       |              Elétricos               |
-| ![[Catalisador de Uul-Netol.png\|40]] | Catalisador de Uul-Netol |               Físicos                |
-|  ![[Catalisador Devastador.png\|40]]  | Catalisador Devastador   |                Ataque                |
-|  ![[Catalisador Sibilante.png\|40]]   | Catalisador Sibilante    |              Conjurador              |
-|  ![[Catalisador de Chayula.png\|40]]  | Catalisador de Chayula   |                 Caos                 |
-|  ![[Catalisador Rastejante.png\|40]]  | Catalisador Rastejante   |              Velocidade              |
+|                 Icone                 | Nome                     |     Efeitos no Anéis e Amuletos      |     |
+| :-----------------------------------: | :----------------------- | :----------------------------------: | --- |
+|   ![[Catalisador de Carne.png\|40]]   | Catalisador de Carne     |                 Vida                 |     |
+|    ![[Catalisador Neural.png\|40]]    | Catalisador Neural       |                 Mana                 |     |
+| ![[Catalisador da Carapaça.png\|40]]  | Catalisador da Carapaça  | Armadura, Evasão e Escudo de Energia |     |
+|  ![[Catalisador Adaptável.png\|40]]   | Catalisador Adaptável    |               Atributo               |     |
+|   ![[Catalisador de Xoph.png\|40]]    | Catalisador de Xoph      |                 Fogo                 |     |
+|    ![[Catalisador de Tul.png\|40]]    | Catalisador de Tul       |                 Frio                 |     |
+|    ![[Catalisador de Esh.png\|40]]    | Catalisador de Esh       |              Elétricos               |     |
+| ![[Catalisador de Uul-Netol.png\|40]] | Catalisador de Uul-Netol |               Físicos                |     |
+|  ![[Catalisador Devastador.png\|40]]  | Catalisador Devastador   |                Ataque                |     |
+|  ![[Catalisador Sibilante.png\|40]]   | Catalisador Sibilante    |              Conjurador              |     |
+|  ![[Catalisador de Chayula.png\|40]]  | Catalisador de Chayula   |                 Caos                 |     |
+|  ![[Catalisador Rastejante.png\|40]]  | Catalisador Rastejante   |              Velocidade              |     |
 
 Você pode ver todos os modificadores que são influenciados por catalisadores acessando o PoE2DB abaixo:
 - [Amuleto](https://poe2db.tw/us/Amulets#ModifiersCalc)

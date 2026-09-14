@@ -65,7 +65,7 @@ Cidade Ezomytas!
 # ![[Tábua de Ritual.png|40]]Tábuas
 
 ![[Tábua de Ritual.png|20]]Comprar 1 tábuas com:
-- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/wvgK7gXjhb)
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACm3MQQqDMBBG4bv861CiFm3nKkVKakYYiDGYKC0hdy-2Xbjo-vG9jJhMWiMoYw5JZg9C5GFdzMMxivr0CLplpFdgEIy3UBjFJV6-QSwI_AxOBkmnHdyrWndNdz3XUNiMWxmUi4KVuH8taDQuclE_LNMRN1Xbal03F33QmMSDKv3n0pe-vAHoUnZMyQAAAA)
 - <span style="color:rgb(223, 99, 17)">Altares ritualísticos no mapa permitem recriar favores mais vezes</span>
 Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 176, 80)">tábua verde</span>.
 ```
@@ -73,12 +73,12 @@ Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 
 ```
 
 ![[Liberdade da Fé.png|20]]Comprar 1 tábua com:
-- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/eRGB9m4oFL)
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACm2PwQqDMBBE_2XOoZgURfIrRSQ1ERZitCYpiuTfS2oPEbqnWYZ9M3vABxWihzwwL4FmBwlvhriqpzVI7Ot7yMeBsC8GEsppMIxkg1lPgzQkaFosDRRu-aC_86apKnFvKzC8lY0mJ0zkIOvEoMlnvoYclfUmsR_EbCWEC9EKIWpRXyBqg-T8D6VLXVHsLNwXeyFXtVLYL19HR69okPJ8AKkfrl4XAQAA)
 - <span style="color:rgb(223, 99, 17)">Favores adiados em Altares Ritualísticos no mapa têm o custo de tributo aumentado</span>
 - <span style="color:rgb(223, 99, 17)">Pode recriar favores em Altares Ritualísticos em seus mapas o dobro de vezes</span>
 
 ![[Tábua de Ritual.png|20]]<span style="color:rgb(0, 176, 80)">Comprar 1 tábua com:</span> (Veja os Buffs do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">Cabeça do REI</span>!)
-- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/gl5qKL2dsQ)
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACmWOWwrDIBRE9zLfUox51LqVEoqNBi4YE6KWluDei31AS75n5pzZEKKOKUBtmJdIs4dCsENa9dVZZPbKA9R5Q3wsFgraGzCM5KJd3wEZKNC0OBooHsrgUlddx7moJQfDTbtki2EiD1XxzGAoFIGBGrULNrMPxd5_KUJIwVtxbDrkvnR21v9-I6qTbOtKcuSefQ8Pc_JxfyPnPj8BlbHtXf8AAAA)
 - <span style="color:rgb(223, 99, 17)">Favores recriados em Altares Ritualísticos no mapa têm o custo de tributo reduzido</span>
 - <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
 ```
@@ -86,7 +86,7 @@ Se você não quiser investir nessa tábua, use outra <span style="color:rgb(0, 
 ```
 
 ![[Tábua de Ritual.png|20]] <span style="color:rgb(112, 48, 160)">Comprar 1 tábua com:</span> (Veja os Buffs do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">Cabeça do REI</span>!)
-- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/2KY7jXrDFk)
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACmWOWwrDIBRE9zLfUjRpTOJWSig2GrhgTIhaWoJ7L_YBLf2emXNmR4g6pgC1Y1kjLR4KwY5p0xdnkdkzD1CnHfG-Wihob8AwkYt2ewVkoEDz6mikeCiDcy2k5LyqOw6Gq3bJFsNMHkrwzGAoFIGBmrQLNrM3xd6-KaLp20pK2SIPpfIn_a0fK9F3TS06jjywz99xST7-v8h5yA958pMM_gAAAA)
 - <span style="color:rgb(223, 99, 17)">Monstros sacrificados em Altares Ritualísticos no mapa concedem mais de tributo</span>
 - <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
 ```
@@ -101,7 +101,7 @@ No prefixo a prioridade é a seguinte:
 ---
 Assim que você conseguir adiar todos os presságios, você vai precisar comprar eles, e alguns vão custar bem caros...  
 para isso, você precisa comprar alguma tábua com o modificador:
-- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/3q97gnEgf5)
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACmWP3QqDIACF3-Vcy9CsMF9lxHBpIJhF6tgI333YNrbR9fn5ztkQooopQG6Yl2hnD4lghrSqqzPIZNcD5HlDfCwGEsprEIzWRbO-BKshYafF2cHGUwlcOGtbSisuKAhuyiVTCJP1kIxmAm1DAWjIUblgMnm3mPtvC-N1I3jTdQK5L54D9d9fV6wTDWc79YuIazK5J58Dw5x8PM7Kuc9Pw_FU5A8BAAA)
 - <span style="color:rgb(223, 99, 17)">Favores adiados em Altares Ritualísticos no mapa têm o custo de tributo reduzido</span>
 - <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
 ```
@@ -113,6 +113,7 @@ Dependendo dos buffs que você recebeu no ![[Cabeça do Rei.png|20]]<span style=
 ### Observação nas tábuas
 
 <span style="color:rgb(255, 0, 0)">TODAS PRECISAM TER </span>
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACn3PXQrCMBAE4LvMc5Ck1VJzFRGJTQoLaVqaTVFK7y7xB5QWn4f9ZnZGZMMpQs_oB6Y-QCO6Jo3m6h0W8cwj9GkG3wcHDRMsBFry7MZXQBYa1A2eGuJdPriUqqqkLMpaQmAyPrnc0FGAVnIRsBRzgYVujY9uEW_F3b6VfaGO9aFUG0q1pZyzs1r2x1wB4vNl06fA6-0_pTym3PkArZ-TAEQBAAA)
 - <span style="color:rgb(223, 99, 17)">Favores ritualísticos no mapa têm uma chance aumentada de serem Presságios</span>
 Com exceção das recriar favores mais vezes, por que essa é 70 ![[Orbe Divino.png|20]]<span style="color:rgb(0, 176, 240)">Orbe Divino</span>~~ e pagar esse preço não vale a pena..
 
@@ -122,4 +123,4 @@ Se estiver muito caro as tábuas com esse modificador, a partir do 3º ou 4º ma
 ```
 
 # Mestre do Atlas
-![[{C9609E41-90FC-449D-BEB2-C81D57D4E0A0}.png|423]]
+![[{C4908CEF-4712-4E10-93EE-3FD080EE4255}.png|489]]

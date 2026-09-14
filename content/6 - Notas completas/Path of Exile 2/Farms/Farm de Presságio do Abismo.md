@@ -30,7 +30,7 @@ Sabendo disso, devemos maximizar a quantidade de monstros raros no mapa para con
 | Icone                            | Nome                | Nº  | Efeito                                                                                 |
 | -------------------------------- | ------------------- | --- | -------------------------------------------------------------------------------------- |
 | ![[Ascensão do Nêmese.png\|40]]  | Ascensão do Nêmese  | 3   | Grupos de monstros raros em seu mapa tem 50% de chance de ter 1 monstro raro adicional |
-| ![[Ascensão do Nêmese.png\|40]]  | A jornada Adiante   | 2   | Tamanho do grupo aumentado em 6%                                                       |
+| ![[Ascensão do Nêmese.png\|40]]  | A jornada Adiante   | 1   | Tamanho do grupo aumentado em 6%                                                       |
 | ![[Domínio do Soberano.png\|40]] | Domínio do Soberano | 3   | 1 Exilado Renegado adicional                                                           |
 | ![[O caminho escolhido.png\|40]] | O caminho escolhido | 2   | Exilados Renegados                                                                     |
 | ![[Turbas em Evolução.png\|40]]  | Turbas em Evolução  | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
@@ -66,6 +66,7 @@ Compre 3 tábuas com
 Compre 1 tábua para conseguir mais abismos por mapas.
 - [Comprar](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/pJ8R8br3C0)
 - <span style="color:rgb(255, 192, 0)">Mapa tem chance de conter 4 abismos adicionais</span>
+- <span style="color:rgb(255, 192, 0)">Mais monstros raros adicionais são gerados do abismo</span>
 ```
 "ma.* ab.* adi"
 ```
@@ -85,8 +86,6 @@ Compre 1 tábua para conseguir mais abismos por mapas.
 
 # Mestre do Atlas
 
-![[{7C5EAE28-0E3B-45C4-ADD6-92C25523136D}.png|486]]
+![[{1071ABB6-BD3A-488C-AC9C-C57DBE4BEB8D}.png|500]]
 
-Ou **Missões Inesperadas** para mudar o tipo de mapa. Lembre-se que a Pedra-Guia precisa estar <span style="color:rgb(255, 0, 0)">corrompida</span>!
-
-Você só precisa do <span style="color:rgb(0, 176, 80)">Traduções Parciais</span>.
+Se for usar **Missões Inesperadas** para mudar o tipo de mapa,  lembre-se que a Pedra-Guia precisa estar <span style="color:rgb(255, 0, 0)">corrompida</span>!

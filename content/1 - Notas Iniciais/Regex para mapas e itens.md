@@ -43,3 +43,5 @@ Mapas com renascimento.
 - Altares Ritualísticos no mapa permitem recriar favores mais vezes
 
 
+Orbe exaltado preço 
+"\b([1-9]|[1-3][0-9]|4[0-5])\b exa"
