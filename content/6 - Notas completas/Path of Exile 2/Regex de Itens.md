@@ -49,12 +49,17 @@ Orbe exaltado preço
 
 # Tábuas lucro 
 
-## ![[Tábua Irradiada.png|38]] Irradiadas
+- Caixa-forte adicional - Azmeri adicional
+```
+"cai.* ad" "azm.* ad"
+```
 
 - Mapa tem modificador aleatório adicional
 ```
-"mod.* alea"
+"mod.* ad"
 ```
+
+## ![[Tábua Irradiada.png|38]] Irradiadas
 
 - Efetividade - Quantidade Monstros Raros
 ```
@@ -72,4 +77,14 @@ Orbe exaltado preço
 ```
 
 ## ![[Tábua de Ritual.png|36]] Tábuas de Ritual
+
+- Recriar Favores
+```
+"rec.* fav"
+```
+
+- Presságios
+```
+"press"
+```
 
