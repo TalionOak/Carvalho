@@ -107,6 +107,12 @@ De preferencia, tente pegar uma que possibilita alocar pontos próximo ao Condu�
 
 A build funciona envolta de <span style="color:rgb(0, 176, 80)">afeções elementais</span>(Raio, Fogo e Gelo), se você fizer mapas que deixa os inimigos mais resistente a afecções, naturalmente deve cair menos cometas... tente filtrar esses mapas.
 
+- Em português
 ```
 "!res.*-li.*af" "!mo.* cr.* red"
+```
+
+- Em Inglês
+```
+"!reduced.*crit" "!avoid.*ail"
 ```

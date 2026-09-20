@@ -5,25 +5,32 @@ Tags: [[Path of Exile 2]]
 # Regex para mapas e itens
 
 # Mapas
+
+- Mapas com renascimento.
 ```
 "ren.*:\s*([1-9])$"
 ```
-Mapas com renascimento.
 
+- Raridade de Itens
 ```
 "r.*itens: \+[1-8]\d%"
 ```
-- Raridade de Itens
 
-```
-"ta.*: \+[2-8]\d%"
-```
 - Tamanho do Grupo
+```
+"ta.*: \+[1-8]\d%"
+```
 
+- Efetividade
 ```
-"!res.*-li.*af"
+"efet.*: \+[1-8]\d%"
 ```
-- Monstros têm a resistência-limite a afecções aumentada.
+
+- Raridade de Monstros
+```
+"rar.* mon.*: \+[1-8]\d%"
+```
+
 
 # Tábuas
 
@@ -118,7 +125,7 @@ Grande maioria dos modificadores, só funciona se estiverem com outros modificad
 "mod.* rúnic"
 ```
 
-# Tábua de Delírio
+# ![[Tábua de Delírio.png|39]] Tábua de Delírio
 
 - Circulo Adicional - Fica caro com Únicos tem Modificador adicional
 ```
@@ -144,6 +151,31 @@ Grande maioria dos modificadores, só funciona se estiverem com outros modificad
 ```
 Precisa ter os 2 mod junto para valer algo, não use Orbe da Alquimia nesses!
 
-# Tábuas da Fenda
-HiveBlood e Wombgift
-monstros raros
+# ![[Tábua de Fenda.png|40]] Tábuas da Fenda
+
+- Sangue e Dádivas encontrados
+```
+"sangue" "dadi.* enc"
+```
+
+- Sangue e Dádivas encontrados - Mágico para jogar Orbe Régio
+```
+"sangue" "e: m"
+```
+```
+"dadi.* enc" "e: m"
+```
+
+- Sangue e Dádivas de nível maior - Valores altos são caros..
+```
+"sangue" "dadi.* sup"
+```
+
+- Fendas instáveis geram monstros raros adicional.
+	- Fica caro com Efetividade
+	- Com Sangue de Colmeia 
+```
+"inst.* 2.* rar.*"
+```
+
+
