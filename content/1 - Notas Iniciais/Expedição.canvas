@@ -49,7 +49,6 @@
 		{"id":"14ca2d0cf9ef55a3","type":"file","file":"Anexos/{53D2757D-E632-4D64-86E0-4C7C6D32E0AC}.png","x":-1580,"y":5032,"width":400,"height":247},
 		{"id":"ea2fc6f0646411d6","type":"text","text":"Pradaria Pastoreada","x":-2000,"y":3420,"width":280,"height":50},
 		{"id":"9735191952dd58b1","type":"file","file":"Anexos/{F7BB26BC-8514-4CEC-A8AE-9B84150F4F16}.png","x":-1088,"y":3820,"width":400,"height":75},
-		{"id":"5b5e3dbdcb0df394","type":"text","text":"Atoleliro Estéril","x":-2000,"y":3100,"width":280,"height":50},
 		{"id":"1e8409481ad3ab4f","type":"text","text":"Península Escarpada","x":-2000,"y":2685,"width":280,"height":50},
 		{"id":"e5b9a7c9415602ac","type":"text","text":"Recife Queimado","x":-2000,"y":2353,"width":280,"height":50},
 		{"id":"546496da76b73dce","type":"text","text":"Bacia Estagnada","x":-2000,"y":1880,"width":280,"height":50},
@@ -91,7 +90,8 @@
 		{"id":"38cd531bcfb2e143","type":"text","text":"Banco de Areia Descorados\nIlha viçosa\nPradaria pastoreada","x":1440,"y":3085,"width":360,"height":206},
 		{"id":"eccf67a4fa5cedf5","type":"file","file":"Anexos/{F4B62725-C144-4D92-B1C4-C909C261E610}.png","x":1880,"y":3028,"width":397,"height":400},
 		{"id":"53fc72eaf93ba77f","type":"text","text":"Selva extensa - 2x - BOSS","x":2480,"y":2766,"width":300,"height":154},
-		{"id":"ac5301241558f379","type":"text","text":"Selva extensa  - BOSS\nBacia Estagnada\nRavina Erodida\nBacia Estagnada","x":2400,"y":3151,"width":300,"height":154}
+		{"id":"ac5301241558f379","type":"text","text":"Selva extensa  - BOSS\nBacia Estagnada\nRavina Erodida\nBacia Estagnada","x":2400,"y":3151,"width":300,"height":154},
+		{"id":"5b5e3dbdcb0df394","type":"text","text":"Atoleliro Estéril","x":-1940,"y":3075,"width":280,"height":50}
 	],
 	"edges":[
 		{"id":"92ff334aa3c18a30","fromNode":"eb3691b88d8bc222","fromSide":"left","toNode":"ee1c08784de80b04","toSide":"right"},

@@ -1,3 +1,5 @@
+
+
 Status: #inicio 
 Tags: [[Path of Exile 2]]
 
@@ -30,29 +32,6 @@ Tags: [[Path of Exile 2]]
 ```
 "rar.* mon.*: \+[1-8]\d%"
 ```
-
-
-# Tábuas
-
-```
-"p.*guia.* 39%"
-```
-- Pedras-guias
-
-```
-"mod.* ale.*"
-```
-- Mapa tem modificador adicional
-
-```
-"p.* recriar"
-```
-- Altares Ritualísticos no mapa permitem recriar favores mais vezes
-
-
-Orbe exaltado preço 
-"\b([1-9]|[1-3][0-9]|4[0-5])\b exa"
-
 
 # Tábuas lucro 
 Serve para todas as tábuas esses regex abaixo:
@@ -107,7 +86,7 @@ Grande maioria dos modificadores, só funciona se estiverem com outros modificad
 - Caixa-forte adicional - Fica caro com Azmeri
 - Caixa-forte da Expedição - Fica caro com Raridade de Monstros
 ```
-"cai.* ad|exp.* c.* ca"
+"cai.* ad|exp.* con.* ca"
 ```
 
 - Azmeri adicional - Fica caro com Caixa-Forte
@@ -178,4 +157,7 @@ Precisa ter os 2 mod junto para valer algo, não use Orbe da Alquimia nesses!
 "inst.* 2.* rar.*"
 ```
 
+
+# Tábuas do Abismo
+- Falta tábuas no mercado, ninguém farmando? ou está ruim os drops?
 

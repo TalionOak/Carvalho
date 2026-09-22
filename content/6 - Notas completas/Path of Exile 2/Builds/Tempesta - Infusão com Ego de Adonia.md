@@ -98,6 +98,17 @@ De preferencia, tente pegar uma que possibilita alocar pontos próximo ao Condu�
 - [Compre clicando aqui](https://br.pathofexile.com/trade2/search/poe2/Runes%20of%20Aldur/4kw9ewks9).
 ![[{9AAA0F3C-C94B-4E35-9B7F-001365528971}.png|574]]
 
+# Joias raras
+
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACoWQ3UrEMBBG3-W7DpKfadPmVWRZYjsrkdiWJlWXkneXuCguWJy7Yc7wzZwdKfu8Jbgd85LDPMEh8bCt_ikyiviaJ7jHHfm6MBz8NELgEmLm9TYIIxz4Y4lhCPmhLpx1b4mUVdSjiD8Jo0hJK2XXHBHKSKOpk5oOCSLTSC2tQTlV5p-rms6SUa09jLTG9rJrdYtyEt8PD_M2ZQi8-bhxFfUaJjhVKvITeNNz_tWPIVWHI9zFx8R37OAzP8_r9U77C79zRKn1CXk1d8GXAQAA)
+Só use essa joia se estiver com a luva única [Virtuosidade de Maligaro](https://poe2db.tw/pt/Maligaros_Virtuosity)
+
+![[{23DB2429-BABF-43AD-872F-EB9487F7FE92}.png|527]]
+
+
+### Joias para a versão de crítico
+- [Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACp2R2WrDMBBF_-U-iyKvcvUbfSwhTOxxUVFsIclNgtC_F3fDgZaC32Y7c4e5CSFSXAJ0wuyimSdoBO4XTyfLyALx5hgaTzQaTxAf8wH6OX13aBogMBob2X82zAANvjprehMfVuBYFXUhlZRdA4E3sgtDpywwmLAKDdAj2cBZ_EqXtWrKslCN2kOrSj3Kri3bXdKqVkVbN7vubjpVV0Wr_oEP-bB5YEL0NPBxU9iEzpt-XYOzmaClwJmu0NNirfgxcM2yQD9bSy7wnbfRL4ycv4z9Q6SnyC-zv92Rr3xhu6I5vwMjvmpONgIAAA)
+
 # Como *Craftar* os itens da build
 
 [[Craftings|Veja todos os Crafts clicando aqui]]
