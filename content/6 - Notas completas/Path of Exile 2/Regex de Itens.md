@@ -5,6 +5,9 @@ Tags: [[Path of Exile 2]]
 
 ---
 # Regex para mapas e itens
+<span style="color:rgb(255, 0, 0)">Esses REGEX só funciona na versão em PORTUGUÊS!</span> Para a versão em Inglês, precisa adaptar os regex.
+
+![](https://www.youtube.com/watch?v=lRehMwGDehQ)
 
 # Mapas
 
@@ -36,7 +39,7 @@ Tags: [[Path of Exile 2]]
 # Tábuas lucro 
 Serve para todas as tábuas esses regex abaixo:
 
-- Mapa tem modificador aleatório adicional
+- Mapa tem modificador aleatório adicional - Fica caro com efetividade
 ```
 "ma.* mod.* ad"
 ```
@@ -45,8 +48,9 @@ Serve para todas as tábuas esses regex abaixo:
 ```
 "azm.* ad" "cai.* ad"
 ```
+Apesar de ser bem raro, é legal filtrar essas tábuas..
 
-## ![[Tábua Irradiada.png|38]] Irradiadas
+## ![[Tábua Irradiada.png|38]] <span style="color:rgb(0, 176, 80)">Tábuas Irradiadas</span>
 Esses Regex somente serve para as irradiadas.
 
 - Efetividade - Quantidade Monstros Raros
@@ -64,7 +68,7 @@ Esses Regex somente serve para as irradiadas.
 "efet" "rar.* mon"
 ```
 
-## ![[Tábua de Ritual.png|36]] Tábuas de Ritual
+## ![[Tábua de Ritual.png|36]] <span style="color:rgb(0, 176, 80)">Tábuas de Ritual</span>
 Esses regex somente serve para as do Ritual.
 
 - Recriar Favores
@@ -76,32 +80,32 @@ Esses regex somente serve para as do Ritual.
 ```
 "press"
 ```
-Verificar preço, se estiver muito barato, usar orbe do caos até juntar com outra coisa..
+Verificar preço, se estiver muito barato, usar ![[Orbe do Caos.png|27]] <span style="color:rgb(255, 192, 0)">Orbe do Caos</span> até juntar com outra coisa relacionado ao ritual..
 
-# ![[Tábua de Expedição.png|37]] Tábuas de Expedição
+# ![[Tábua de Expedição.png|37]] <span style="color:rgb(0, 176, 80)">Tábuas de Expedição</span>
 Esses regex somente serve para as da expedição.
 
-Grande maioria dos modificadores, só funciona se estiverem com outros modificadores interessantes, então você vai precisar usar Orbes do Caos neles..
+Grande maioria dos modificadores da expedição, só fica legal se estiverem com outros modificadores interessantes.
 
-- Caixa-forte adicional - Fica caro com Azmeri
-- Caixa-forte da Expedição - Fica caro com Raridade de Monstros
+- Caixa-forte da Expedição - Fica caro com Monstros Raros
 ```
-"cai.* ad|exp.* con.* ca"
+"exp.* con.* ca"
 ```
 
-- Azmeri adicional - Fica caro com Caixa-Forte
+- Azmeri adicional - Fica caro com Caixa-forte da Expedição
 ```
 "azm.* ad"
 ```
 
-- Falta testes, mas fica legal com modificador rúnico
+- Chance Superior Vestígio adicional -  Fica caro com modificador rúnico adicional
 ```
-"ves.* adi"
+"sup.* vest.* adi"
 ```
+Fica MUUUITO caro com Modificador adicional...
 
-- Falta testes, mas fica legal com vestígio adicional
+- Falta testes, mas fica legal com Chance Superior Vestígio adicional
 ```
-"mod.* rúnic"
+"mod.* rúnic" "e: m"
 ```
 
 # ![[Tábua de Delírio.png|39]] Tábua de Delírio
@@ -128,7 +132,7 @@ Grande maioria dos modificadores, só funciona se estiverem com outros modificad
 ```
 "pilha" "e: m"
 ```
-Precisa ter os 2 mod junto para valer algo, não use Orbe da Alquimia nesses!
+Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 0, 0)">não use Orbe da Alquimia nesses!</span>
 
 # ![[Tábua de Fenda.png|40]] Tábuas da Fenda
 
@@ -144,6 +148,7 @@ Precisa ter os 2 mod junto para valer algo, não use Orbe da Alquimia nesses!
 ```
 "dadi.* enc" "e: m"
 ```
+Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 0, 0)">não use Orbe da Alquimia nesses!</span>
 
 - Sangue e Dádivas de nível maior - Valores altos são caros..
 ```
@@ -152,12 +157,18 @@ Precisa ter os 2 mod junto para valer algo, não use Orbe da Alquimia nesses!
 
 - Fendas instáveis geram monstros raros adicional.
 	- Fica caro com Efetividade
-	- Com Sangue de Colmeia 
+	- Fica caro com Sangue de Colmeia 
 ```
 "inst.* 2.* rar.*"
 ```
 
 
-# Tábuas do Abismo
+# ![[Tábua do Abismo.png|42]]Tábuas do Abismo
 - Falta tábuas no mercado, ninguém farmando? ou está ruim os drops?
 
+# ![[Tábua do Templo.png|41]] Tábuas do Templo
+
+- Cristal Adicional
+```
+"cris.* ad"
+```
