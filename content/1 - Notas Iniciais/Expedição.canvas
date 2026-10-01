@@ -91,7 +91,7 @@
 		{"id":"eccf67a4fa5cedf5","type":"file","file":"Anexos/{F4B62725-C144-4D92-B1C4-C909C261E610}.png","x":1880,"y":3028,"width":397,"height":400},
 		{"id":"53fc72eaf93ba77f","type":"text","text":"Selva extensa - 2x - BOSS","x":2480,"y":2766,"width":300,"height":154},
 		{"id":"ac5301241558f379","type":"text","text":"Selva extensa  - BOSS\nBacia Estagnada\nRavina Erodida\nBacia Estagnada","x":2400,"y":3151,"width":300,"height":154},
-		{"id":"5b5e3dbdcb0df394","type":"text","text":"Atoleliro Estéril","x":-1940,"y":3075,"width":280,"height":50}
+		{"id":"5b5e3dbdcb0df394","type":"text","text":"Atoleliro Estéril","x":-1920,"y":3100,"width":280,"height":50}
 	],
 	"edges":[
 		{"id":"92ff334aa3c18a30","fromNode":"eb3691b88d8bc222","fromSide":"left","toNode":"ee1c08784de80b04","toSide":"right"},

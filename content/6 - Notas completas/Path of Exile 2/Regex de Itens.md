@@ -134,7 +134,7 @@ Fica MUUUITO caro com Modificador adicional...
 ```
 Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 0, 0)">não use Orbe da Alquimia nesses!</span>
 
-# ![[Tábua de Fenda.png|40]] Tábuas da Fenda
+# ![[Anexos/Path of Exile 2/Itens/Tábua de Fenda.png|40]] Tábuas da Fenda
 
 - Sangue e Dádivas encontrados
 ```

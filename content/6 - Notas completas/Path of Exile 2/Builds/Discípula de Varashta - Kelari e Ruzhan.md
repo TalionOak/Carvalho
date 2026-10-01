@@ -1,4 +1,4 @@
-Status: #meio 
+vStatus: #meio 
 Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Lacaios]], [[Dano físico]], [[Dano de fogo]], [[Discípula de Varashta]]
 
 ---
