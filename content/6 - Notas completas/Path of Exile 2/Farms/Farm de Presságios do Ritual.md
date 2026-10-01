@@ -43,6 +43,8 @@ Ao ativá-lo, os monstros são ressuscitados e precisam ser derrotados novamente
 
 ![[Pasted image 20261001152853.png|43]] <span style="color:rgb(223, 99, 17)">Floração Sagrada</span> em todos os mapas!
 
+Cidade para conseguir usar 4 tábuas..
+
 ![[Pasted image 20261001150155.png]] 
 
 Tier 16 ou Tier 15 com bastante tamanho de grupo!
