@@ -4,7 +4,7 @@ Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]], [[Ritual]]
 ---
 # Farm de Presságios do Ritual
 
-![](https://youtu.be/3GXKgJSZtcc)
+![](https://www.youtube.com/watch?v=-jx3cj4F2lQ)
 
 Os Altares Ritualísticos absorvem os monstros derrotados dentro de seus círculos. Após derrotar monstros suficientes, o ritual pode ser ativado.
 
