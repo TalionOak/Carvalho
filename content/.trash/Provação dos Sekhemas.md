@@ -1,1 +1,0 @@
-![[Sekhemas e suas recompensas.canvas]]

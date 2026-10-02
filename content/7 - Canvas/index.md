@@ -1,1 +1,0 @@
-![[Discípula de Varashta - Kelari e Ruzhan Itens.canvas]]![[Mapa de todas as mecanicas.canvas]]![[Resumo da nova liga em Canvas.canvas]]![[Sekhemas e suas recompensas.canvas]]![[Templo Vaal.canvas]]
