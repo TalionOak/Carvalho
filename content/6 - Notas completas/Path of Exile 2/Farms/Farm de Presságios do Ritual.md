@@ -104,7 +104,7 @@ No prefixo dás tábuas a prioridade é a seguinte:
 ## Como comprar os itens do Ritual?
 Para comprar os itens, você ira adiar eles até ficarem baratos o suficiente, para isso, você vai usar 1 tábua de adiamento, depois remove ela assim que comprar tudo, a ideia é você só adiar quando realmente for comprar muita coisa... 
 
-![[Tábua de Ritual.png|50]][Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACmWP3QqDIACF3-Vcy9CsMF9lxHBpIJhF6tgI333YNrbR9fn5ztkQooopQG6Yl2hnD4lghrSqqzPIZNcD5HlDfCwGEsprEIzWRbO-BKshYafF2cHGUwlcOGtbSisuKAhuyiVTCJP1kIxmAm1DAWjIUblgMnm3mPtvC-N1I3jTdQK5L54D9d9fV6wTDWc79YuIazK5J58Dw5x8PM7Kuc9Pw_FU5A8BAAA) 1 tábua com:
+![[Tábua de Ritual.png|50]][Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACoWQ62qEMBSE32V-hxJPNLdXKVKymoVAVsUkpUXy7ou9wF6Q_X1mvpkzG1J2uSTYDfOSwzzBIvmhrO4UPSr7uSfY9w35e_GwcNMIhnOI2a-_hzDCwn8tMQwhv-2Gj4a4Esq0BIZPF4vfAy5hghWVYQxpx4-wZxeTr-yPES63DNFIyTkJzZ8gDa-1320vahBp4h2pVuI49aG5aDstOmM0jhSdUSSlVEcCIxSZRmiJ2rP_2Ya5TPn5kbs18lp87esVbOElgJUBAAA) 1 tábua com:
 - <span style="color:rgb(223, 99, 17)">Favores adiados em Altares Ritualísticos no mapa têm o custo de tributo reduzido</span>
 ```
 "Fav.* ad.* red"
@@ -120,7 +120,7 @@ Tente [comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/
 
 Com exceção da recriar favores, por que essa é 70 ![[Orbe Divino.png|20]]<span style="color:rgb(0, 176, 240)">Orbe Divino</span>~~ e pagar esse preço não vale a pena..
 
-Se estiver muito caro as tábuas com esse modificador, a partir do 3º ou 4º mapa do ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">rito</span>, você pode encaixar tábuas somente com esse modificador de presságios..
+Se estiver muito caro as tábuas com esse modificador, a partir do 3º ou 4º mapa da ![[Cabeça do Rei.png|20]]<span style="color:rgb(255, 192, 0)">Cabeça do REI</span>, você pode encaixar tábuas somente com esse modificador de presságios..
 
 # Mestre do Atlas
 ![[{BA1E16B7-7F34-4E51-8773-629AEF660F9D}.png|422]]
