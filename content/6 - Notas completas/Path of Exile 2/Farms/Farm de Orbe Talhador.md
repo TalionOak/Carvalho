@@ -14,19 +14,15 @@ Então vamos utilizar do <span style="color:rgb(112, 48, 160)">ritual</span> par
 
 # Habilidades do Atlas
 
-| Icone                                | Nome                      | Nº  | Efeito                                                                                 |
-| ------------------------------------ | ------------------------- | --- | -------------------------------------------------------------------------------------- |
-| ![[O caminho escolhido.png\|40]]     | De distâncias Insondáveis |     | Chefes de círculo de invocação tem 5% de chance de lagar 1 Orbe talhador               |
-| ![[Ascensão do Nêmese.png\|40]]      | Ascensão do Nêmese        | 3   | Grupos de monstros raros em seu mapa tem 50% de chance de ter 1 monstro raro adicional |
-| ![[Ascensão do Nêmese.png\|40]]      | A jornada Adiante         | 1   | Tamanho do grupo aumentado em 6%                                                       |
-| ![[Pressões Evolucionárias.png\|40]] | Forest Mastery            | 3   | Quantidade de monstros raros aumentada em 15%                                          |
-| ![[Domínio do Soberano.png\|40]]     | Domínio do Soberano       | 2   | Invoca um circulo de invocação                                                         |
-| ![[O caminho escolhido.png\|40]]     | O caminho escolhido       | 3   | Círculos de Invocação                                                                  |
-| ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução        | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
-| ![[Domínio da Montanha.png\|40]]        | Mountain Mastery          | 3   | Raridade de itens encontrados aumentada em 6%                                          |
-| ![[Desert Mastery.png\|40]]          | Desert Mastery            | 3   | Efetividade de monstros aumentada em 15%                                               |
-| ![[Domínio do Pântano.png\|40]]           | Swamp Mastery             | 3   | Tamanho do grupo aumentado em 6%                                                       |
-| ![[Grass Mastery.png\|40]]           | Grass Mastery             | 3   | Efetividade de monstros aumentado em 15%                                               |
+| Icone                                | Nome                | Nº  | Efeito                                                                                 |
+| ------------------------------------ | ------------------- | --- | -------------------------------------------------------------------------------------- |
+| ![[Ascensão do Nêmese.png\|40]]      | Ascensão do Nêmese  | 3   | Grupos de monstros raros em seu mapa tem 50% de chance de ter 1 monstro raro adicional |
+| ![[Ascensão do Nêmese.png\|40]]      | A jornada Adiante   | 1   | Tamanho do grupo aumentado em 6%                                                       |
+| ![[Pressões Evolucionárias.png\|40]] | Forest Mastery      | 3   | Quantidade de monstros raros aumentada em 15%                                          |
+| ![[Domínio do Soberano.png\|40]]     | Domínio do Soberano | 2   | Invoca um circulo de invocação                                                         |
+| ![[O caminho escolhido.png\|40]]     | O caminho escolhido | 3   | Círculos de Invocação                                                                  |
+| ![[Turbas em Evolução.png\|40]]      | Turbas em Evolução  | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
+| ![[Domínio da Montanha.png\|40]]     | Mountain Mastery    | 3   | Raridade de itens encontrados aumentada em 6%                                          |
 
 Você também precisa ter pego os pontos de quantidade de monstros, efetividade e toda a categoria de monstros do pântano, infelizmente como os mapas purificados tem biomas diferentes, recomendo liberar toda a árvore do atlas antes de tentar fazer esse tipo de *farm*.
 
@@ -34,29 +30,12 @@ Você também precisa ter pego os pontos de quantidade de monstros, efetividade 
 
 Para os mapas você pode usar mapas Corrompidos ou normal, não tem muita diferença. O importante é ser +T15 e ter bastante quantidade de monstros e efetividade de monstros.
 
-```
-"tam.*: \+(?:[2-9]\d|[1-9]\d{2,})%"
-```
-
-> [!info]- Como personalizar o Regex?
-> Mude somente o "2" próximo do começo..
->  (+(?:[2-9]\d|)..
->  (+(?:[3-9]\d|)
->  (+(?:[4-9]\d|) e assim por diante..
 
 Você pode usar um ![[Presságio da raridade caótica.png|20]]<span style="color:rgb(0, 176, 80)">Presságio da Raridade Caótica</span> para adicionar mais tamanhos de grupo.
 
 ### Recomendações
 
 Utilize o <span style="color:rgb(255, 192, 0)">Ritual dos Sem Nome</span> para fazer aparecer chefes nos rituais, assim aumenta mais ainda a sua chance de pegar ![[Orbe talhador.png|20]]<span style="color:rgb(0, 176, 80)">Orbe Talhador</span>.
-
-# Bioma
-
-Para esse tipo de *farm* é difícil ter um bioma especifico, mas você pode tentar terraformar o bioma. De preferencia tente pegar o pântano.
-
-Você pode usar o ponto do **Doryani Vestígios da Grandeza** para isso. Lembre-se de não fazer os mapas purificados nesse processo, obvio.
-
-Mas se não conseguir terraformar, não tem problema.
 
 # Tábuas
 Comprar 1 tábua de cada com <span style="color:rgb(255, 192, 0)">Mapa contém 1 Círculo de Invocação Adicional</span> e se possível <span style="color:rgb(255, 192, 0)">Tamanho de Grupo do Mapa Aumentado</span>:
