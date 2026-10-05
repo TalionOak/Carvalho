@@ -1,5 +1,5 @@
 Status: #inicio [[Onde iniciar a missão da Fenda]]
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]]
 
 ---
 # O que fazer com os Fragmentos da Fenda?

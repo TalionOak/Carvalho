@@ -1,5 +1,5 @@
 Status: #meio
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]], [[Farm]]
+Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]], [[Farm]]
 
 ---
 # Farm de Fenda Instável com monstros raros

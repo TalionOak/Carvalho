@@ -1,5 +1,5 @@
 Status: #fim 
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Farm]], [[Ritual]]
+Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Farm]], [[Ritual]]
 
 ---
 # Farm de Presságios do Ritual
@@ -14,7 +14,7 @@ Ao ativá-lo, os monstros são ressuscitados e precisam ser derrotados novamente
 
 ![[Pasted image 20261001145019.png|484]]
 
-## Estratégia do Farm
+# Estratégia do Farm
 
 1. **Adiar todos os presságios bons uma única vez**, faça isso até acabar todas as páginas do ritual...
 2. Se sobrar tributos, comprar os mais baratos e adiar os mais caros..
@@ -43,7 +43,7 @@ Ao ativá-lo, os monstros são ressuscitados e precisam ser derrotados novamente
 
 ![[Pasted image 20261001152853.png|43]] <span style="color:rgb(223, 99, 17)">Floração Sagrada</span> em todos os mapas!
 
-Cidade para conseguir usar 4 tábuas..
+![[Bioma.png]] Cidade para conseguir usar 4 tábuas..
 
 ![[Pasted image 20261001150155.png]] 
 

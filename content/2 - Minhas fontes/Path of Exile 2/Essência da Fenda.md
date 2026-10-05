@@ -1,5 +1,5 @@
 Status: #fim
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Fenda]], [[Essência]]
+Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]], [[Essência]]
 
 ---
 # Essência da Fenda

@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecânicas de Farm]], [[Delirium]]
+Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Delirium]]
 
 ---
 
