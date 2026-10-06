@@ -6,6 +6,10 @@ Tags: [[Path of Exile 2]], [[Abismo]], [[Farm]]
 
 ![](https://www.youtube.com/watch?v=h4ZliiTFTEI)
 
+
+
+"abismo" "16" "4 chaos"
+
 Esse tipo de *Farm* foca nos presságios do abismo. Todos na foto abaixo.
 ![[Pasted image 20260616191726.png]]
 

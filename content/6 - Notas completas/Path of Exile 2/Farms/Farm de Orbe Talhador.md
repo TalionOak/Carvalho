@@ -4,7 +4,7 @@ Tags: [[Path of Exile 2]], [[Farm]]
 ---
 # Farm de Orbe Talhador
 
-![](https://youtu.be/3Iv5HxJQ4fg)
+![](https://www.youtube.com/watch?v=qXw7_KF66cM)
 
 # Estratégia do Farm
 

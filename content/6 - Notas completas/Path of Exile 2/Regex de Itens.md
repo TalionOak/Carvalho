@@ -36,6 +36,11 @@ Tags: [[Path of Exile 2]]
 "rar.* mon.*: \+[1-8]\d%"
 ```
 
+- Pedra-Guia
+```
+"pedra-guia.*(1[1-9].|[1-4]..)%"
+```
+
 # Tábuas lucro 
 Serve para todas as tábuas esses regex abaixo:
 
