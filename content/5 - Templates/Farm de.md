@@ -18,11 +18,6 @@ Como funciona o farm
 
 # ![[Pedra-guia.png|40]]Mapas
 
-Para os mapas você pode usar mapas <span style="color:rgb(255, 0, 0)">Corrompidos</span>, caso o Leiaute do mapa que você for fazer seja ruim, o ponto do **Jado Missões Inesperadas** muda a área do mapa ao usar uma Pedra guia corrompida.
-
-Você pode usar um ![[Presságio da Quantidade Caótica.png|20]]<span style="color:rgb(0, 176, 80)">Presságio da quantidade caótica</span> para focar somente na efetividade de monstros..
-
-## ![[Bioma.png|40]]Bioma
 
 
 

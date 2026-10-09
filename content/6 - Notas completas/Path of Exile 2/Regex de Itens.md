@@ -13,34 +13,38 @@ Tags: [[Path of Exile 2]]
 
 - Mapas com renascimento.
 ```
-"ren.*:\s*([1-9])$"
+"ren.*: ([1-6])$"
 ```
 
 - Raridade de Itens
 ```
-"r.*itens: \+[1-8]\d%"
+"r.*itens: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Tamanho do Grupo
 ```
-"ta.*: \+[1-8]\d%"
+"ta.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Efetividade
 ```
-"efet.*: \+[1-8]\d%"
+"efet.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Raridade de Monstros
 ```
-"rar.* mon.*: \+[1-8]\d%"
+"rar.* mon.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
 ```
 
-- Pedra-Guia
+- Pedra-Guia +100%
 ```
-"pedra-guia.*(1[1-9].|[1-4]..)%"
+"pedra.*: \+1\d{2}%"
 ```
 
+- Pedra-Guia +130% para garantir mapas com +7 modificador
+```
+"pedra.*: \+(?:13\d|1[4-9]\d)%"
+```
 # Tábuas lucro 
 Serve para todas as tábuas esses regex abaixo:
 
@@ -95,11 +99,6 @@ Grande maioria dos modificadores da expedição, só fica legal se estiverem com
 - Caixa-forte da Expedição - Fica caro com Monstros Raros
 ```
 "exp.* con.* ca"
-```
-
-- Azmeri adicional - Fica caro com Caixa-forte da Expedição
-```
-"azm.* ad"
 ```
 
 - Chance Superior Vestígio adicional -  Fica caro com modificador rúnico adicional
