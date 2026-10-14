@@ -18,22 +18,22 @@ Tags: [[Path of Exile 2]]
 
 - Raridade de Itens
 ```
-"r.*itens: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
+"r.*itens: \+(?:[7-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Tamanho do Grupo
 ```
-"ta.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
+"ta.*: \+(?:[4-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Efetividade
 ```
-"efet.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
+"efet.*: \+(?:[5-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Raridade de Monstros
 ```
-"rar.* mon.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
+"rar.* mon.*: \+(?:[8-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Pedra-Guia +100%
@@ -59,7 +59,7 @@ Serve para todas as tábuas esses regex abaixo:
 ```
 Apesar de ser bem raro, é legal filtrar essas tábuas..
 
-## ![[Tábua Irradiada.png|38]] <span style="color:rgb(0, 176, 80)">Tábuas Irradiadas</span>
+## ![[Tábua Irradiada.png|38]] Tábuas Irradiadas
 Esses Regex somente serve para as irradiadas.
 
 - Efetividade - Quantidade Monstros Raros
@@ -77,7 +77,7 @@ Esses Regex somente serve para as irradiadas.
 "efet" "rar.* mon"
 ```
 
-## ![[Tábua de Ritual.png|36]] <span style="color:rgb(0, 176, 80)">Tábuas de Ritual</span>
+## ![[Tábua de Ritual.png|36]] Tábuas de Ritual
 Esses regex somente serve para as do Ritual.
 
 - Recriar Favores
@@ -91,15 +91,16 @@ Esses regex somente serve para as do Ritual.
 ```
 Verificar preço, se estiver muito barato, usar ![[Orbe do Caos.png|27]] <span style="color:rgb(255, 192, 0)">Orbe do Caos</span> até juntar com outra coisa relacionado ao ritual..
 
-# ![[Tábua de Expedição.png|37]] <span style="color:rgb(0, 176, 80)">Tábuas de Expedição</span>
+# ![[Tábua de Expedição.png|37]] Tábuas de Expedição
 Esses regex somente serve para as da expedição.
 
 Grande maioria dos modificadores da expedição, só fica legal se estiverem com outros modificadores interessantes.
 
-- Caixa-forte da Expedição - Fica caro com Monstros Raros
+- Caixa-forte da Expedição - Fica caro com Monstros Raros 
 ```
 "exp.* con.* ca"
 ```
+-- Nerfado, não vale mais nada.
 
 - Chance Superior Vestígio adicional -  Fica caro com modificador rúnico adicional
 ```
@@ -117,11 +118,6 @@ Fica MUUUITO caro com Modificador adicional...
 - Circulo Adicional - Fica caro com Únicos tem Modificador adicional
 ```
 "cir.* ad" "uni.* ad" 
-```
-
-- Efetividade - Monstros Raros
-```
-"efet" "q.* mon.* raro"
 ```
 
 - Espelhos Fractais - Tamanho da Pilha
@@ -153,6 +149,7 @@ Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 
 "dadi.* enc" "e: m"
 ```
 Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 0, 0)">não use Orbe da Alquimia nesses!</span>
+Verifique se os valores estão altos
 
 - Sangue e Dádivas de nível maior - Valores altos são caros..
 ```
@@ -166,7 +163,15 @@ Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 
 "inst.* 2.* rar.*"
 ```
 
+- Sangue de Colmeia
+```
+"sangue.* [4-6]\d%"
+```
 
+- Dadivas encontradas
+```
+"dadi.* enc.* [5-6]\d%"
+```
 # ![[Tábua do Abismo.png|42]]Tábuas do Abismo
 - Falta tábuas no mercado, ninguém farmando? ou está ruim os drops?
 
@@ -176,3 +181,4 @@ Precisa ter os 2 modificador junto para valer algo, <span style="color:rgb(255, 
 ```
 "cris.* ad"
 ```
+

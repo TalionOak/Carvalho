@@ -29,7 +29,6 @@ O modificador <span style="color:rgb(0, 176, 80)">Vazio de Amanamu</span> só ap
 | ![[Domínio do Soberano.png\|40]] | Domínio do Soberano | 3   | 1 Exilado Renegado adicional                                                           |
 | ![[O caminho escolhido.png\|40]] | O caminho escolhido | 2   | Exilados Renegados                                                                     |
 | ![[Turbas em Evolução.png\|40]]  | Turbas em Evolução  | 2   | Tamanho de grupos mágicos aumentado em 10%                                             |
-| ![[Domínio da Floresta.png\|40]] | Domínio da Floresta | 3   | Quantidade de monstros raros aumentada                                                 |
 | ![[Senhor do Fosso.png\|40]]     | Senhor do Fosso     | 1   | Fossos Abissais estão espalhados por toda parte em áreas com abismos                   |
 | ![[Senhor do Fosso.png\|40]]     | Equilíbrio de Poder | 1   | Amanamu                                                                                |
 | ![[Senhor do Fosso.png\|40]]     | Tesouros Malignos   | 2   | Presságios                                                                             |
@@ -60,8 +59,8 @@ No prefixo dás tábuas a prioridade é a seguinte:
 2. <span style="color:rgb(0, 176, 240)">Raridade de Monstros</span>
 3. <span style="color:rgb(0, 176, 240)">Tamanho de Grupo</span>
 
-![[Tábua do Abismo.png|50]][Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACnWSQW7DIBBFrxLN2opswI7NrnforooiAqRCso01DFWjiMP0LL1YRZJGthKzAv3_mM8MFwikKAaQF_ATOT-ChGB1RHXsLaQC6DxZkPD--3OMamP85u3owuChuJIB5Mfl36NGAwWcXE8Wb4IzIMENU--0o20GDow3nWBV05VQwJfqo821BzeCrMqUijtkvxeQ4LwtRS2eGL6K7NqOiVYIAWmfPfeQo6dXIZdwxXZNWTdVWd_hJ7-xwWpUZM2N4LuOV3VdtgxWAolKsKbmLWeQ9o--ah_HHMi4kDtuQBJG-9SZlJFHiNtjDrPzbKsV2U-P58VIBzVtKRegPFNU6GhpQIUWUkoFDC7otas9Ypwop5yhJ9WH61cZHKLHNTWoUZM7udd6Xn8PinkCjQIAAA) 2 tábua com;
-- <span style="color:rgb(223, 99, 17)">Mais monstros raros adicionais são gerados do abismo no mapa</span>
+![[Tábua do Abismo.png|50]][Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACnWRTWrDMBCFrxJmLYL-_Kdd79BdCUG21CKwLSONSoPRYXqWXqyoTktME61GzPvmPWZWiKgxRVAr-AWdn0FBtEMKuh8tZAJ4WSwoeP767JM-GH946l2cPJAfMoJ6WX81ejZA4NWNaMPWcAYUuGkZ3eDwWIAzF3UnOas7CgTe9Zhs8Z7cDIrRnMkVsh87qOG8FUxQCg8VbcdlK6WEfCqaa6bZ471Me5jxpqZVzWi1hwef5ru4sdEOQaM12wDRdIJVFW35o3ySSV5XohUc8omAcbEs2IDCkOy_ReSi-XPd8pxv_jfloNG--XDZXXDSyxGLAZYTBh0c7gVBBwu5vG_1sAuZAgIAAA) 2 tábua com;
+- <span style="color:rgb(223, 99, 17)">Abismos no mapa têm uma chance aumentada em #% de levar a uma Profundeza Abissal</span>
 - <span style="color:rgb(223, 99, 17)">Monstros abissais no mapa têm uma chance aumentada de ter modificadores abissais</span>
 ```
 "abiss.* mod"
@@ -75,7 +74,7 @@ No prefixo dás tábuas a prioridade é a seguinte:
 ```
 
 ---
-# Se estiver fazendo cidade, use essas tábas!
+# Se estiver fazendo cidade, use essas tábuas!
 ![[Consequências Imprevistas.png|50]][Comprar](https://br.pathofexile.com/trade2/search/poe2/Forbidden%20Rites/H4sIAAAAAAAACnWRTWrDMBBGrxJmLYLtGDv2rnTVfXclhLGstgPWT6RRaDA6TLe9Ri5WXLfEpmQ3aL73GD6NEBg5BmhHsI7JGmghKBk9doOCJMCgVtDCozVBneL1y0jCsHnSzqszBcYAAvjipszz9bOLuOnt5qGjoC2IH3uA9mX8y6DpQcArDaz8vKAeWiDtBpLE2wk4FruqKYu8ajIQcMYhquk-TQbaPCXxy6iPJbMrmyzf103Z_Geqe1BRl3nR5PuqhnRIh8VhI7DHXh0XD4vReZI3fyZu3cl3tGHqTdphQBfUqln2UUFKaa7sjlwiqzfrLytSo9vy9Cc8yT164nUgGjrN8pS-AVbK_dvWAQAA) 10 tábua do Abismo <span style="color:rgb(223, 99, 17)">Consequências Imprevistas</span>;
 - Se estiver barata, use a única, se estiver caro, use a rara abaixo:
 
