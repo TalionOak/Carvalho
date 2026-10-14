@@ -18,7 +18,7 @@ Tags: [[Path of Exile 2]]
 
 - Raridade de Itens
 ```
-"r.*itens: \+(?:[7-9]\d|100|[1-9]\d{2,})%"
+"r.*itens: \+(?:[4-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Tamanho do Grupo
@@ -28,12 +28,12 @@ Tags: [[Path of Exile 2]]
 
 - Efetividade
 ```
-"efet.*: \+(?:[5-9]\d|100|[1-9]\d{2,})%"
+"efet.*: \+(?:[3-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Raridade de Monstros
 ```
-"rar.* mon.*: \+(?:[8-9]\d|100|[1-9]\d{2,})%"
+"rar.* mon.*: \+(?:[4-9]\d|100|[1-9]\d{2,})%"
 ```
 
 - Pedra-Guia +100%
@@ -173,7 +173,7 @@ Verifique se os valores estão altos
 "dadi.* enc.* [5-6]\d%"
 ```
 # ![[Tábua do Abismo.png|42]]Tábuas do Abismo
-- Falta tábuas no mercado, ninguém farmando? ou está ruim os drops?
+- Falta tábuas no mercado, ninguém farmando? ou está ruim os drops? Recomendo verificar o preço de cada tábua já que existe poucas no mercado.
 
 # ![[Tábua do Templo.png|41]] Tábuas do Templo
 
