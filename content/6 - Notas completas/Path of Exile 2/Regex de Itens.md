@@ -173,7 +173,7 @@ Verifique se os valores estão altos
 "dadi.* enc.* [5-6]\d%"
 ```
 # ![[Tábua do Abismo.png|42]]Tábuas do Abismo
-- Falta tábuas no mercado, ninguém farmando? ou está ruim os drops? Recomendo verificar o preço de cada tábua já que existe poucas no mercado.
+- Falta tábuas no mercado, ninguém farmando? ou está ruim os drops? Recomendo verificar o preço de cada tábua já que existe poucas no mercado. 
 
 # ![[Tábua do Templo.png|41]] Tábuas do Templo
 
