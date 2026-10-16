@@ -9,6 +9,7 @@ Tags: [[Path of Exile 2]]
 
 ![](https://www.youtube.com/watch?v=lRehMwGDehQ)
 
+![[poe-divine-poe.gif|101]] 
 # Mapas
 
 - Mapas com renascimento.
@@ -173,6 +174,37 @@ Verifique se os valores estão altos
 "dadi.* enc.* [5-6]\d%"
 ```
 # ![[Tábua do Abismo.png|42]]Tábuas do Abismo
+
+- Monstros raros e Modificadores Abissais
+```
+"3 mon" "mod.* abiss"
+```
+
+- Monstros raros
+```
+"3 mon"
+```
+
+- Modificadores Abissais
+```
+"mod.* abiss"
+```
+
+- Moeda profanada e Dobro de Chance de Recompensa
+```
+"moe.* prof" "dobro"
+```
+
+- Dobro de Chance de Recompensa
+```
+"dobro"
+```
+
+- Moeda profanada
+```
+"moe.* prof" 
+```
+
 - Falta tábuas no mercado, ninguém farmando? ou está ruim os drops? Recomendo verificar o preço de cada tábua já que existe poucas no mercado. 
 
 # ![[Tábua do Templo.png|41]] Tábuas do Templo
