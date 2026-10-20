@@ -1,5 +1,5 @@
 Status: #inicio
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Abismo]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Abismo]]
 
 ---
 # Como fazer abismo

@@ -1,5 +1,5 @@
-Status: #inicio [[Onde iniciar a missão da Fenda]]
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]]
+Status: #fim
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 
 ---
 # O que fazer com os Fragmentos da Fenda?
@@ -18,8 +18,8 @@ Após conseguir a ![[Pedra de Fenda.png|20]]<span style="color:rgb(0, 176, 80)">
 ![[Uma fortaleza da fenda relevada no fim de jogo.png|338]]
 
 Nessa região você vai encontrar:
-- [[Como fechar uma fortaleza da fenda|2 ~ 3 Fortalezas da fenda]]
-- [[Como fechar uma colônia da colmeia|1 Colônia da fenda]]
-- [[Como fechar uma colmeia da fenda|Biomas da fortaleza da fenda]]
+- [[Fortaleza da Colmeia|2 ~ 3 Fortalezas da fenda]]
+- [[Colônia da Colmeia|1 Colônia da fenda]]
+- [[Colmeia da Fenda|Biomas da fortaleza da fenda]]
 
 É aqui também onde você enfrenta o [[Aquilo que foi Tul e aquilo que foi Esh]], um passo importante para enfrentar [[Xesht, Somos Um]].

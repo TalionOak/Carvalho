@@ -1,14 +1,9 @@
 Status: #fim
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 
 ---
 # Catalisadores de joias
 Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melhora os modificadores</span>** do **<span style="color:rgb(0, 176, 80)">anel</span>, <span style="color:rgb(0, 176, 80)">amuleto</span>** e **<span style="color:rgb(0, 176, 80)">joia</span>**.. 
-
->[!warning] Cuidado!
->Se você adicionar um catalisador diferente em um item com catalisador já presente, ele substitui o catalisador anterior!
-
-# Efeitos
 
 |                     Icone                      | Nome                              |          Efeitos nas Joias           |
 | :--------------------------------------------: | :-------------------------------- | :----------------------------------: |
@@ -24,6 +19,8 @@ Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melh
 |  ![[Catalisador Sibilante Refinado.png\|40]]   | Catalisador Sibilante Refinado    |              Conjutador              |
 |  ![[Catalisador Rastejante Refinado.png\|40]]  | Catalisador Rastejante Refinado   |              Velocidade              |
 |  ![[Catalisador Adaptável Refinado.png\|40]]   | Catalisador Adaptável Refinado    |               Atributo               |
+>[!warning]- Cuidado!
+>Se você adicionar um catalisador diferente em um item com catalisador já presente, ele substitui o catalisador anterior!
 
 Você pode ver todos os modificadores que são influenciados por catalisadores acessando o PoE2DB abaixo:
 - [Rubi](https://poe2db.tw/us/Ruby)
@@ -32,4 +29,4 @@ Você pode ver todos os modificadores que são influenciados por catalisadores a
 
 Para conseguir esses catalisadores, você precisa habilitar os respectivos pontos na [[Árvore de Gênese]] na categoria de Moedas:
 
-![[Catalisadores de joias.png]]
+![[Catalisadores de joias.png|374]]

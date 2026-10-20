@@ -1,5 +1,5 @@
 Status: #meio
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Farm]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Farm]], [[Fenda]]
 
 ---
 # Farm de Dadivas do Ventre

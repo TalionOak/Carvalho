@@ -1,5 +1,5 @@
 Status: #inicio #meio #fim
-Tags: [[Path of Exile 2]], [[Expedição]], [[Mecânicas do End Game]], [[Expedição]]
+Tags: [[Path of Exile 2]], [[Expedição]], [[Mecânicas do Atlas]], [[Expedição]]
 
 ---
 Sempre começar pelas pedras ezomytas com menor espaço de runas, já que cada runa vai para a proxima pedra na linha de explosão.. 

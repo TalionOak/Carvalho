@@ -1,11 +1,9 @@
 Status: #fim 
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 
 ---
 # Bolsa do Lorde da Fenda
 | Icone                                | Nome                        | Tipo      |
 | ------------------------------------ | --------------------------- | --------- |
 | ![[Bolsa do Lorde da Fenda.png\|50]] | [[Bolsa do Lorde da Fenda]] | Fragmento |
-Você consegue ao matar [[Como fechar uma colônia da colmeia|Tul e Esh]].
-
-A [[Bolsa do Lorde da Fenda]] é um item de sincronia, ele permite localizar o [[Xesht, Somos Um]] no reino da fenda.
+Você consegue esse item ao matar [[Aquilo que foi Tul e aquilo que foi Esh]]. Item importante para enfrentar o [[Xesht, Somos Um]]!

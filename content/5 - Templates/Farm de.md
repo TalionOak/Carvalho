@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Farm]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Farm]]
 
 ---
 # {{Title}}

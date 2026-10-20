@@ -1,5 +1,5 @@
 Status: #fim
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Fenda]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 
 ---
 # Dádivas do Ventre

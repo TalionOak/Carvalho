@@ -1,5 +1,5 @@
 Status: #fim 
-Tags: [[Path of Exile 2]], [[Mecânicas do End Game]], [[Farm]], [[Ritual]]
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Farm]], [[Ritual]]
 
 ---
 # Farm de Presságios do Ritual
