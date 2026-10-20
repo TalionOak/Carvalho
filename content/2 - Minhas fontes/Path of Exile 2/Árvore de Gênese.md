@@ -1,4 +1,4 @@
-Status: #meio 
+Status: #fim
 Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 
 ---
@@ -25,10 +25,13 @@ A Árvore da Gênese pode gerar bases de itens exclusivas, bem como [[Catalisado
 > Ao manter pressionada a tecla Ctrl enquanto clica com o botão esquerdo do mouse no botão "Usar Dádivas do Ventre", o cursor mudará para permitir o uso rápido de outras dádivas do ventre, clicando neles com o botão esquerdo do mouse.
 
 # Dádivas da Árvore de Gênese
+
+^80e7f2
+
 Cada um dos quatro ventres (Moeda, Amuleto, Anel e Cinto) tem inicialmente todos os nós da árvore passiva bloqueados e não atribuíveis. Dar à luz um item desbloqueará de 3 a 5 nós. São necessários cerca de 10 nascimentos em cada ventre para desbloquear completamente a árvore passiva correspondente. O nível das dádivas do ventre não importa para o desbloqueio, portanto, usar dádivas do ventres de nível inferior pode ser vantajoso durante o processo de desbloqueio para economizar [[Sangue de Colmeia]]. Dádivas do Ventres de nível muito baixo podem custar um quinto ou menos para serem dados à luz do que os de nível mais alto.
 
-- Dádiva do Ventre Ornada
+- [[Dádiva do Ventre Ornada]]
 - [[Dádiva do Ventre Listrada]]
-- Dádiva do Ventre Reveladora
-- Dádiva do Ventre Generosa
-- Dádiva do Ventre Sinete
+- [[Dádiva do Ventre Generosa]]
+- [[Dádiva do Ventre Sinete]]
+- [[O que fazer com os Fragmentos da Fenda|Dádiva do Ventre Reveladora]]

@@ -4,9 +4,9 @@ Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 ---
 # Dádiva do Ventre Listrada
 
-| Icone                                  | Descrição                                             |
-| -------------------------------------- | ----------------------------------------------------- |
-| ![[Dádiva do Ventre Listrada.png\|66]] | Pode crescer e se tornar um cinto na Árvore de Gênese |
+| Icone                                  | Nome                      | Descrição                                             |
+| -------------------------------------- | ------------------------- | ----------------------------------------------------- |
+| ![[Dádiva do Ventre Listrada.png\|66]] | Dádiva do Ventre Listrada | Pode crescer e se tornar um cinto na Árvore de Gênese |
 
 ![[Pasted image 20261020032757.png|685]]
 # Cintos Exclusivos da Árvore de Gênese 

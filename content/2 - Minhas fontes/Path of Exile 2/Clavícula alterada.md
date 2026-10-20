@@ -1,5 +1,5 @@
-Status: #inicio
-Tags: [[Path of Exile 2]], [[Fenda]]
+Status: #fim
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 
 ---
 # Clavícula alterada
@@ -18,4 +18,4 @@ Você pode ver todos os modificadores abaixo acessando o PoE2DB:
 - [Cinto](https://poe2db.tw/us/Belts#ModifiersCalc)
 Grande parte dos modificadores são relacionados a lacaios, mas existem outros interessantes para builds de conjuração também.
 
-Por ser uma moeda de profanação, você pode combinar com os <span style="color:rgb(112, 48, 160)">presságios do abismo</span> e a ![[Essência de abismo.png|20]] [[Essência de abismo]]
+Por ser uma moeda de profanação, você pode combinar com o presságios do abismo e a ![[Essência de abismo.png|20]] Essência de abismo
