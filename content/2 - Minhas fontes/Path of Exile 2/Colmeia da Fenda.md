@@ -4,7 +4,7 @@ Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 ---
 # Colmeia da Fenda
 
-As Colmeias da Fenda são grandes brechas estabilizadas cercadas por paredes orgânicas. Ao se aproximar dessas paredes, elas se desintegrarão em chamas. Há também inúmeras fissuras que se rompem e queimam paredes em uma grande área, podendo detonar fissuras próximas e criar uma reação em cadeia.
+As Colmeias da Fenda são grandes brechas estabilizadas cercadas por paredes orgânicas. Ao se aproximar dessas paredes, elas se desintegrarão em chamas. 
 
 No centro da Colmeia da Fenda, haverá um botão que permite invocar [[Ailith]] e iniciar a missão, na qual você precisa protegê-la de ondas de inimigos Nascidos da Colmeia até que ela possa realizar um ritual para destruir a Colmeia da Fenda.
 

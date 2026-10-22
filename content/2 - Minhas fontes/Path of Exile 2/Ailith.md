@@ -1,5 +1,5 @@
 Status: #inicio 
-Tags: [[Path of Exile 2]]
+Tags: [[Path of Exile 2]], [[NPC]], [[Fenda]]
 
 ---
 # Ailith

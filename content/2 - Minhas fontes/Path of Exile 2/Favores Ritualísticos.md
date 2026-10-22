@@ -1,0 +1,35 @@
+Status: #meio
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Ritual]]
+
+---
+# Favores Ritualísticos
+
+| Item                                                                                                                                    | Efeito                                               | Item                                                                                                                                        | Efeito                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| ![[Presságio do Ressurgimento.png\|25]][Presságio do Ressurgimento](https://poe2db.tw/pt/Omen_of_Resurgence)                            | Restaura Vida, Mana e Escudo de Energia              | ![[Presságio do Revigoramento.png\|25]][Presságio do Revigoramento](https://poe2db.tw/pt/Omen_of_Refreshment)                               | Restaura as cargas dos Frascos e Patuás                |
+| ![[Presságio da Melhora.png\|25]][Presságio da Melhora](https://poe2db.tw/pt/Omen_of_Amelioration)                                      | Impede 75% da perda de experiência ao morrer         | ![[Presságio dos Antigos.png\|25]][Presságio dos Antigos](https://poe2db.tw/pt/Omen_of_the_Ancients)                                        | Orbe da Chance transforma o item em um Único aleatório |
+| ![[Presságio da Chance.png\|25]][Presságio da Chance](https://poe2db.tw/pt/Omen_of_Chance)                                              | Orbe da Chance transforma o item em único            | ![[Presságio da Aposta.png\|25]][Presságio da Aposta](https://poe2db.tw/pt/Omen_of_Gambling)                                                | Aposta tem 50% de chance de não custar Ouro            |
+| ![[Presságio da Negociação.png\|25]][Presságio da Negociação](https://poe2db.tw/pt/Omen_of_Bartering)                                   | Ouro do próximo item vendido será recalculado        | ![[Presságio da Efetividade Caótica.png\|25]][Presságio da Efetividade Caótica](https://poe2db.tw/pt/Omen_of_Chaotic_Effectiveness)         | Não cai Efetividade de Monstros na Pedra-guia          |
+| ![[Presságio dos Monstros Caóticos.png\|25]][Presságio dos Monstros Caóticos](https://poe2db.tw/pt/Omen_of_Chaotic_Monsters)            | Não cai Raridade de Monstros na Pedra-guia           | ![[Presságio da Raridade Caótica.png\|25]][Presságio da Raridade Caótica](https://poe2db.tw/pt/Omen_of_Chaotic_Rarity)                      | Não cai Raridade de Itens na Pedra-guia                |
+| ![[Presságio da Quantidade Caótica.png\|25]][Presságio da Quantidade Caótica](https://poe2db.tw/pt/Omen_of_Chaotic_Quantity)            | Não cai Tamanho do Grupo de Monstros na Pedra-guia   | ![[Presságio da Exaltação Canhota.png\|27]][Presságio da Exaltação Canhota](https://poe2db.tw/pt/Omen_of_Sinistral_Exaltation)              | Orbe Exaltado adiciona somente no prefixo              |
+| ![[Presságio da Exaltação Maior.png\|25]][Presságio da Exaltação Maior](https://poe2db.tw/pt/Omen_of_Greater_Exaltation)                | Orbe Exaltado adiciona 2 modificadores               | ![[Presságio da Exaltação Destra.png\|25]][Presságio da Exaltação Destra](https://poe2db.tw/pt/Omen_of_Dextral_Exaltation)                  | Orbe Exaltado adiciona somente no sufixo               |
+| ![[Presságio da Cristalização Destra.png\|25]][Presságio da Cristalização Destra](https://poe2db.tw/pt/Omen_of_Dextral_Crystallisation) | Essência Perfeita ou Corrompida remove só o sufixo   | ![[Presságio da Cristalização Canhota.png\|28]][Presságio da Cristalização Canhota](https://poe2db.tw/pt/Omen_of_Sinistral_Crystallisation) | Essência Perfeita ou Corrompida remove só o prefixo    |
+| ![[Presságio do Desgaste.png\|25]][Presságio do Desgaste](https://poe2db.tw/pt/Omen_of_Whittling)                                       | Orbe do Caos remove o modificador de menor nível     | ![[Presságio da Exaltação Catalisadora.png\|25]][Presságio da Exaltação Catalisadora](https://poe2db.tw/pt/Omen_of_Catalysing_Exaltation)   | Orbe Exaltado consome qualidade para aumentar a chance |
+| ![[Presságio da Eliminação Destra.png\|25]][Presságio da Eliminação Destra](https://poe2db.tw/pt/Omen_of_Dextral_Erasure)               | Orbe do Caos remove só o sufixo                      | ![[Presságio da Eliminação Canhota.png\|25]][Presságio da Eliminação Canhota](https://poe2db.tw/pt/Omen_of_Sinistral_Erasure)               | Orbe do Caos remove só o prefixo                       |
+| ![[Presságio da Anulação Destra.png\|25]][Presságio da Anulação Destra](https://poe2db.tw/pt/Omen_of_Dextral_Annulment)                 | Orbe de Anulação remove só o sufixo                  | ![[Presságio da Anulação Canhota.png\|25]][Presságio da Anulação Canhota](https://poe2db.tw/pt/Omen_of_Sinistral_Annulment)                 | Orbe de Anulação remove só o prefixo                   |
+| ![[Presságio dos Abençoados.png\|25]][Presságio dos Abençoados](https://poe2db.tw/pt/Omen_of_the_Blessed)                               | Orbe Divino modifica os implícitos                   | ![[Presságio da Santificação.png\|25]][Presságio da Santificação](https://poe2db.tw/pt/Omen_of_Sanctification)                              | Orbe Divino santifica o item                           |
+
+Após a conclusão de todos os [[Altar Ritualístico|altares rituais]], você poderá visualizar suas recompensas (Favores). A tela de recompensas oferece uma seleção de favores para compra, em troca de tributo. Os rituais oferecerão uma variedade de itens únicos e Presságios.
+
+Você também pode pagar tributo para rerolar os itens oferecidos, até uma vez por padrão. O custo para rerolar favores não pode ser reduzido além de 90%.
+
+Os itens oferecidos podem ser adiados, pagando 15% do seu custo para que apareçam em futuros encontros rituais com um desconto de 10%. Os 5% restantes correspondem à taxa de adiamento. Um item adiado pode ter seu preço aumentado se não for adiado novamente na próxima vez que aparecer. Se o item permanecer sem adiamento por muitas vezes, você receberá um aviso de que ele será removido da lista de itens adiados caso não seja adiado novamente.
+![[Pasted image 20260605174850.png|108]]
+
+As recompensas são classificadas por preço, portanto, os itens no canto superior esquerdo contêm os itens mais caros. Cada item obtido como recompensa pelo ritual é agrupado em um nível e sempre terá um custo semelhante.
+
+Qualquer tributo não gasto pode ser oferecido pressionando o botão "[[Oferecer Tributo ao Rei]]" na parte inferior, que preenche uma barra indicando a quantidade de tributo necessária para obter a ![[Audiência com o Rei.png|33]][[Audiência com o Rei]].
+![[Pasted image 20261022174554.png|576]]
+
+# Efeito das Tábuas de Ritual
+![[image.jpg|665]]

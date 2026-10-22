@@ -18,7 +18,7 @@ Se você conseguir preencher completamente a barra, quando a seção mais clara 
 Ocasionalmente, após eliminar todos os monstros Raros, a Fenda pode invocar [[Vruun, Marechal de Xesht]], em vez de colapsar. Se isso acontecer, a Fenda colapsará após a morte de Vruun.
 ![[{FE274248-BAC1-42F1-9711-E42FBE88F82C}.png|255]]
 
-Assim que o encontro com a Fenda terminar, seja prematuramente ou não, os itens obtidos nesse encontro serão deixados no local onde o jogador dono do mapa se encontrava.
+Assim que o encontro com a Fenda terminar, seja prematuramente ou não, os [[Recompensas da fenda|itens obtidos nesse encontro]] serão deixados no local onde o jogador dono do mapa se encontrava.
 
 ![[Recompensa da fenda.png|304]]
 

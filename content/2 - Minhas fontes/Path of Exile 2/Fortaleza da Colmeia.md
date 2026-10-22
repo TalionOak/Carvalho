@@ -21,7 +21,7 @@ Além das habilidades de chama roxa encontradas em encontros normais com a Colme
 - **Gerar um grupo adicional com um monstro raro no início de cada onda**.
 - **Gerar 2 grupos adicionais de Monstros Mágicos no início de cada onda**.
 
-Após concluir todas as ondas, você precisará escapar da Fortaleza da Colmeia. Vários corredores serão bloqueados na saída, e o núcleo liberará um pulso de energia que atingirá todo o mapa, causando dano. <span style="color:rgb(0, 176, 80)">Essas ondas não causarão atordoamento enquanto você estiver correndo</span>. Ao sair da Fortaleza, o mapa estará concluído e todas as recompensas do encontro serão obtidas.
+Após concluir todas as ondas, você precisará escapar da Fortaleza da Colmeia. Vários corredores serão bloqueados na saída, e o núcleo liberará um pulso de energia que atingirá todo o mapa, causando dano. <span style="color:rgb(0, 176, 80)">Essas ondas não causarão atordoamento enquanto você estiver correndo</span>. Ao sair da Fortaleza, o mapa estará concluído e todas as [[Recompensas da fenda|recompensas]] do encontro serão obtidas.
 ![[Recompensa da fortaleza da fenda.png|409]]
 
 # Como encontrar uma Fortaleza da Colmeia
