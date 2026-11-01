@@ -8,7 +8,7 @@ Tags: [[Path of Exile 2]], [[Farm]]
 
 # Estratégia do Farm
 
-A única forma de conseguir ![[Orbe talhador.png|30]][<span style="color:rgb(0, 176, 80)">Orbe Talhador</span>](https://poe2db.tw/pt/Fracturing_Orb) é indo em <span style="color:rgb(223, 99, 17)">mapas purificados</span> e eliminando <span style="color:rgb(223, 99, 17)">monstros purificados</span>.
+A única forma de conseguir ![[Orbe talhador.png|28]][<span style="color:rgb(0, 176, 80)">Orbe Talhador</span>](https://poe2db.tw/pt/Fracturing_Orb) é indo em <span style="color:rgb(223, 99, 17)">mapas purificados</span> e eliminando <span style="color:rgb(223, 99, 17)">monstros purificados</span>.
 
 Para purificar uma região, você precisa matar o chefe da corrupção em um Nexus Corrompido:
 
@@ -37,7 +37,7 @@ Lembre-se também de pegar os pontos de monstros purificados no canto esquerdo d
 
 # ![[Pedra-guia.png|40]]Mapas
 
-![[Pasted image 20261001152853.png|43]] <span style="color:rgb(223, 99, 17)">Floração Sagrada</span> em todos os mapas!
+![[Pasted image 20261001152853.png|35]] <span style="color:rgb(223, 99, 17)">Floração Sagrada</span> em todos os mapas!
 
 ![[Pasted image 20261001150155.png]] 
 

@@ -1,0 +1,17 @@
+Status: #inicio 
+Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Abismo]]
+
+---
+# Presságios do Abismo
+
+| Item                                                                                                                          | Efeito                                                                                                          | Item                                                                                                                       | Efeito                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![[Pasted image 20261031231249.png\|34]][Presságio dos Ecos Abissais](https://poe2db.tw/pt/Omen_of_Abyssal_Echoes)            | Permite trocar uma vez as opções ao revelar modificadores profanados.                                           | ![[Pasted image 20261031231301.png\|39]][Presságio da Necromancia Destra](https://poe2db.tw/pt/Omen_of_Dextral_Necromancy) | Sua profanação adicionará apenas modificadores de sufixo.                          |
+| ![[Pasted image 20261031231331.png\|36]][Presságio da Necromancia Canhota](https://poe2db.tw/pt/Omen_of_Sinistral_Necromancy) | Sua profanação adicionará apenas modificadores de prefixo.                                                      | ![[Pasted image 20261031231311.png\|39]][Presságio da Luz](https://poe2db.tw/pt/Omen_of_Light)                             | Seu Orbe da Anulação removerá apenas modificadores profanados.                     |
+| ![[Pasted image 20261031231322.png\|35]][Presságio da Putrefação](https://poe2db.tw/pt/Omen_of_Putrefaction)                  | Sua Profanação substituirá todos os modificadores do item, criando até 6 modificadores ocultos e corrompendo-o. | ![[Pasted image 20261031231340.png\|42]][Presságio do Sangue-negro](https://poe2db.tw/pt/Omen_of_the_Blackblooded)         | Garante um modificador aleatório de Kurgal na próxima profanação de arma ou joia.  |
+| ![[Pasted image 20261031232023.png\|41]][Presságio do Suserano](https://poe2db.tw/pt/Omen_of_the_Sovereign)                   | Garante um modificador aleatório de Ulaman na próxima profanação de arma ou joia.                               | ![[Pasted image 20261031231358.png\|37]][Presságio do Soberano](https://poe2db.tw/pt/Omen_of_the_Liege)                    | Garante um modificador aleatório de Amanamu na próxima profanação de arma ou joia. |
+
+
+Presságios são um tipo de item monetário. Ativar um presságio garante um resultado específico quando sua condição for atendida, como um resultado garantido em uma criação ou um efeito no personagem do jogador. Uma vez ativado, o presságio é consumido. 
+
+Os presságios do Abismo têm a chance de cair de monstros Raros do Abismo com um modificador Abissal, sendo eles "Vazio do Amanamu", "Kurgal's Final Gasp" ou "Legião do Ulaman". Especialmente para Vazio do Amanamu que garante sempre a queda de pelo menos um presságio.

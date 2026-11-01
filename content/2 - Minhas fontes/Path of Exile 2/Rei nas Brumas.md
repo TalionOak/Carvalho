@@ -12,11 +12,12 @@ Esse chefe possui duas fases.
 
 | Icone                                    | Nome                                                                              | Chance |
 | ---------------------------------------- | --------------------------------------------------------------------------------- | ------ |
-| ![[Pasted image 20261022183336.png\|61]] | [[Cabeça do Rei]]                                                                 | 100%   |
-| ![[Pasted image 20261022183231.png\|68]] | [Chave do Relicário Ritualístico](https://poe2db.tw/pt/Ritualistic_Reliquary_Key) | 0.5%   |
-| ![[Pasted image 20261022183146.png\|67]] | [Do Nada Diamante](https://poe2db.tw/pt/From_Nothing)                             | 11%    |
-| ![[Pasted image 20261022183038.png\|63]] | [Engenhosidade Cinto de Utilidade](https://poe2db.tw/pt/Ingenuity)                | 23%    |
-| ![[Pasted image 20261022183131.png\|61]] | [Pragmatismo Armadura do Explorador](https://poe2db.tw/pt/Pragmatism)             | 6%     |
-| ![[Pasted image 20261022182941.png\|62]] | [Mordinseto Sapatos de Veludo](https://poe2db.tw/pt/Beetlebite)                   | 40%    |
-| ![[Pasted image 20261022183104.png\|67]] | [O Fardo das Sombras Cajado Sonoro](https://poe2db.tw/pt/The_Burden_of_Shadows)   | 8%     |
+| ![[Pasted image 20261022183336.png\|42]] | [[Cabeça do Rei]]                                                                 | 100%   |
+| ![[Pasted image 20261022183231.png\|39]] | [Chave do Relicário Ritualístico](https://poe2db.tw/pt/Ritualistic_Reliquary_Key) | 0.5%   |
+| ![[Pasted image 20261022183146.png\|44]] | [Do Nada Diamante](https://poe2db.tw/pt/From_Nothing)                             | 11%    |
+| ![[Pasted image 20261022183038.png\|35]] | [Engenhosidade Cinto de Utilidade](https://poe2db.tw/pt/Ingenuity)                | 23%    |
+| ![[Pasted image 20261022183131.png\|45]] | [Pragmatismo Armadura do Explorador](https://poe2db.tw/pt/Pragmatism)             | 6%     |
+| ![[Pasted image 20261022182941.png\|45]] | [Mordinseto Sapatos de Veludo](https://poe2db.tw/pt/Beetlebite)                   | 40%    |
+| ![[Pasted image 20261022183104.png\|28]] | [O Fardo das Sombras Cajado Sonoro](https://poe2db.tw/pt/The_Burden_of_Shadows)   | 8%     |
+
 [Drops coletados da Wiki](https://www.poe2wiki.net/wiki/The_King_in_the_Mists).
