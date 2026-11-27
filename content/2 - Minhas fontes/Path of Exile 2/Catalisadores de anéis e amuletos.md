@@ -5,6 +5,8 @@ Tags: [[Path of Exile 2]], [[Mecânicas do Atlas]], [[Fenda]]
 # Catalisadores de anéis e amuletos
 Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melhora os modificadores</span>** do **<span style="color:rgb(0, 176, 80)">anel</span>, <span style="color:rgb(0, 176, 80)">amuleto</span>** e **<span style="color:rgb(0, 176, 80)">joia</span>**.. 
 
+
+
 |                 Icone                 | Nome                     |     Efeitos no Anéis e Amuletos      |
 | :-----------------------------------: | :----------------------- | :----------------------------------: |
 |   ![[Catalisador de Carne.png\|40]]   | Catalisador de Carne     |                 Vida                 |
@@ -19,6 +21,8 @@ Catalisadores adiciona qualidade que **<span style="color:rgb(255, 192, 0)">melh
 |  ![[Catalisador Sibilante.png\|40]]   | Catalisador Sibilante    |              Conjurador              |
 |  ![[Catalisador de Chayula.png\|40]]  | Catalisador de Chayula   |                 Caos                 |
 |  ![[Catalisador Rastejante.png\|40]]  | Catalisador Rastejante   |              Velocidade              |
+
+
 >[!warning]- Cuidado!
 >Se você adicionar um catalisador diferente em um item com catalisador já presente, ele substitui o catalisador anterior!
 

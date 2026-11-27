@@ -10,6 +10,7 @@ Para enfrentar esse chefe, você deve usar uma [[Audiência com o Rei]] no [[Atl
 Esse chefe possui duas fases. 
 # Recompensa pela eliminação
 
+
 | Icone                                    | Nome                                                                              | Chance |
 | ---------------------------------------- | --------------------------------------------------------------------------------- | ------ |
 | ![[Pasted image 20261022183336.png\|42]] | [[Cabeça do Rei]]                                                                 | 100%   |

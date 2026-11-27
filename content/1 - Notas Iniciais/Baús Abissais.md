@@ -14,6 +14,7 @@ Tags: [[Path of Exile 2]] ,[[Mecânicas do Atlas]], [[Abismo]]
 | ![[Pasted image 20261031222524.png\|45]] | Costelas Antigas     | Profana uma armadura rara com modificadores de no mínimo nível 40              |
 | ![[Pasted image 20261031222548.png\|45]] | Crânio Conservado    | Profana uma joia rara<br>                                                      |
 
+
 Baús Abissais mágicos ou de raridade rara pode conter recompensas aleatórias e Ossos Abissais.
 - Arsenal Abissal: Contém apenas itens de armadura e ossos de costela preservados.
 - Deposito de Armas Abissal: Contém apenas itens de armas e ossos de mandíbula preservados.
