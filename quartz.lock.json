@@ -133,12 +133,6 @@
       "commit": "67e731c94f648e4cde506c552011240b80c74945",
       "installedAt": "2026-11-27T15:31:57.464Z"
     },
-    "hard-line-breaks": {
-      "source": "github:quartz-community/hard-line-breaks",
-      "resolved": "https://github.com/quartz-community/hard-line-breaks.git",
-      "commit": "8c14ad4ffea416baefcd2e2abdd5c41334846556",
-      "installedAt": "2026-11-27T15:31:58.378Z"
-    },
     "latex": {
       "source": "github:quartz-community/latex",
       "resolved": "https://github.com/quartz-community/latex.git",
