@@ -4,15 +4,6 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempest
 ---
 ![](https://youtu.be/yx0YorhweGw)
 
-> [!info]- Versão baratinha
-> ![](https://youtu.be/XoNbFv31CD8)
-
-> [!info]- Versão mediana
-> ![](https://www.youtube.com/watch?v=9TYx7hv86Q4)
-
-> [!info]- Versão final
-> ![](https://youtu.be/3OXt6KATwX8)
-
 | Classe     | Ascendencia | Custo | Dificuldade | Começo de Liga? |
 | ---------- | ----------- | ----- | ----------- | --------------- |
 | Feiticeira | Tempesta    | ⭐⭐⭐   | ⭐⭐⭐⭐⭐       | NÃO             |
@@ -21,6 +12,9 @@ Tags: [[Path of Exile 2]], [[Path of Exile 2 Builds]], [[Feiticeira]], [[Tempest
 [![[poe.ninja.png\|100]]](https://poe.ninja/poe2/profile/TalionOak-5124) ![[Mobali.png|100]]
 *<span style="color:rgb(255, 192, 0)">Clique na foto para acessar o site com a build!</span>
 *Sem guia no mobalytics por enquanto..*
+
+# Seguir a build
+- [Level 1~15](https://pathofexile2.com/br/build/WOEooiE)
 
 ## Outras versões
 - Nível 65 - Barata - [Maxroll](https://maxroll.gg/poe2/pob/ebl1m20t) - [PobIn](https://pobb.in/t-7jJ8srC-ze) - [PoENinja](https://poe.ninja/poe2/pob/2627a) - [PoE2DB](https://poe2db.tw/pob/B89ehoiXw6)
